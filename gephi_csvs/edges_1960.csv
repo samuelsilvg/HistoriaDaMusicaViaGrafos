@@ -1,0 +1,352 @@
+Source,Target,Weight,Decada,Pais,Genero
+Tina Turner,Johnny Hallyday,2,1960,Nenhum,"Pop, Rock"
+Tina Turner,Aretha Franklin,2,1960,United States,Nenhum
+Tina Turner,The Beatles,2,1960,Nenhum,"Pop, Rock"
+Tina Turner,Stevie Wonder,2,1960,United States,Nenhum
+Tina Turner,The Beach Boys,3,1960,United States,"Pop, Rock"
+Tina Turner,The Rolling Stones,2,1960,Nenhum,Rock
+Tina Turner,Barbra Streisand,3,1960,United States,Pop
+Tina Turner,Bee Gees,2,1960,Nenhum,Pop
+Tina Turner,Bob Dylan,3,1960,United States,Rock
+Tina Turner,Simon & Garfunkel,2,1960,United States,Nenhum
+Tina Turner,Cher,3,1960,United States,"Pop, Rock"
+Tina Turner,Neil Diamond,3,1960,United States,"Pop, Rock"
+Tina Turner,Olivia Newton-John,2,1960,Nenhum,Pop
+Tina Turner,Pink Floyd,1,1960,Nenhum,Nenhum
+Tina Turner,The Doors,2,1960,United States,Nenhum
+Tina Turner,David Bowie,2,1960,Nenhum,Pop
+Tina Turner,Bob Seger,3,1960,United States,Rock
+Tina Turner,Julio Iglesias,1,1960,Nenhum,Nenhum
+Tina Turner,Fleetwood Mac,3,1960,United States,"Pop, Rock"
+Tina Turner,Linda Ronstadt,3,1960,United States,Rock
+Tina Turner,Led Zeppelin,1,1960,Nenhum,Nenhum
+Tina Turner,Rod Stewart,2,1960,Nenhum,"Pop, Rock"
+Tina Turner,Santana,3,1960,United States,Rock
+Tina Turner,Chicago,3,1960,United States,"Pop, Rock"
+Tina Turner,The Carpenters,3,1960,United States,Pop
+Tina Turner,Genesis,1,1960,Nenhum,Nenhum
+Johnny Hallyday,Aretha Franklin,1,1960,Nenhum,Nenhum
+Johnny Hallyday,The Beatles,2,1960,Nenhum,"Pop, Rock"
+Johnny Hallyday,Stevie Wonder,1,1960,Nenhum,Nenhum
+Johnny Hallyday,The Beach Boys,2,1960,Nenhum,"Pop, Rock"
+Johnny Hallyday,The Rolling Stones,2,1960,Nenhum,Rock
+Johnny Hallyday,Barbra Streisand,2,1960,Nenhum,Pop
+Johnny Hallyday,Bee Gees,2,1960,Nenhum,Pop
+Johnny Hallyday,Bob Dylan,2,1960,Nenhum,Rock
+Johnny Hallyday,Simon & Garfunkel,1,1960,Nenhum,Nenhum
+Johnny Hallyday,Cher,2,1960,Nenhum,"Pop, Rock"
+Johnny Hallyday,Neil Diamond,2,1960,Nenhum,"Pop, Rock"
+Johnny Hallyday,Olivia Newton-John,2,1960,Nenhum,Pop
+Johnny Hallyday,Pink Floyd,1,1960,Nenhum,Nenhum
+Johnny Hallyday,The Doors,1,1960,Nenhum,Nenhum
+Johnny Hallyday,David Bowie,2,1960,Nenhum,Pop
+Johnny Hallyday,Bob Seger,2,1960,Nenhum,Rock
+Johnny Hallyday,Julio Iglesias,1,1960,Nenhum,Nenhum
+Johnny Hallyday,Fleetwood Mac,2,1960,Nenhum,"Pop, Rock"
+Johnny Hallyday,Linda Ronstadt,2,1960,Nenhum,Rock
+Johnny Hallyday,Led Zeppelin,1,1960,Nenhum,Nenhum
+Johnny Hallyday,Rod Stewart,2,1960,Nenhum,"Pop, Rock"
+Johnny Hallyday,Santana,2,1960,Nenhum,Rock
+Johnny Hallyday,Chicago,2,1960,Nenhum,"Pop, Rock"
+Johnny Hallyday,The Carpenters,2,1960,Nenhum,Pop
+Johnny Hallyday,Genesis,1,1960,Nenhum,Nenhum
+Aretha Franklin,The Beatles,1,1960,Nenhum,Nenhum
+Aretha Franklin,Stevie Wonder,3,1960,United States,"R&B, Soul"
+Aretha Franklin,The Beach Boys,2,1960,United States,Nenhum
+Aretha Franklin,The Rolling Stones,1,1960,Nenhum,Nenhum
+Aretha Franklin,Barbra Streisand,2,1960,United States,Nenhum
+Aretha Franklin,Bee Gees,1,1960,Nenhum,Nenhum
+Aretha Franklin,Bob Dylan,2,1960,United States,Nenhum
+Aretha Franklin,Simon & Garfunkel,2,1960,United States,Nenhum
+Aretha Franklin,Cher,2,1960,United States,Nenhum
+Aretha Franklin,Neil Diamond,2,1960,United States,Nenhum
+Aretha Franklin,Olivia Newton-John,1,1960,Nenhum,Nenhum
+Aretha Franklin,Pink Floyd,1,1960,Nenhum,Nenhum
+Aretha Franklin,The Doors,2,1960,United States,Nenhum
+Aretha Franklin,David Bowie,1,1960,Nenhum,Nenhum
+Aretha Franklin,Bob Seger,2,1960,United States,Nenhum
+Aretha Franklin,Julio Iglesias,1,1960,Nenhum,Nenhum
+Aretha Franklin,Fleetwood Mac,2,1960,United States,Nenhum
+Aretha Franklin,Linda Ronstadt,2,1960,United States,Nenhum
+Aretha Franklin,Led Zeppelin,1,1960,Nenhum,Nenhum
+Aretha Franklin,Rod Stewart,1,1960,Nenhum,Nenhum
+Aretha Franklin,Santana,2,1960,United States,Nenhum
+Aretha Franklin,Chicago,2,1960,United States,Nenhum
+Aretha Franklin,The Carpenters,2,1960,United States,Nenhum
+Aretha Franklin,Genesis,1,1960,Nenhum,Nenhum
+The Beatles,Stevie Wonder,1,1960,Nenhum,Nenhum
+The Beatles,The Beach Boys,2,1960,Nenhum,"Pop, Rock"
+The Beatles,The Rolling Stones,3,1960,United Kingdom,Rock
+The Beatles,Barbra Streisand,2,1960,Nenhum,Pop
+The Beatles,Bee Gees,3,1960,United Kingdom,Pop
+The Beatles,Bob Dylan,2,1960,Nenhum,Rock
+The Beatles,Simon & Garfunkel,1,1960,Nenhum,Nenhum
+The Beatles,Cher,2,1960,Nenhum,"Pop, Rock"
+The Beatles,Neil Diamond,2,1960,Nenhum,"Pop, Rock"
+The Beatles,Olivia Newton-John,2,1960,Nenhum,Pop
+The Beatles,Pink Floyd,2,1960,United Kingdom,Nenhum
+The Beatles,The Doors,1,1960,Nenhum,Nenhum
+The Beatles,David Bowie,3,1960,United Kingdom,Pop
+The Beatles,Bob Seger,2,1960,Nenhum,Rock
+The Beatles,Julio Iglesias,1,1960,Nenhum,Nenhum
+The Beatles,Fleetwood Mac,3,1960,United Kingdom,"Pop, Rock"
+The Beatles,Linda Ronstadt,2,1960,Nenhum,Rock
+The Beatles,Led Zeppelin,2,1960,United Kingdom,Nenhum
+The Beatles,Rod Stewart,3,1960,United Kingdom,"Pop, Rock"
+The Beatles,Santana,2,1960,Nenhum,Rock
+The Beatles,Chicago,2,1960,Nenhum,"Pop, Rock"
+The Beatles,The Carpenters,2,1960,Nenhum,Pop
+The Beatles,Genesis,2,1960,United Kingdom,Nenhum
+Stevie Wonder,The Beach Boys,2,1960,United States,Nenhum
+Stevie Wonder,The Rolling Stones,1,1960,Nenhum,Nenhum
+Stevie Wonder,Barbra Streisand,2,1960,United States,Nenhum
+Stevie Wonder,Bee Gees,1,1960,Nenhum,Nenhum
+Stevie Wonder,Bob Dylan,2,1960,United States,Nenhum
+Stevie Wonder,Simon & Garfunkel,2,1960,United States,Nenhum
+Stevie Wonder,Cher,2,1960,United States,Nenhum
+Stevie Wonder,Neil Diamond,2,1960,United States,Nenhum
+Stevie Wonder,Olivia Newton-John,1,1960,Nenhum,Nenhum
+Stevie Wonder,Pink Floyd,1,1960,Nenhum,Nenhum
+Stevie Wonder,The Doors,2,1960,United States,Nenhum
+Stevie Wonder,David Bowie,1,1960,Nenhum,Nenhum
+Stevie Wonder,Bob Seger,2,1960,United States,Nenhum
+Stevie Wonder,Julio Iglesias,1,1960,Nenhum,Nenhum
+Stevie Wonder,Fleetwood Mac,2,1960,United States,Nenhum
+Stevie Wonder,Linda Ronstadt,2,1960,United States,Nenhum
+Stevie Wonder,Led Zeppelin,1,1960,Nenhum,Nenhum
+Stevie Wonder,Rod Stewart,1,1960,Nenhum,Nenhum
+Stevie Wonder,Santana,2,1960,United States,Nenhum
+Stevie Wonder,Chicago,2,1960,United States,Nenhum
+Stevie Wonder,The Carpenters,2,1960,United States,Nenhum
+Stevie Wonder,Genesis,1,1960,Nenhum,Nenhum
+The Beach Boys,The Rolling Stones,2,1960,Nenhum,Rock
+The Beach Boys,Barbra Streisand,3,1960,United States,Pop
+The Beach Boys,Bee Gees,2,1960,Nenhum,Pop
+The Beach Boys,Bob Dylan,3,1960,United States,Rock
+The Beach Boys,Simon & Garfunkel,2,1960,United States,Nenhum
+The Beach Boys,Cher,3,1960,United States,"Pop, Rock"
+The Beach Boys,Neil Diamond,3,1960,United States,"Pop, Rock"
+The Beach Boys,Olivia Newton-John,2,1960,Nenhum,Pop
+The Beach Boys,Pink Floyd,1,1960,Nenhum,Nenhum
+The Beach Boys,The Doors,2,1960,United States,Nenhum
+The Beach Boys,David Bowie,2,1960,Nenhum,Pop
+The Beach Boys,Bob Seger,3,1960,United States,Rock
+The Beach Boys,Julio Iglesias,1,1960,Nenhum,Nenhum
+The Beach Boys,Fleetwood Mac,3,1960,United States,"Pop, Rock"
+The Beach Boys,Linda Ronstadt,3,1960,United States,Rock
+The Beach Boys,Led Zeppelin,1,1960,Nenhum,Nenhum
+The Beach Boys,Rod Stewart,2,1960,Nenhum,"Pop, Rock"
+The Beach Boys,Santana,3,1960,United States,Rock
+The Beach Boys,Chicago,3,1960,United States,"Pop, Rock"
+The Beach Boys,The Carpenters,3,1960,United States,Pop
+The Beach Boys,Genesis,1,1960,Nenhum,Nenhum
+The Rolling Stones,Barbra Streisand,1,1960,Nenhum,Nenhum
+The Rolling Stones,Bee Gees,2,1960,United Kingdom,Nenhum
+The Rolling Stones,Bob Dylan,2,1960,Nenhum,Rock
+The Rolling Stones,Simon & Garfunkel,1,1960,Nenhum,Nenhum
+The Rolling Stones,Cher,2,1960,Nenhum,Rock
+The Rolling Stones,Neil Diamond,2,1960,Nenhum,Rock
+The Rolling Stones,Olivia Newton-John,1,1960,Nenhum,Nenhum
+The Rolling Stones,Pink Floyd,2,1960,United Kingdom,Nenhum
+The Rolling Stones,The Doors,1,1960,Nenhum,Nenhum
+The Rolling Stones,David Bowie,2,1960,United Kingdom,Nenhum
+The Rolling Stones,Bob Seger,2,1960,Nenhum,Rock
+The Rolling Stones,Julio Iglesias,1,1960,Nenhum,Nenhum
+The Rolling Stones,Fleetwood Mac,3,1960,United Kingdom,Rock
+The Rolling Stones,Linda Ronstadt,2,1960,Nenhum,Rock
+The Rolling Stones,Led Zeppelin,3,1960,United Kingdom,Blues Rock
+The Rolling Stones,Rod Stewart,3,1960,United Kingdom,Rock
+The Rolling Stones,Santana,2,1960,Nenhum,Rock
+The Rolling Stones,Chicago,2,1960,Nenhum,Rock
+The Rolling Stones,The Carpenters,1,1960,Nenhum,Nenhum
+The Rolling Stones,Genesis,2,1960,United Kingdom,Nenhum
+Barbra Streisand,Bee Gees,2,1960,Nenhum,Pop
+Barbra Streisand,Bob Dylan,2,1960,United States,Nenhum
+Barbra Streisand,Simon & Garfunkel,2,1960,United States,Nenhum
+Barbra Streisand,Cher,3,1960,United States,Pop
+Barbra Streisand,Neil Diamond,3,1960,United States,Pop
+Barbra Streisand,Olivia Newton-John,2,1960,Nenhum,Pop
+Barbra Streisand,Pink Floyd,1,1960,Nenhum,Nenhum
+Barbra Streisand,The Doors,2,1960,United States,Nenhum
+Barbra Streisand,David Bowie,2,1960,Nenhum,Pop
+Barbra Streisand,Bob Seger,2,1960,United States,Nenhum
+Barbra Streisand,Julio Iglesias,1,1960,Nenhum,Nenhum
+Barbra Streisand,Fleetwood Mac,3,1960,United States,Pop
+Barbra Streisand,Linda Ronstadt,2,1960,United States,Nenhum
+Barbra Streisand,Led Zeppelin,1,1960,Nenhum,Nenhum
+Barbra Streisand,Rod Stewart,2,1960,Nenhum,Pop
+Barbra Streisand,Santana,2,1960,United States,Nenhum
+Barbra Streisand,Chicago,3,1960,United States,Pop
+Barbra Streisand,The Carpenters,3,1960,United States,Pop
+Barbra Streisand,Genesis,1,1960,Nenhum,Nenhum
+Bee Gees,Bob Dylan,1,1960,Nenhum,Nenhum
+Bee Gees,Simon & Garfunkel,1,1960,Nenhum,Nenhum
+Bee Gees,Cher,2,1960,Nenhum,Pop
+Bee Gees,Neil Diamond,2,1960,Nenhum,Pop
+Bee Gees,Olivia Newton-John,3,1960,Australia,Pop
+Bee Gees,Pink Floyd,2,1960,United Kingdom,Nenhum
+Bee Gees,The Doors,1,1960,Nenhum,Nenhum
+Bee Gees,David Bowie,3,1960,United Kingdom,Pop
+Bee Gees,Bob Seger,1,1960,Nenhum,Nenhum
+Bee Gees,Julio Iglesias,1,1960,Nenhum,Nenhum
+Bee Gees,Fleetwood Mac,3,1960,United Kingdom,Pop
+Bee Gees,Linda Ronstadt,1,1960,Nenhum,Nenhum
+Bee Gees,Led Zeppelin,2,1960,United Kingdom,Nenhum
+Bee Gees,Rod Stewart,3,1960,United Kingdom,Pop
+Bee Gees,Santana,1,1960,Nenhum,Nenhum
+Bee Gees,Chicago,2,1960,Nenhum,Pop
+Bee Gees,The Carpenters,2,1960,Nenhum,Pop
+Bee Gees,Genesis,2,1960,United Kingdom,Nenhum
+Bob Dylan,Simon & Garfunkel,2,1960,United States,Nenhum
+Bob Dylan,Cher,3,1960,United States,"Rock, Folk"
+Bob Dylan,Neil Diamond,3,1960,United States,Rock
+Bob Dylan,Olivia Newton-John,1,1960,Nenhum,Nenhum
+Bob Dylan,Pink Floyd,1,1960,Nenhum,Nenhum
+Bob Dylan,The Doors,2,1960,United States,Nenhum
+Bob Dylan,David Bowie,1,1960,Nenhum,Nenhum
+Bob Dylan,Bob Seger,3,1960,United States,Rock
+Bob Dylan,Julio Iglesias,1,1960,Nenhum,Nenhum
+Bob Dylan,Fleetwood Mac,3,1960,United States,Rock
+Bob Dylan,Linda Ronstadt,3,1960,United States,"Rock, Folk"
+Bob Dylan,Led Zeppelin,1,1960,Nenhum,Nenhum
+Bob Dylan,Rod Stewart,2,1960,Nenhum,Rock
+Bob Dylan,Santana,3,1960,United States,Rock
+Bob Dylan,Chicago,3,1960,United States,Rock
+Bob Dylan,The Carpenters,2,1960,United States,Nenhum
+Bob Dylan,Genesis,1,1960,Nenhum,Nenhum
+Simon & Garfunkel,Cher,2,1960,United States,Nenhum
+Simon & Garfunkel,Neil Diamond,2,1960,United States,Nenhum
+Simon & Garfunkel,Olivia Newton-John,1,1960,Nenhum,Nenhum
+Simon & Garfunkel,Pink Floyd,1,1960,Nenhum,Nenhum
+Simon & Garfunkel,The Doors,2,1960,United States,Nenhum
+Simon & Garfunkel,David Bowie,1,1960,Nenhum,Nenhum
+Simon & Garfunkel,Bob Seger,2,1960,United States,Nenhum
+Simon & Garfunkel,Julio Iglesias,1,1960,Nenhum,Nenhum
+Simon & Garfunkel,Fleetwood Mac,2,1960,United States,Nenhum
+Simon & Garfunkel,Linda Ronstadt,2,1960,United States,Nenhum
+Simon & Garfunkel,Led Zeppelin,2,1960,Nenhum,Folk Rock
+Simon & Garfunkel,Rod Stewart,1,1960,Nenhum,Nenhum
+Simon & Garfunkel,Santana,2,1960,United States,Nenhum
+Simon & Garfunkel,Chicago,2,1960,United States,Nenhum
+Simon & Garfunkel,The Carpenters,2,1960,United States,Nenhum
+Simon & Garfunkel,Genesis,1,1960,Nenhum,Nenhum
+Cher,Neil Diamond,3,1960,United States,"Pop, Rock"
+Cher,Olivia Newton-John,2,1960,Nenhum,Pop
+Cher,Pink Floyd,1,1960,Nenhum,Nenhum
+Cher,The Doors,2,1960,United States,Nenhum
+Cher,David Bowie,2,1960,Nenhum,Pop
+Cher,Bob Seger,3,1960,United States,Rock
+Cher,Julio Iglesias,1,1960,Nenhum,Nenhum
+Cher,Fleetwood Mac,3,1960,United States,"Pop, Rock"
+Cher,Linda Ronstadt,3,1960,United States,"Rock, Folk"
+Cher,Led Zeppelin,1,1960,Nenhum,Nenhum
+Cher,Rod Stewart,2,1960,Nenhum,"Pop, Rock"
+Cher,Santana,3,1960,United States,Rock
+Cher,Chicago,3,1960,United States,"Pop, Rock"
+Cher,The Carpenters,3,1960,United States,Pop
+Cher,Genesis,1,1960,Nenhum,Nenhum
+Neil Diamond,Olivia Newton-John,2,1960,Nenhum,Pop
+Neil Diamond,Pink Floyd,1,1960,Nenhum,Nenhum
+Neil Diamond,The Doors,2,1960,United States,Nenhum
+Neil Diamond,David Bowie,2,1960,Nenhum,Pop
+Neil Diamond,Bob Seger,3,1960,United States,Rock
+Neil Diamond,Julio Iglesias,1,1960,Nenhum,Nenhum
+Neil Diamond,Fleetwood Mac,3,1960,United States,"Pop, Rock"
+Neil Diamond,Linda Ronstadt,3,1960,United States,Rock
+Neil Diamond,Led Zeppelin,1,1960,Nenhum,Nenhum
+Neil Diamond,Rod Stewart,2,1960,Nenhum,"Pop, Rock"
+Neil Diamond,Santana,3,1960,United States,Rock
+Neil Diamond,Chicago,3,1960,United States,"Pop, Rock"
+Neil Diamond,The Carpenters,3,1960,United States,Pop
+Neil Diamond,Genesis,1,1960,Nenhum,Nenhum
+Olivia Newton-John,Pink Floyd,1,1960,Nenhum,Nenhum
+Olivia Newton-John,The Doors,1,1960,Nenhum,Nenhum
+Olivia Newton-John,David Bowie,2,1960,Nenhum,Pop
+Olivia Newton-John,Bob Seger,1,1960,Nenhum,Nenhum
+Olivia Newton-John,Julio Iglesias,1,1960,Nenhum,Nenhum
+Olivia Newton-John,Fleetwood Mac,2,1960,Nenhum,Pop
+Olivia Newton-John,Linda Ronstadt,1,1960,Nenhum,Nenhum
+Olivia Newton-John,Led Zeppelin,1,1960,Nenhum,Nenhum
+Olivia Newton-John,Rod Stewart,2,1960,Nenhum,Pop
+Olivia Newton-John,Santana,1,1960,Nenhum,Nenhum
+Olivia Newton-John,Chicago,2,1960,Nenhum,Pop
+Olivia Newton-John,The Carpenters,2,1960,Nenhum,Pop
+Olivia Newton-John,Genesis,1,1960,Nenhum,Nenhum
+Pink Floyd,The Doors,2,1960,Nenhum,Psychedelic Rock
+Pink Floyd,David Bowie,2,1960,United Kingdom,Nenhum
+Pink Floyd,Bob Seger,1,1960,Nenhum,Nenhum
+Pink Floyd,Julio Iglesias,1,1960,Nenhum,Nenhum
+Pink Floyd,Fleetwood Mac,2,1960,United Kingdom,Nenhum
+Pink Floyd,Linda Ronstadt,1,1960,Nenhum,Nenhum
+Pink Floyd,Led Zeppelin,2,1960,United Kingdom,Nenhum
+Pink Floyd,Rod Stewart,2,1960,United Kingdom,Nenhum
+Pink Floyd,Santana,1,1960,Nenhum,Nenhum
+Pink Floyd,Chicago,1,1960,Nenhum,Nenhum
+Pink Floyd,The Carpenters,1,1960,Nenhum,Nenhum
+Pink Floyd,Genesis,3,1960,United Kingdom,Progressive Rock
+The Doors,David Bowie,1,1960,Nenhum,Nenhum
+The Doors,Bob Seger,2,1960,United States,Nenhum
+The Doors,Julio Iglesias,1,1960,Nenhum,Nenhum
+The Doors,Fleetwood Mac,2,1960,United States,Nenhum
+The Doors,Linda Ronstadt,2,1960,United States,Nenhum
+The Doors,Led Zeppelin,1,1960,Nenhum,Nenhum
+The Doors,Rod Stewart,1,1960,Nenhum,Nenhum
+The Doors,Santana,2,1960,United States,Nenhum
+The Doors,Chicago,2,1960,United States,Nenhum
+The Doors,The Carpenters,2,1960,United States,Nenhum
+The Doors,Genesis,1,1960,Nenhum,Nenhum
+David Bowie,Bob Seger,1,1960,Nenhum,Nenhum
+David Bowie,Julio Iglesias,1,1960,Nenhum,Nenhum
+David Bowie,Fleetwood Mac,3,1960,United Kingdom,Pop
+David Bowie,Linda Ronstadt,1,1960,Nenhum,Nenhum
+David Bowie,Led Zeppelin,2,1960,United Kingdom,Nenhum
+David Bowie,Rod Stewart,3,1960,United Kingdom,Pop
+David Bowie,Santana,1,1960,Nenhum,Nenhum
+David Bowie,Chicago,2,1960,Nenhum,Pop
+David Bowie,The Carpenters,2,1960,Nenhum,Pop
+David Bowie,Genesis,2,1960,United Kingdom,Nenhum
+Bob Seger,Julio Iglesias,1,1960,Nenhum,Nenhum
+Bob Seger,Fleetwood Mac,3,1960,United States,Rock
+Bob Seger,Linda Ronstadt,3,1960,United States,Rock
+Bob Seger,Led Zeppelin,2,1960,Nenhum,Hard Rock
+Bob Seger,Rod Stewart,2,1960,Nenhum,Rock
+Bob Seger,Santana,3,1960,United States,Rock
+Bob Seger,Chicago,3,1960,United States,Rock
+Bob Seger,The Carpenters,2,1960,United States,Nenhum
+Bob Seger,Genesis,2,1960,Nenhum,Pop Rock
+Julio Iglesias,Fleetwood Mac,1,1960,Nenhum,Nenhum
+Julio Iglesias,Linda Ronstadt,1,1960,Nenhum,Nenhum
+Julio Iglesias,Led Zeppelin,1,1960,Nenhum,Nenhum
+Julio Iglesias,Rod Stewart,1,1960,Nenhum,Nenhum
+Julio Iglesias,Santana,1,1960,Nenhum,Nenhum
+Julio Iglesias,Chicago,1,1960,Nenhum,Nenhum
+Julio Iglesias,The Carpenters,1,1960,Nenhum,Nenhum
+Julio Iglesias,Genesis,1,1960,Nenhum,Nenhum
+Fleetwood Mac,Linda Ronstadt,3,1960,United States,Rock
+Fleetwood Mac,Led Zeppelin,2,1960,United Kingdom,Nenhum
+Fleetwood Mac,Rod Stewart,3,1960,United Kingdom,"Pop, Rock"
+Fleetwood Mac,Santana,3,1960,United States,Rock
+Fleetwood Mac,Chicago,3,1960,United States,"Pop, Rock"
+Fleetwood Mac,The Carpenters,3,1960,United States,Pop
+Fleetwood Mac,Genesis,2,1960,United Kingdom,Nenhum
+Linda Ronstadt,Led Zeppelin,1,1960,Nenhum,Nenhum
+Linda Ronstadt,Rod Stewart,2,1960,Nenhum,Rock
+Linda Ronstadt,Santana,3,1960,United States,Rock
+Linda Ronstadt,Chicago,3,1960,United States,Rock
+Linda Ronstadt,The Carpenters,2,1960,United States,Nenhum
+Linda Ronstadt,Genesis,1,1960,Nenhum,Nenhum
+Led Zeppelin,Rod Stewart,2,1960,United Kingdom,Nenhum
+Led Zeppelin,Santana,1,1960,Nenhum,Nenhum
+Led Zeppelin,Chicago,1,1960,Nenhum,Nenhum
+Led Zeppelin,The Carpenters,1,1960,Nenhum,Nenhum
+Led Zeppelin,Genesis,2,1960,United Kingdom,Nenhum
+Rod Stewart,Santana,2,1960,Nenhum,Rock
+Rod Stewart,Chicago,2,1960,Nenhum,"Pop, Rock"
+Rod Stewart,The Carpenters,2,1960,Nenhum,Pop
+Rod Stewart,Genesis,2,1960,United Kingdom,Nenhum
+Santana,Chicago,3,1960,United States,Rock
+Santana,The Carpenters,2,1960,United States,Nenhum
+Santana,Genesis,1,1960,Nenhum,Nenhum
+Chicago,The Carpenters,3,1960,United States,Pop
+Chicago,Genesis,1,1960,Nenhum,Nenhum
+The Carpenters,Genesis,1,1960,Nenhum,Nenhum

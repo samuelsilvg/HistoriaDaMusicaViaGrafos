@@ -1,0 +1,7261 @@
+Source,Target,Weight
+Frank Sinatra,Elvis Presley,0
+Frank Sinatra,Johnny Cash,0
+Frank Sinatra,Tina Turner,0
+Frank Sinatra,Johnny Hallyday,0
+Frank Sinatra,Aretha Franklin,0
+Frank Sinatra,The Beatles,0
+Frank Sinatra,Stevie Wonder,0
+Frank Sinatra,The Beach Boys,0
+Frank Sinatra,The Rolling Stones,0
+Frank Sinatra,Barbra Streisand,0
+Frank Sinatra,Bee Gees,0
+Frank Sinatra,Bob Dylan,0
+Frank Sinatra,Simon & Garfunkel,0
+Frank Sinatra,Cher,0
+Frank Sinatra,Neil Diamond,0
+Frank Sinatra,Olivia Newton-John,0
+Frank Sinatra,Pink Floyd,0
+Frank Sinatra,The Doors,0
+Frank Sinatra,David Bowie,0
+Frank Sinatra,Bob Seger,0
+Frank Sinatra,Julio Iglesias,0
+Frank Sinatra,Fleetwood Mac,0
+Frank Sinatra,Linda Ronstadt,0
+Frank Sinatra,Led Zeppelin,0
+Frank Sinatra,Rod Stewart,0
+Frank Sinatra,Santana,0
+Frank Sinatra,Chicago,0
+Frank Sinatra,The Carpenters,0
+Frank Sinatra,Genesis,0
+Frank Sinatra,Elton John,0
+Frank Sinatra,Eric Clapton,0
+Frank Sinatra,Paul McCartney,0
+Frank Sinatra,James Taylor,0
+Frank Sinatra,Michael Jackson,0
+Frank Sinatra,Billy Joel,0
+Frank Sinatra,"Earth, Wind & Fire",0
+Frank Sinatra,Eagles,0
+Frank Sinatra,ABBA,0
+Frank Sinatra,Queen,0
+Frank Sinatra,Bruce Springsteen,0
+Frank Sinatra,Aerosmith,0
+Frank Sinatra,Barry Manilow,0
+Frank Sinatra,Donna Summer,0
+Frank Sinatra,Kiss,0
+Frank Sinatra,AC/DC,0
+Frank Sinatra,Journey,0
+Frank Sinatra,Kenny Rogers,0
+Frank Sinatra,Bob Marley,0
+Frank Sinatra,Foreigner,0
+Frank Sinatra,Meat Loaf,0
+Frank Sinatra,Tom Petty,0
+Frank Sinatra,Prince,0
+Frank Sinatra,Dire Straits,0
+Frank Sinatra,Van Halen,0
+Frank Sinatra,The Police,0
+Frank Sinatra,Def Leppard,0
+Frank Sinatra,Bryan Adams,0
+Frank Sinatra,U2,0
+Frank Sinatra,Alabama,0
+Frank Sinatra,Celine Dion,0
+Frank Sinatra,Phil Collins,0
+Frank Sinatra,Lionel Richie,0
+Frank Sinatra,Janet Jackson,0
+Frank Sinatra,Madonna,0
+Frank Sinatra,Metallica,0
+Frank Sinatra,Bon Jovi,0
+Frank Sinatra,R.E.M.,0
+Frank Sinatra,Whitney Houston,0
+Frank Sinatra,George Strait,0
+Frank Sinatra,George Michael,0
+Frank Sinatra,Gloria Estefan,0
+Frank Sinatra,Kenny G,0
+Frank Sinatra,Red Hot Chili Peppers,0
+Frank Sinatra,Guns N' Roses,0
+Frank Sinatra,Enya,0
+Frank Sinatra,B'z,0
+Frank Sinatra,Garth Brooks,0
+Frank Sinatra,Mariah Carey,0
+Frank Sinatra,Nirvana,0
+Frank Sinatra,Tupac Shakur,0
+Frank Sinatra,R. Kelly,0
+Frank Sinatra,Shania Twain,0
+Frank Sinatra,Tim McGraw,0
+Frank Sinatra,Usher,0
+Frank Sinatra,Green Day,0
+Frank Sinatra,Backstreet Boys,0
+Frank Sinatra,Shakira,0
+Frank Sinatra,Jay-Z,0
+Frank Sinatra,Robbie Williams,0
+Frank Sinatra,Britney Spears,0
+Frank Sinatra,Christina Aguilera,0
+Frank Sinatra,The Black Eyed Peas,0
+Frank Sinatra,Ayumi Hamasaki,0
+Frank Sinatra,Eminem,0
+Frank Sinatra,Lil Wayne,0
+Frank Sinatra,Coldplay,0
+Frank Sinatra,Linkin Park,0
+Frank Sinatra,Pink,0
+Frank Sinatra,Alicia Keys,0
+Frank Sinatra,Beyoncé,0
+Frank Sinatra,Maroon 5,0
+Frank Sinatra,Justin Timberlake,0
+Frank Sinatra,Kanye West,0
+Frank Sinatra,Rihanna,0
+Frank Sinatra,Chris Brown,0
+Frank Sinatra,Taylor Swift,0
+Frank Sinatra,Flo Rida,0
+Frank Sinatra,Luke Bryan,0
+Frank Sinatra,Katy Perry,0
+Frank Sinatra,Lady Gaga,0
+Frank Sinatra,Adele,0
+Frank Sinatra,Drake,0
+Frank Sinatra,Justin Bieber,0
+Frank Sinatra,Bruno Mars,0
+Frank Sinatra,Nicki Minaj,0
+Frank Sinatra,Ed Sheeran,0
+Frank Sinatra,Imagine Dragons,0
+Frank Sinatra,Ariana Grande,0
+Frank Sinatra,The Weeknd,0
+Frank Sinatra,Post Malone,0
+Elvis Presley,Johnny Cash,1
+Elvis Presley,Tina Turner,0
+Elvis Presley,Johnny Hallyday,0
+Elvis Presley,Aretha Franklin,0
+Elvis Presley,The Beatles,0
+Elvis Presley,Stevie Wonder,0
+Elvis Presley,The Beach Boys,0
+Elvis Presley,The Rolling Stones,0
+Elvis Presley,Barbra Streisand,0
+Elvis Presley,Bee Gees,0
+Elvis Presley,Bob Dylan,0
+Elvis Presley,Simon & Garfunkel,0
+Elvis Presley,Cher,0
+Elvis Presley,Neil Diamond,0
+Elvis Presley,Olivia Newton-John,0
+Elvis Presley,Pink Floyd,0
+Elvis Presley,The Doors,0
+Elvis Presley,David Bowie,0
+Elvis Presley,Bob Seger,0
+Elvis Presley,Julio Iglesias,0
+Elvis Presley,Fleetwood Mac,0
+Elvis Presley,Linda Ronstadt,0
+Elvis Presley,Led Zeppelin,0
+Elvis Presley,Rod Stewart,0
+Elvis Presley,Santana,0
+Elvis Presley,Chicago,0
+Elvis Presley,The Carpenters,0
+Elvis Presley,Genesis,0
+Elvis Presley,Elton John,0
+Elvis Presley,Eric Clapton,0
+Elvis Presley,Paul McCartney,0
+Elvis Presley,James Taylor,0
+Elvis Presley,Michael Jackson,0
+Elvis Presley,Billy Joel,0
+Elvis Presley,"Earth, Wind & Fire",0
+Elvis Presley,Eagles,0
+Elvis Presley,ABBA,0
+Elvis Presley,Queen,0
+Elvis Presley,Bruce Springsteen,0
+Elvis Presley,Aerosmith,0
+Elvis Presley,Barry Manilow,0
+Elvis Presley,Donna Summer,0
+Elvis Presley,Kiss,0
+Elvis Presley,AC/DC,0
+Elvis Presley,Journey,0
+Elvis Presley,Kenny Rogers,0
+Elvis Presley,Bob Marley,0
+Elvis Presley,Foreigner,0
+Elvis Presley,Meat Loaf,0
+Elvis Presley,Tom Petty,0
+Elvis Presley,Prince,0
+Elvis Presley,Dire Straits,0
+Elvis Presley,Van Halen,0
+Elvis Presley,The Police,0
+Elvis Presley,Def Leppard,0
+Elvis Presley,Bryan Adams,0
+Elvis Presley,U2,0
+Elvis Presley,Alabama,0
+Elvis Presley,Celine Dion,0
+Elvis Presley,Phil Collins,0
+Elvis Presley,Lionel Richie,0
+Elvis Presley,Janet Jackson,0
+Elvis Presley,Madonna,0
+Elvis Presley,Metallica,0
+Elvis Presley,Bon Jovi,0
+Elvis Presley,R.E.M.,0
+Elvis Presley,Whitney Houston,0
+Elvis Presley,George Strait,0
+Elvis Presley,George Michael,0
+Elvis Presley,Gloria Estefan,0
+Elvis Presley,Kenny G,0
+Elvis Presley,Red Hot Chili Peppers,0
+Elvis Presley,Guns N' Roses,0
+Elvis Presley,Enya,0
+Elvis Presley,B'z,0
+Elvis Presley,Garth Brooks,0
+Elvis Presley,Mariah Carey,0
+Elvis Presley,Nirvana,0
+Elvis Presley,Tupac Shakur,0
+Elvis Presley,R. Kelly,0
+Elvis Presley,Shania Twain,0
+Elvis Presley,Tim McGraw,0
+Elvis Presley,Usher,0
+Elvis Presley,Green Day,0
+Elvis Presley,Backstreet Boys,0
+Elvis Presley,Shakira,0
+Elvis Presley,Jay-Z,0
+Elvis Presley,Robbie Williams,0
+Elvis Presley,Britney Spears,0
+Elvis Presley,Christina Aguilera,0
+Elvis Presley,The Black Eyed Peas,0
+Elvis Presley,Ayumi Hamasaki,0
+Elvis Presley,Eminem,0
+Elvis Presley,Lil Wayne,0
+Elvis Presley,Coldplay,0
+Elvis Presley,Linkin Park,0
+Elvis Presley,Pink,0
+Elvis Presley,Alicia Keys,0
+Elvis Presley,Beyoncé,0
+Elvis Presley,Maroon 5,0
+Elvis Presley,Justin Timberlake,0
+Elvis Presley,Kanye West,0
+Elvis Presley,Rihanna,0
+Elvis Presley,Chris Brown,0
+Elvis Presley,Taylor Swift,0
+Elvis Presley,Flo Rida,0
+Elvis Presley,Luke Bryan,0
+Elvis Presley,Katy Perry,0
+Elvis Presley,Lady Gaga,0
+Elvis Presley,Adele,0
+Elvis Presley,Drake,0
+Elvis Presley,Justin Bieber,0
+Elvis Presley,Bruno Mars,0
+Elvis Presley,Nicki Minaj,0
+Elvis Presley,Ed Sheeran,0
+Elvis Presley,Imagine Dragons,0
+Elvis Presley,Ariana Grande,0
+Elvis Presley,The Weeknd,0
+Elvis Presley,Post Malone,0
+Johnny Cash,Tina Turner,0
+Johnny Cash,Johnny Hallyday,0
+Johnny Cash,Aretha Franklin,0
+Johnny Cash,The Beatles,0
+Johnny Cash,Stevie Wonder,0
+Johnny Cash,The Beach Boys,0
+Johnny Cash,The Rolling Stones,0
+Johnny Cash,Barbra Streisand,0
+Johnny Cash,Bee Gees,0
+Johnny Cash,Bob Dylan,0
+Johnny Cash,Simon & Garfunkel,0
+Johnny Cash,Cher,0
+Johnny Cash,Neil Diamond,0
+Johnny Cash,Olivia Newton-John,0
+Johnny Cash,Pink Floyd,0
+Johnny Cash,The Doors,0
+Johnny Cash,David Bowie,0
+Johnny Cash,Bob Seger,0
+Johnny Cash,Julio Iglesias,0
+Johnny Cash,Fleetwood Mac,0
+Johnny Cash,Linda Ronstadt,0
+Johnny Cash,Led Zeppelin,0
+Johnny Cash,Rod Stewart,0
+Johnny Cash,Santana,0
+Johnny Cash,Chicago,0
+Johnny Cash,The Carpenters,0
+Johnny Cash,Genesis,0
+Johnny Cash,Elton John,0
+Johnny Cash,Eric Clapton,0
+Johnny Cash,Paul McCartney,0
+Johnny Cash,James Taylor,0
+Johnny Cash,Michael Jackson,0
+Johnny Cash,Billy Joel,0
+Johnny Cash,"Earth, Wind & Fire",0
+Johnny Cash,Eagles,0
+Johnny Cash,ABBA,0
+Johnny Cash,Queen,0
+Johnny Cash,Bruce Springsteen,0
+Johnny Cash,Aerosmith,0
+Johnny Cash,Barry Manilow,0
+Johnny Cash,Donna Summer,0
+Johnny Cash,Kiss,0
+Johnny Cash,AC/DC,0
+Johnny Cash,Journey,0
+Johnny Cash,Kenny Rogers,0
+Johnny Cash,Bob Marley,0
+Johnny Cash,Foreigner,0
+Johnny Cash,Meat Loaf,0
+Johnny Cash,Tom Petty,0
+Johnny Cash,Prince,0
+Johnny Cash,Dire Straits,0
+Johnny Cash,Van Halen,0
+Johnny Cash,The Police,0
+Johnny Cash,Def Leppard,0
+Johnny Cash,Bryan Adams,0
+Johnny Cash,U2,0
+Johnny Cash,Alabama,0
+Johnny Cash,Celine Dion,0
+Johnny Cash,Phil Collins,0
+Johnny Cash,Lionel Richie,0
+Johnny Cash,Janet Jackson,0
+Johnny Cash,Madonna,0
+Johnny Cash,Metallica,0
+Johnny Cash,Bon Jovi,0
+Johnny Cash,R.E.M.,0
+Johnny Cash,Whitney Houston,0
+Johnny Cash,George Strait,0
+Johnny Cash,George Michael,0
+Johnny Cash,Gloria Estefan,0
+Johnny Cash,Kenny G,0
+Johnny Cash,Red Hot Chili Peppers,0
+Johnny Cash,Guns N' Roses,0
+Johnny Cash,Enya,0
+Johnny Cash,B'z,0
+Johnny Cash,Garth Brooks,0
+Johnny Cash,Mariah Carey,0
+Johnny Cash,Nirvana,0
+Johnny Cash,Tupac Shakur,0
+Johnny Cash,R. Kelly,0
+Johnny Cash,Shania Twain,0
+Johnny Cash,Tim McGraw,0
+Johnny Cash,Usher,0
+Johnny Cash,Green Day,0
+Johnny Cash,Backstreet Boys,0
+Johnny Cash,Shakira,0
+Johnny Cash,Jay-Z,0
+Johnny Cash,Robbie Williams,0
+Johnny Cash,Britney Spears,0
+Johnny Cash,Christina Aguilera,0
+Johnny Cash,The Black Eyed Peas,0
+Johnny Cash,Ayumi Hamasaki,0
+Johnny Cash,Eminem,0
+Johnny Cash,Lil Wayne,0
+Johnny Cash,Coldplay,0
+Johnny Cash,Linkin Park,0
+Johnny Cash,Pink,0
+Johnny Cash,Alicia Keys,0
+Johnny Cash,Beyoncé,0
+Johnny Cash,Maroon 5,0
+Johnny Cash,Justin Timberlake,0
+Johnny Cash,Kanye West,0
+Johnny Cash,Rihanna,0
+Johnny Cash,Chris Brown,0
+Johnny Cash,Taylor Swift,0
+Johnny Cash,Flo Rida,0
+Johnny Cash,Luke Bryan,0
+Johnny Cash,Katy Perry,0
+Johnny Cash,Lady Gaga,0
+Johnny Cash,Adele,0
+Johnny Cash,Drake,0
+Johnny Cash,Justin Bieber,0
+Johnny Cash,Bruno Mars,0
+Johnny Cash,Nicki Minaj,0
+Johnny Cash,Ed Sheeran,0
+Johnny Cash,Imagine Dragons,0
+Johnny Cash,Ariana Grande,0
+Johnny Cash,The Weeknd,0
+Johnny Cash,Post Malone,0
+Tina Turner,Johnny Hallyday,1
+Tina Turner,Aretha Franklin,1
+Tina Turner,The Beatles,1
+Tina Turner,Stevie Wonder,1
+Tina Turner,The Beach Boys,1
+Tina Turner,The Rolling Stones,1
+Tina Turner,Barbra Streisand,1
+Tina Turner,Bee Gees,1
+Tina Turner,Bob Dylan,1
+Tina Turner,Simon & Garfunkel,1
+Tina Turner,Cher,1
+Tina Turner,Neil Diamond,1
+Tina Turner,Olivia Newton-John,1
+Tina Turner,Pink Floyd,1
+Tina Turner,The Doors,1
+Tina Turner,David Bowie,1
+Tina Turner,Bob Seger,1
+Tina Turner,Julio Iglesias,1
+Tina Turner,Fleetwood Mac,1
+Tina Turner,Linda Ronstadt,1
+Tina Turner,Led Zeppelin,1
+Tina Turner,Rod Stewart,1
+Tina Turner,Santana,1
+Tina Turner,Chicago,1
+Tina Turner,The Carpenters,1
+Tina Turner,Genesis,1
+Tina Turner,Elton John,0
+Tina Turner,Eric Clapton,0
+Tina Turner,Paul McCartney,0
+Tina Turner,James Taylor,0
+Tina Turner,Michael Jackson,0
+Tina Turner,Billy Joel,0
+Tina Turner,"Earth, Wind & Fire",0
+Tina Turner,Eagles,0
+Tina Turner,ABBA,0
+Tina Turner,Queen,0
+Tina Turner,Bruce Springsteen,0
+Tina Turner,Aerosmith,0
+Tina Turner,Barry Manilow,0
+Tina Turner,Donna Summer,0
+Tina Turner,Kiss,0
+Tina Turner,AC/DC,0
+Tina Turner,Journey,0
+Tina Turner,Kenny Rogers,0
+Tina Turner,Bob Marley,0
+Tina Turner,Foreigner,0
+Tina Turner,Meat Loaf,0
+Tina Turner,Tom Petty,0
+Tina Turner,Prince,0
+Tina Turner,Dire Straits,0
+Tina Turner,Van Halen,0
+Tina Turner,The Police,0
+Tina Turner,Def Leppard,0
+Tina Turner,Bryan Adams,0
+Tina Turner,U2,0
+Tina Turner,Alabama,0
+Tina Turner,Celine Dion,0
+Tina Turner,Phil Collins,0
+Tina Turner,Lionel Richie,0
+Tina Turner,Janet Jackson,0
+Tina Turner,Madonna,0
+Tina Turner,Metallica,0
+Tina Turner,Bon Jovi,0
+Tina Turner,R.E.M.,0
+Tina Turner,Whitney Houston,0
+Tina Turner,George Strait,0
+Tina Turner,George Michael,0
+Tina Turner,Gloria Estefan,0
+Tina Turner,Kenny G,0
+Tina Turner,Red Hot Chili Peppers,0
+Tina Turner,Guns N' Roses,0
+Tina Turner,Enya,0
+Tina Turner,B'z,0
+Tina Turner,Garth Brooks,0
+Tina Turner,Mariah Carey,0
+Tina Turner,Nirvana,0
+Tina Turner,Tupac Shakur,0
+Tina Turner,R. Kelly,0
+Tina Turner,Shania Twain,0
+Tina Turner,Tim McGraw,0
+Tina Turner,Usher,0
+Tina Turner,Green Day,0
+Tina Turner,Backstreet Boys,0
+Tina Turner,Shakira,0
+Tina Turner,Jay-Z,0
+Tina Turner,Robbie Williams,0
+Tina Turner,Britney Spears,0
+Tina Turner,Christina Aguilera,0
+Tina Turner,The Black Eyed Peas,0
+Tina Turner,Ayumi Hamasaki,0
+Tina Turner,Eminem,0
+Tina Turner,Lil Wayne,0
+Tina Turner,Coldplay,0
+Tina Turner,Linkin Park,0
+Tina Turner,Pink,0
+Tina Turner,Alicia Keys,0
+Tina Turner,Beyoncé,0
+Tina Turner,Maroon 5,0
+Tina Turner,Justin Timberlake,0
+Tina Turner,Kanye West,0
+Tina Turner,Rihanna,0
+Tina Turner,Chris Brown,0
+Tina Turner,Taylor Swift,0
+Tina Turner,Flo Rida,0
+Tina Turner,Luke Bryan,0
+Tina Turner,Katy Perry,0
+Tina Turner,Lady Gaga,0
+Tina Turner,Adele,0
+Tina Turner,Drake,0
+Tina Turner,Justin Bieber,0
+Tina Turner,Bruno Mars,0
+Tina Turner,Nicki Minaj,0
+Tina Turner,Ed Sheeran,0
+Tina Turner,Imagine Dragons,0
+Tina Turner,Ariana Grande,0
+Tina Turner,The Weeknd,0
+Tina Turner,Post Malone,0
+Johnny Hallyday,Aretha Franklin,1
+Johnny Hallyday,The Beatles,1
+Johnny Hallyday,Stevie Wonder,1
+Johnny Hallyday,The Beach Boys,1
+Johnny Hallyday,The Rolling Stones,1
+Johnny Hallyday,Barbra Streisand,1
+Johnny Hallyday,Bee Gees,1
+Johnny Hallyday,Bob Dylan,1
+Johnny Hallyday,Simon & Garfunkel,1
+Johnny Hallyday,Cher,1
+Johnny Hallyday,Neil Diamond,1
+Johnny Hallyday,Olivia Newton-John,1
+Johnny Hallyday,Pink Floyd,1
+Johnny Hallyday,The Doors,1
+Johnny Hallyday,David Bowie,1
+Johnny Hallyday,Bob Seger,1
+Johnny Hallyday,Julio Iglesias,1
+Johnny Hallyday,Fleetwood Mac,1
+Johnny Hallyday,Linda Ronstadt,1
+Johnny Hallyday,Led Zeppelin,1
+Johnny Hallyday,Rod Stewart,1
+Johnny Hallyday,Santana,1
+Johnny Hallyday,Chicago,1
+Johnny Hallyday,The Carpenters,1
+Johnny Hallyday,Genesis,1
+Johnny Hallyday,Elton John,0
+Johnny Hallyday,Eric Clapton,0
+Johnny Hallyday,Paul McCartney,0
+Johnny Hallyday,James Taylor,0
+Johnny Hallyday,Michael Jackson,0
+Johnny Hallyday,Billy Joel,0
+Johnny Hallyday,"Earth, Wind & Fire",0
+Johnny Hallyday,Eagles,0
+Johnny Hallyday,ABBA,0
+Johnny Hallyday,Queen,0
+Johnny Hallyday,Bruce Springsteen,0
+Johnny Hallyday,Aerosmith,0
+Johnny Hallyday,Barry Manilow,0
+Johnny Hallyday,Donna Summer,0
+Johnny Hallyday,Kiss,0
+Johnny Hallyday,AC/DC,0
+Johnny Hallyday,Journey,0
+Johnny Hallyday,Kenny Rogers,0
+Johnny Hallyday,Bob Marley,0
+Johnny Hallyday,Foreigner,0
+Johnny Hallyday,Meat Loaf,0
+Johnny Hallyday,Tom Petty,0
+Johnny Hallyday,Prince,0
+Johnny Hallyday,Dire Straits,0
+Johnny Hallyday,Van Halen,0
+Johnny Hallyday,The Police,0
+Johnny Hallyday,Def Leppard,0
+Johnny Hallyday,Bryan Adams,0
+Johnny Hallyday,U2,0
+Johnny Hallyday,Alabama,0
+Johnny Hallyday,Celine Dion,0
+Johnny Hallyday,Phil Collins,0
+Johnny Hallyday,Lionel Richie,0
+Johnny Hallyday,Janet Jackson,0
+Johnny Hallyday,Madonna,0
+Johnny Hallyday,Metallica,0
+Johnny Hallyday,Bon Jovi,0
+Johnny Hallyday,R.E.M.,0
+Johnny Hallyday,Whitney Houston,0
+Johnny Hallyday,George Strait,0
+Johnny Hallyday,George Michael,0
+Johnny Hallyday,Gloria Estefan,0
+Johnny Hallyday,Kenny G,0
+Johnny Hallyday,Red Hot Chili Peppers,0
+Johnny Hallyday,Guns N' Roses,0
+Johnny Hallyday,Enya,0
+Johnny Hallyday,B'z,0
+Johnny Hallyday,Garth Brooks,0
+Johnny Hallyday,Mariah Carey,0
+Johnny Hallyday,Nirvana,0
+Johnny Hallyday,Tupac Shakur,0
+Johnny Hallyday,R. Kelly,0
+Johnny Hallyday,Shania Twain,0
+Johnny Hallyday,Tim McGraw,0
+Johnny Hallyday,Usher,0
+Johnny Hallyday,Green Day,0
+Johnny Hallyday,Backstreet Boys,0
+Johnny Hallyday,Shakira,0
+Johnny Hallyday,Jay-Z,0
+Johnny Hallyday,Robbie Williams,0
+Johnny Hallyday,Britney Spears,0
+Johnny Hallyday,Christina Aguilera,0
+Johnny Hallyday,The Black Eyed Peas,0
+Johnny Hallyday,Ayumi Hamasaki,0
+Johnny Hallyday,Eminem,0
+Johnny Hallyday,Lil Wayne,0
+Johnny Hallyday,Coldplay,0
+Johnny Hallyday,Linkin Park,0
+Johnny Hallyday,Pink,0
+Johnny Hallyday,Alicia Keys,0
+Johnny Hallyday,Beyoncé,0
+Johnny Hallyday,Maroon 5,0
+Johnny Hallyday,Justin Timberlake,0
+Johnny Hallyday,Kanye West,0
+Johnny Hallyday,Rihanna,0
+Johnny Hallyday,Chris Brown,0
+Johnny Hallyday,Taylor Swift,0
+Johnny Hallyday,Flo Rida,0
+Johnny Hallyday,Luke Bryan,0
+Johnny Hallyday,Katy Perry,0
+Johnny Hallyday,Lady Gaga,0
+Johnny Hallyday,Adele,0
+Johnny Hallyday,Drake,0
+Johnny Hallyday,Justin Bieber,0
+Johnny Hallyday,Bruno Mars,0
+Johnny Hallyday,Nicki Minaj,0
+Johnny Hallyday,Ed Sheeran,0
+Johnny Hallyday,Imagine Dragons,0
+Johnny Hallyday,Ariana Grande,0
+Johnny Hallyday,The Weeknd,0
+Johnny Hallyday,Post Malone,0
+Aretha Franklin,The Beatles,1
+Aretha Franklin,Stevie Wonder,1
+Aretha Franklin,The Beach Boys,1
+Aretha Franklin,The Rolling Stones,1
+Aretha Franklin,Barbra Streisand,1
+Aretha Franklin,Bee Gees,1
+Aretha Franklin,Bob Dylan,1
+Aretha Franklin,Simon & Garfunkel,1
+Aretha Franklin,Cher,1
+Aretha Franklin,Neil Diamond,1
+Aretha Franklin,Olivia Newton-John,1
+Aretha Franklin,Pink Floyd,1
+Aretha Franklin,The Doors,1
+Aretha Franklin,David Bowie,1
+Aretha Franklin,Bob Seger,1
+Aretha Franklin,Julio Iglesias,1
+Aretha Franklin,Fleetwood Mac,1
+Aretha Franklin,Linda Ronstadt,1
+Aretha Franklin,Led Zeppelin,1
+Aretha Franklin,Rod Stewart,1
+Aretha Franklin,Santana,1
+Aretha Franklin,Chicago,1
+Aretha Franklin,The Carpenters,1
+Aretha Franklin,Genesis,1
+Aretha Franklin,Elton John,0
+Aretha Franklin,Eric Clapton,0
+Aretha Franklin,Paul McCartney,0
+Aretha Franklin,James Taylor,0
+Aretha Franklin,Michael Jackson,0
+Aretha Franklin,Billy Joel,0
+Aretha Franklin,"Earth, Wind & Fire",0
+Aretha Franklin,Eagles,0
+Aretha Franklin,ABBA,0
+Aretha Franklin,Queen,0
+Aretha Franklin,Bruce Springsteen,0
+Aretha Franklin,Aerosmith,0
+Aretha Franklin,Barry Manilow,0
+Aretha Franklin,Donna Summer,0
+Aretha Franklin,Kiss,0
+Aretha Franklin,AC/DC,0
+Aretha Franklin,Journey,0
+Aretha Franklin,Kenny Rogers,0
+Aretha Franklin,Bob Marley,0
+Aretha Franklin,Foreigner,0
+Aretha Franklin,Meat Loaf,0
+Aretha Franklin,Tom Petty,0
+Aretha Franklin,Prince,0
+Aretha Franklin,Dire Straits,0
+Aretha Franklin,Van Halen,0
+Aretha Franklin,The Police,0
+Aretha Franklin,Def Leppard,0
+Aretha Franklin,Bryan Adams,0
+Aretha Franklin,U2,0
+Aretha Franklin,Alabama,0
+Aretha Franklin,Celine Dion,0
+Aretha Franklin,Phil Collins,0
+Aretha Franklin,Lionel Richie,0
+Aretha Franklin,Janet Jackson,0
+Aretha Franklin,Madonna,0
+Aretha Franklin,Metallica,0
+Aretha Franklin,Bon Jovi,0
+Aretha Franklin,R.E.M.,0
+Aretha Franklin,Whitney Houston,0
+Aretha Franklin,George Strait,0
+Aretha Franklin,George Michael,0
+Aretha Franklin,Gloria Estefan,0
+Aretha Franklin,Kenny G,0
+Aretha Franklin,Red Hot Chili Peppers,0
+Aretha Franklin,Guns N' Roses,0
+Aretha Franklin,Enya,0
+Aretha Franklin,B'z,0
+Aretha Franklin,Garth Brooks,0
+Aretha Franklin,Mariah Carey,0
+Aretha Franklin,Nirvana,0
+Aretha Franklin,Tupac Shakur,0
+Aretha Franklin,R. Kelly,0
+Aretha Franklin,Shania Twain,0
+Aretha Franklin,Tim McGraw,0
+Aretha Franklin,Usher,0
+Aretha Franklin,Green Day,0
+Aretha Franklin,Backstreet Boys,0
+Aretha Franklin,Shakira,0
+Aretha Franklin,Jay-Z,0
+Aretha Franklin,Robbie Williams,0
+Aretha Franklin,Britney Spears,0
+Aretha Franklin,Christina Aguilera,0
+Aretha Franklin,The Black Eyed Peas,0
+Aretha Franklin,Ayumi Hamasaki,0
+Aretha Franklin,Eminem,0
+Aretha Franklin,Lil Wayne,0
+Aretha Franklin,Coldplay,0
+Aretha Franklin,Linkin Park,0
+Aretha Franklin,Pink,0
+Aretha Franklin,Alicia Keys,0
+Aretha Franklin,Beyoncé,0
+Aretha Franklin,Maroon 5,0
+Aretha Franklin,Justin Timberlake,0
+Aretha Franklin,Kanye West,0
+Aretha Franklin,Rihanna,0
+Aretha Franklin,Chris Brown,0
+Aretha Franklin,Taylor Swift,0
+Aretha Franklin,Flo Rida,0
+Aretha Franklin,Luke Bryan,0
+Aretha Franklin,Katy Perry,0
+Aretha Franklin,Lady Gaga,0
+Aretha Franklin,Adele,0
+Aretha Franklin,Drake,0
+Aretha Franklin,Justin Bieber,0
+Aretha Franklin,Bruno Mars,0
+Aretha Franklin,Nicki Minaj,0
+Aretha Franklin,Ed Sheeran,0
+Aretha Franklin,Imagine Dragons,0
+Aretha Franklin,Ariana Grande,0
+Aretha Franklin,The Weeknd,0
+Aretha Franklin,Post Malone,0
+The Beatles,Stevie Wonder,1
+The Beatles,The Beach Boys,1
+The Beatles,The Rolling Stones,1
+The Beatles,Barbra Streisand,1
+The Beatles,Bee Gees,1
+The Beatles,Bob Dylan,1
+The Beatles,Simon & Garfunkel,1
+The Beatles,Cher,1
+The Beatles,Neil Diamond,1
+The Beatles,Olivia Newton-John,1
+The Beatles,Pink Floyd,1
+The Beatles,The Doors,1
+The Beatles,David Bowie,1
+The Beatles,Bob Seger,1
+The Beatles,Julio Iglesias,1
+The Beatles,Fleetwood Mac,1
+The Beatles,Linda Ronstadt,1
+The Beatles,Led Zeppelin,1
+The Beatles,Rod Stewart,1
+The Beatles,Santana,1
+The Beatles,Chicago,1
+The Beatles,The Carpenters,1
+The Beatles,Genesis,1
+The Beatles,Elton John,0
+The Beatles,Eric Clapton,0
+The Beatles,Paul McCartney,0
+The Beatles,James Taylor,0
+The Beatles,Michael Jackson,0
+The Beatles,Billy Joel,0
+The Beatles,"Earth, Wind & Fire",0
+The Beatles,Eagles,0
+The Beatles,ABBA,0
+The Beatles,Queen,0
+The Beatles,Bruce Springsteen,0
+The Beatles,Aerosmith,0
+The Beatles,Barry Manilow,0
+The Beatles,Donna Summer,0
+The Beatles,Kiss,0
+The Beatles,AC/DC,0
+The Beatles,Journey,0
+The Beatles,Kenny Rogers,0
+The Beatles,Bob Marley,0
+The Beatles,Foreigner,0
+The Beatles,Meat Loaf,0
+The Beatles,Tom Petty,0
+The Beatles,Prince,0
+The Beatles,Dire Straits,0
+The Beatles,Van Halen,0
+The Beatles,The Police,0
+The Beatles,Def Leppard,0
+The Beatles,Bryan Adams,0
+The Beatles,U2,0
+The Beatles,Alabama,0
+The Beatles,Celine Dion,0
+The Beatles,Phil Collins,0
+The Beatles,Lionel Richie,0
+The Beatles,Janet Jackson,0
+The Beatles,Madonna,0
+The Beatles,Metallica,0
+The Beatles,Bon Jovi,0
+The Beatles,R.E.M.,0
+The Beatles,Whitney Houston,0
+The Beatles,George Strait,0
+The Beatles,George Michael,0
+The Beatles,Gloria Estefan,0
+The Beatles,Kenny G,0
+The Beatles,Red Hot Chili Peppers,0
+The Beatles,Guns N' Roses,0
+The Beatles,Enya,0
+The Beatles,B'z,0
+The Beatles,Garth Brooks,0
+The Beatles,Mariah Carey,0
+The Beatles,Nirvana,0
+The Beatles,Tupac Shakur,0
+The Beatles,R. Kelly,0
+The Beatles,Shania Twain,0
+The Beatles,Tim McGraw,0
+The Beatles,Usher,0
+The Beatles,Green Day,0
+The Beatles,Backstreet Boys,0
+The Beatles,Shakira,0
+The Beatles,Jay-Z,0
+The Beatles,Robbie Williams,0
+The Beatles,Britney Spears,0
+The Beatles,Christina Aguilera,0
+The Beatles,The Black Eyed Peas,0
+The Beatles,Ayumi Hamasaki,0
+The Beatles,Eminem,0
+The Beatles,Lil Wayne,0
+The Beatles,Coldplay,0
+The Beatles,Linkin Park,0
+The Beatles,Pink,0
+The Beatles,Alicia Keys,0
+The Beatles,Beyoncé,0
+The Beatles,Maroon 5,0
+The Beatles,Justin Timberlake,0
+The Beatles,Kanye West,0
+The Beatles,Rihanna,0
+The Beatles,Chris Brown,0
+The Beatles,Taylor Swift,0
+The Beatles,Flo Rida,0
+The Beatles,Luke Bryan,0
+The Beatles,Katy Perry,0
+The Beatles,Lady Gaga,0
+The Beatles,Adele,0
+The Beatles,Drake,0
+The Beatles,Justin Bieber,0
+The Beatles,Bruno Mars,0
+The Beatles,Nicki Minaj,0
+The Beatles,Ed Sheeran,0
+The Beatles,Imagine Dragons,0
+The Beatles,Ariana Grande,0
+The Beatles,The Weeknd,0
+The Beatles,Post Malone,0
+Stevie Wonder,The Beach Boys,1
+Stevie Wonder,The Rolling Stones,1
+Stevie Wonder,Barbra Streisand,1
+Stevie Wonder,Bee Gees,1
+Stevie Wonder,Bob Dylan,1
+Stevie Wonder,Simon & Garfunkel,1
+Stevie Wonder,Cher,1
+Stevie Wonder,Neil Diamond,1
+Stevie Wonder,Olivia Newton-John,1
+Stevie Wonder,Pink Floyd,1
+Stevie Wonder,The Doors,1
+Stevie Wonder,David Bowie,1
+Stevie Wonder,Bob Seger,1
+Stevie Wonder,Julio Iglesias,1
+Stevie Wonder,Fleetwood Mac,1
+Stevie Wonder,Linda Ronstadt,1
+Stevie Wonder,Led Zeppelin,1
+Stevie Wonder,Rod Stewart,1
+Stevie Wonder,Santana,1
+Stevie Wonder,Chicago,1
+Stevie Wonder,The Carpenters,1
+Stevie Wonder,Genesis,1
+Stevie Wonder,Elton John,0
+Stevie Wonder,Eric Clapton,0
+Stevie Wonder,Paul McCartney,0
+Stevie Wonder,James Taylor,0
+Stevie Wonder,Michael Jackson,0
+Stevie Wonder,Billy Joel,0
+Stevie Wonder,"Earth, Wind & Fire",0
+Stevie Wonder,Eagles,0
+Stevie Wonder,ABBA,0
+Stevie Wonder,Queen,0
+Stevie Wonder,Bruce Springsteen,0
+Stevie Wonder,Aerosmith,0
+Stevie Wonder,Barry Manilow,0
+Stevie Wonder,Donna Summer,0
+Stevie Wonder,Kiss,0
+Stevie Wonder,AC/DC,0
+Stevie Wonder,Journey,0
+Stevie Wonder,Kenny Rogers,0
+Stevie Wonder,Bob Marley,0
+Stevie Wonder,Foreigner,0
+Stevie Wonder,Meat Loaf,0
+Stevie Wonder,Tom Petty,0
+Stevie Wonder,Prince,0
+Stevie Wonder,Dire Straits,0
+Stevie Wonder,Van Halen,0
+Stevie Wonder,The Police,0
+Stevie Wonder,Def Leppard,0
+Stevie Wonder,Bryan Adams,0
+Stevie Wonder,U2,0
+Stevie Wonder,Alabama,0
+Stevie Wonder,Celine Dion,0
+Stevie Wonder,Phil Collins,0
+Stevie Wonder,Lionel Richie,0
+Stevie Wonder,Janet Jackson,0
+Stevie Wonder,Madonna,0
+Stevie Wonder,Metallica,0
+Stevie Wonder,Bon Jovi,0
+Stevie Wonder,R.E.M.,0
+Stevie Wonder,Whitney Houston,0
+Stevie Wonder,George Strait,0
+Stevie Wonder,George Michael,0
+Stevie Wonder,Gloria Estefan,0
+Stevie Wonder,Kenny G,0
+Stevie Wonder,Red Hot Chili Peppers,0
+Stevie Wonder,Guns N' Roses,0
+Stevie Wonder,Enya,0
+Stevie Wonder,B'z,0
+Stevie Wonder,Garth Brooks,0
+Stevie Wonder,Mariah Carey,0
+Stevie Wonder,Nirvana,0
+Stevie Wonder,Tupac Shakur,0
+Stevie Wonder,R. Kelly,0
+Stevie Wonder,Shania Twain,0
+Stevie Wonder,Tim McGraw,0
+Stevie Wonder,Usher,0
+Stevie Wonder,Green Day,0
+Stevie Wonder,Backstreet Boys,0
+Stevie Wonder,Shakira,0
+Stevie Wonder,Jay-Z,0
+Stevie Wonder,Robbie Williams,0
+Stevie Wonder,Britney Spears,0
+Stevie Wonder,Christina Aguilera,0
+Stevie Wonder,The Black Eyed Peas,0
+Stevie Wonder,Ayumi Hamasaki,0
+Stevie Wonder,Eminem,0
+Stevie Wonder,Lil Wayne,0
+Stevie Wonder,Coldplay,0
+Stevie Wonder,Linkin Park,0
+Stevie Wonder,Pink,0
+Stevie Wonder,Alicia Keys,0
+Stevie Wonder,Beyoncé,0
+Stevie Wonder,Maroon 5,0
+Stevie Wonder,Justin Timberlake,0
+Stevie Wonder,Kanye West,0
+Stevie Wonder,Rihanna,0
+Stevie Wonder,Chris Brown,0
+Stevie Wonder,Taylor Swift,0
+Stevie Wonder,Flo Rida,0
+Stevie Wonder,Luke Bryan,0
+Stevie Wonder,Katy Perry,0
+Stevie Wonder,Lady Gaga,0
+Stevie Wonder,Adele,0
+Stevie Wonder,Drake,0
+Stevie Wonder,Justin Bieber,0
+Stevie Wonder,Bruno Mars,0
+Stevie Wonder,Nicki Minaj,0
+Stevie Wonder,Ed Sheeran,0
+Stevie Wonder,Imagine Dragons,0
+Stevie Wonder,Ariana Grande,0
+Stevie Wonder,The Weeknd,0
+Stevie Wonder,Post Malone,0
+The Beach Boys,The Rolling Stones,1
+The Beach Boys,Barbra Streisand,1
+The Beach Boys,Bee Gees,1
+The Beach Boys,Bob Dylan,1
+The Beach Boys,Simon & Garfunkel,1
+The Beach Boys,Cher,1
+The Beach Boys,Neil Diamond,1
+The Beach Boys,Olivia Newton-John,1
+The Beach Boys,Pink Floyd,1
+The Beach Boys,The Doors,1
+The Beach Boys,David Bowie,1
+The Beach Boys,Bob Seger,1
+The Beach Boys,Julio Iglesias,1
+The Beach Boys,Fleetwood Mac,1
+The Beach Boys,Linda Ronstadt,1
+The Beach Boys,Led Zeppelin,1
+The Beach Boys,Rod Stewart,1
+The Beach Boys,Santana,1
+The Beach Boys,Chicago,1
+The Beach Boys,The Carpenters,1
+The Beach Boys,Genesis,1
+The Beach Boys,Elton John,0
+The Beach Boys,Eric Clapton,0
+The Beach Boys,Paul McCartney,0
+The Beach Boys,James Taylor,0
+The Beach Boys,Michael Jackson,0
+The Beach Boys,Billy Joel,0
+The Beach Boys,"Earth, Wind & Fire",0
+The Beach Boys,Eagles,0
+The Beach Boys,ABBA,0
+The Beach Boys,Queen,0
+The Beach Boys,Bruce Springsteen,0
+The Beach Boys,Aerosmith,0
+The Beach Boys,Barry Manilow,0
+The Beach Boys,Donna Summer,0
+The Beach Boys,Kiss,0
+The Beach Boys,AC/DC,0
+The Beach Boys,Journey,0
+The Beach Boys,Kenny Rogers,0
+The Beach Boys,Bob Marley,0
+The Beach Boys,Foreigner,0
+The Beach Boys,Meat Loaf,0
+The Beach Boys,Tom Petty,0
+The Beach Boys,Prince,0
+The Beach Boys,Dire Straits,0
+The Beach Boys,Van Halen,0
+The Beach Boys,The Police,0
+The Beach Boys,Def Leppard,0
+The Beach Boys,Bryan Adams,0
+The Beach Boys,U2,0
+The Beach Boys,Alabama,0
+The Beach Boys,Celine Dion,0
+The Beach Boys,Phil Collins,0
+The Beach Boys,Lionel Richie,0
+The Beach Boys,Janet Jackson,0
+The Beach Boys,Madonna,0
+The Beach Boys,Metallica,0
+The Beach Boys,Bon Jovi,0
+The Beach Boys,R.E.M.,0
+The Beach Boys,Whitney Houston,0
+The Beach Boys,George Strait,0
+The Beach Boys,George Michael,0
+The Beach Boys,Gloria Estefan,0
+The Beach Boys,Kenny G,0
+The Beach Boys,Red Hot Chili Peppers,0
+The Beach Boys,Guns N' Roses,0
+The Beach Boys,Enya,0
+The Beach Boys,B'z,0
+The Beach Boys,Garth Brooks,0
+The Beach Boys,Mariah Carey,0
+The Beach Boys,Nirvana,0
+The Beach Boys,Tupac Shakur,0
+The Beach Boys,R. Kelly,0
+The Beach Boys,Shania Twain,0
+The Beach Boys,Tim McGraw,0
+The Beach Boys,Usher,0
+The Beach Boys,Green Day,0
+The Beach Boys,Backstreet Boys,0
+The Beach Boys,Shakira,0
+The Beach Boys,Jay-Z,0
+The Beach Boys,Robbie Williams,0
+The Beach Boys,Britney Spears,0
+The Beach Boys,Christina Aguilera,0
+The Beach Boys,The Black Eyed Peas,0
+The Beach Boys,Ayumi Hamasaki,0
+The Beach Boys,Eminem,0
+The Beach Boys,Lil Wayne,0
+The Beach Boys,Coldplay,0
+The Beach Boys,Linkin Park,0
+The Beach Boys,Pink,0
+The Beach Boys,Alicia Keys,0
+The Beach Boys,Beyoncé,0
+The Beach Boys,Maroon 5,0
+The Beach Boys,Justin Timberlake,0
+The Beach Boys,Kanye West,0
+The Beach Boys,Rihanna,0
+The Beach Boys,Chris Brown,0
+The Beach Boys,Taylor Swift,0
+The Beach Boys,Flo Rida,0
+The Beach Boys,Luke Bryan,0
+The Beach Boys,Katy Perry,0
+The Beach Boys,Lady Gaga,0
+The Beach Boys,Adele,0
+The Beach Boys,Drake,0
+The Beach Boys,Justin Bieber,0
+The Beach Boys,Bruno Mars,0
+The Beach Boys,Nicki Minaj,0
+The Beach Boys,Ed Sheeran,0
+The Beach Boys,Imagine Dragons,0
+The Beach Boys,Ariana Grande,0
+The Beach Boys,The Weeknd,0
+The Beach Boys,Post Malone,0
+The Rolling Stones,Barbra Streisand,1
+The Rolling Stones,Bee Gees,1
+The Rolling Stones,Bob Dylan,1
+The Rolling Stones,Simon & Garfunkel,1
+The Rolling Stones,Cher,1
+The Rolling Stones,Neil Diamond,1
+The Rolling Stones,Olivia Newton-John,1
+The Rolling Stones,Pink Floyd,1
+The Rolling Stones,The Doors,1
+The Rolling Stones,David Bowie,1
+The Rolling Stones,Bob Seger,1
+The Rolling Stones,Julio Iglesias,1
+The Rolling Stones,Fleetwood Mac,1
+The Rolling Stones,Linda Ronstadt,1
+The Rolling Stones,Led Zeppelin,1
+The Rolling Stones,Rod Stewart,1
+The Rolling Stones,Santana,1
+The Rolling Stones,Chicago,1
+The Rolling Stones,The Carpenters,1
+The Rolling Stones,Genesis,1
+The Rolling Stones,Elton John,0
+The Rolling Stones,Eric Clapton,0
+The Rolling Stones,Paul McCartney,0
+The Rolling Stones,James Taylor,0
+The Rolling Stones,Michael Jackson,0
+The Rolling Stones,Billy Joel,0
+The Rolling Stones,"Earth, Wind & Fire",0
+The Rolling Stones,Eagles,0
+The Rolling Stones,ABBA,0
+The Rolling Stones,Queen,0
+The Rolling Stones,Bruce Springsteen,0
+The Rolling Stones,Aerosmith,0
+The Rolling Stones,Barry Manilow,0
+The Rolling Stones,Donna Summer,0
+The Rolling Stones,Kiss,0
+The Rolling Stones,AC/DC,0
+The Rolling Stones,Journey,0
+The Rolling Stones,Kenny Rogers,0
+The Rolling Stones,Bob Marley,0
+The Rolling Stones,Foreigner,0
+The Rolling Stones,Meat Loaf,0
+The Rolling Stones,Tom Petty,0
+The Rolling Stones,Prince,0
+The Rolling Stones,Dire Straits,0
+The Rolling Stones,Van Halen,0
+The Rolling Stones,The Police,0
+The Rolling Stones,Def Leppard,0
+The Rolling Stones,Bryan Adams,0
+The Rolling Stones,U2,0
+The Rolling Stones,Alabama,0
+The Rolling Stones,Celine Dion,0
+The Rolling Stones,Phil Collins,0
+The Rolling Stones,Lionel Richie,0
+The Rolling Stones,Janet Jackson,0
+The Rolling Stones,Madonna,0
+The Rolling Stones,Metallica,0
+The Rolling Stones,Bon Jovi,0
+The Rolling Stones,R.E.M.,0
+The Rolling Stones,Whitney Houston,0
+The Rolling Stones,George Strait,0
+The Rolling Stones,George Michael,0
+The Rolling Stones,Gloria Estefan,0
+The Rolling Stones,Kenny G,0
+The Rolling Stones,Red Hot Chili Peppers,0
+The Rolling Stones,Guns N' Roses,0
+The Rolling Stones,Enya,0
+The Rolling Stones,B'z,0
+The Rolling Stones,Garth Brooks,0
+The Rolling Stones,Mariah Carey,0
+The Rolling Stones,Nirvana,0
+The Rolling Stones,Tupac Shakur,0
+The Rolling Stones,R. Kelly,0
+The Rolling Stones,Shania Twain,0
+The Rolling Stones,Tim McGraw,0
+The Rolling Stones,Usher,0
+The Rolling Stones,Green Day,0
+The Rolling Stones,Backstreet Boys,0
+The Rolling Stones,Shakira,0
+The Rolling Stones,Jay-Z,0
+The Rolling Stones,Robbie Williams,0
+The Rolling Stones,Britney Spears,0
+The Rolling Stones,Christina Aguilera,0
+The Rolling Stones,The Black Eyed Peas,0
+The Rolling Stones,Ayumi Hamasaki,0
+The Rolling Stones,Eminem,0
+The Rolling Stones,Lil Wayne,0
+The Rolling Stones,Coldplay,0
+The Rolling Stones,Linkin Park,0
+The Rolling Stones,Pink,0
+The Rolling Stones,Alicia Keys,0
+The Rolling Stones,Beyoncé,0
+The Rolling Stones,Maroon 5,0
+The Rolling Stones,Justin Timberlake,0
+The Rolling Stones,Kanye West,0
+The Rolling Stones,Rihanna,0
+The Rolling Stones,Chris Brown,0
+The Rolling Stones,Taylor Swift,0
+The Rolling Stones,Flo Rida,0
+The Rolling Stones,Luke Bryan,0
+The Rolling Stones,Katy Perry,0
+The Rolling Stones,Lady Gaga,0
+The Rolling Stones,Adele,0
+The Rolling Stones,Drake,0
+The Rolling Stones,Justin Bieber,0
+The Rolling Stones,Bruno Mars,0
+The Rolling Stones,Nicki Minaj,0
+The Rolling Stones,Ed Sheeran,0
+The Rolling Stones,Imagine Dragons,0
+The Rolling Stones,Ariana Grande,0
+The Rolling Stones,The Weeknd,0
+The Rolling Stones,Post Malone,0
+Barbra Streisand,Bee Gees,1
+Barbra Streisand,Bob Dylan,1
+Barbra Streisand,Simon & Garfunkel,1
+Barbra Streisand,Cher,1
+Barbra Streisand,Neil Diamond,1
+Barbra Streisand,Olivia Newton-John,1
+Barbra Streisand,Pink Floyd,1
+Barbra Streisand,The Doors,1
+Barbra Streisand,David Bowie,1
+Barbra Streisand,Bob Seger,1
+Barbra Streisand,Julio Iglesias,1
+Barbra Streisand,Fleetwood Mac,1
+Barbra Streisand,Linda Ronstadt,1
+Barbra Streisand,Led Zeppelin,1
+Barbra Streisand,Rod Stewart,1
+Barbra Streisand,Santana,1
+Barbra Streisand,Chicago,1
+Barbra Streisand,The Carpenters,1
+Barbra Streisand,Genesis,1
+Barbra Streisand,Elton John,0
+Barbra Streisand,Eric Clapton,0
+Barbra Streisand,Paul McCartney,0
+Barbra Streisand,James Taylor,0
+Barbra Streisand,Michael Jackson,0
+Barbra Streisand,Billy Joel,0
+Barbra Streisand,"Earth, Wind & Fire",0
+Barbra Streisand,Eagles,0
+Barbra Streisand,ABBA,0
+Barbra Streisand,Queen,0
+Barbra Streisand,Bruce Springsteen,0
+Barbra Streisand,Aerosmith,0
+Barbra Streisand,Barry Manilow,0
+Barbra Streisand,Donna Summer,0
+Barbra Streisand,Kiss,0
+Barbra Streisand,AC/DC,0
+Barbra Streisand,Journey,0
+Barbra Streisand,Kenny Rogers,0
+Barbra Streisand,Bob Marley,0
+Barbra Streisand,Foreigner,0
+Barbra Streisand,Meat Loaf,0
+Barbra Streisand,Tom Petty,0
+Barbra Streisand,Prince,0
+Barbra Streisand,Dire Straits,0
+Barbra Streisand,Van Halen,0
+Barbra Streisand,The Police,0
+Barbra Streisand,Def Leppard,0
+Barbra Streisand,Bryan Adams,0
+Barbra Streisand,U2,0
+Barbra Streisand,Alabama,0
+Barbra Streisand,Celine Dion,0
+Barbra Streisand,Phil Collins,0
+Barbra Streisand,Lionel Richie,0
+Barbra Streisand,Janet Jackson,0
+Barbra Streisand,Madonna,0
+Barbra Streisand,Metallica,0
+Barbra Streisand,Bon Jovi,0
+Barbra Streisand,R.E.M.,0
+Barbra Streisand,Whitney Houston,0
+Barbra Streisand,George Strait,0
+Barbra Streisand,George Michael,0
+Barbra Streisand,Gloria Estefan,0
+Barbra Streisand,Kenny G,0
+Barbra Streisand,Red Hot Chili Peppers,0
+Barbra Streisand,Guns N' Roses,0
+Barbra Streisand,Enya,0
+Barbra Streisand,B'z,0
+Barbra Streisand,Garth Brooks,0
+Barbra Streisand,Mariah Carey,0
+Barbra Streisand,Nirvana,0
+Barbra Streisand,Tupac Shakur,0
+Barbra Streisand,R. Kelly,0
+Barbra Streisand,Shania Twain,0
+Barbra Streisand,Tim McGraw,0
+Barbra Streisand,Usher,0
+Barbra Streisand,Green Day,0
+Barbra Streisand,Backstreet Boys,0
+Barbra Streisand,Shakira,0
+Barbra Streisand,Jay-Z,0
+Barbra Streisand,Robbie Williams,0
+Barbra Streisand,Britney Spears,0
+Barbra Streisand,Christina Aguilera,0
+Barbra Streisand,The Black Eyed Peas,0
+Barbra Streisand,Ayumi Hamasaki,0
+Barbra Streisand,Eminem,0
+Barbra Streisand,Lil Wayne,0
+Barbra Streisand,Coldplay,0
+Barbra Streisand,Linkin Park,0
+Barbra Streisand,Pink,0
+Barbra Streisand,Alicia Keys,0
+Barbra Streisand,Beyoncé,0
+Barbra Streisand,Maroon 5,0
+Barbra Streisand,Justin Timberlake,0
+Barbra Streisand,Kanye West,0
+Barbra Streisand,Rihanna,0
+Barbra Streisand,Chris Brown,0
+Barbra Streisand,Taylor Swift,0
+Barbra Streisand,Flo Rida,0
+Barbra Streisand,Luke Bryan,0
+Barbra Streisand,Katy Perry,0
+Barbra Streisand,Lady Gaga,0
+Barbra Streisand,Adele,0
+Barbra Streisand,Drake,0
+Barbra Streisand,Justin Bieber,0
+Barbra Streisand,Bruno Mars,0
+Barbra Streisand,Nicki Minaj,0
+Barbra Streisand,Ed Sheeran,0
+Barbra Streisand,Imagine Dragons,0
+Barbra Streisand,Ariana Grande,0
+Barbra Streisand,The Weeknd,0
+Barbra Streisand,Post Malone,0
+Bee Gees,Bob Dylan,1
+Bee Gees,Simon & Garfunkel,1
+Bee Gees,Cher,1
+Bee Gees,Neil Diamond,1
+Bee Gees,Olivia Newton-John,1
+Bee Gees,Pink Floyd,1
+Bee Gees,The Doors,1
+Bee Gees,David Bowie,1
+Bee Gees,Bob Seger,1
+Bee Gees,Julio Iglesias,1
+Bee Gees,Fleetwood Mac,1
+Bee Gees,Linda Ronstadt,1
+Bee Gees,Led Zeppelin,1
+Bee Gees,Rod Stewart,1
+Bee Gees,Santana,1
+Bee Gees,Chicago,1
+Bee Gees,The Carpenters,1
+Bee Gees,Genesis,1
+Bee Gees,Elton John,0
+Bee Gees,Eric Clapton,0
+Bee Gees,Paul McCartney,0
+Bee Gees,James Taylor,0
+Bee Gees,Michael Jackson,0
+Bee Gees,Billy Joel,0
+Bee Gees,"Earth, Wind & Fire",0
+Bee Gees,Eagles,0
+Bee Gees,ABBA,0
+Bee Gees,Queen,0
+Bee Gees,Bruce Springsteen,0
+Bee Gees,Aerosmith,0
+Bee Gees,Barry Manilow,0
+Bee Gees,Donna Summer,0
+Bee Gees,Kiss,0
+Bee Gees,AC/DC,0
+Bee Gees,Journey,0
+Bee Gees,Kenny Rogers,0
+Bee Gees,Bob Marley,0
+Bee Gees,Foreigner,0
+Bee Gees,Meat Loaf,0
+Bee Gees,Tom Petty,0
+Bee Gees,Prince,0
+Bee Gees,Dire Straits,0
+Bee Gees,Van Halen,0
+Bee Gees,The Police,0
+Bee Gees,Def Leppard,0
+Bee Gees,Bryan Adams,0
+Bee Gees,U2,0
+Bee Gees,Alabama,0
+Bee Gees,Celine Dion,0
+Bee Gees,Phil Collins,0
+Bee Gees,Lionel Richie,0
+Bee Gees,Janet Jackson,0
+Bee Gees,Madonna,0
+Bee Gees,Metallica,0
+Bee Gees,Bon Jovi,0
+Bee Gees,R.E.M.,0
+Bee Gees,Whitney Houston,0
+Bee Gees,George Strait,0
+Bee Gees,George Michael,0
+Bee Gees,Gloria Estefan,0
+Bee Gees,Kenny G,0
+Bee Gees,Red Hot Chili Peppers,0
+Bee Gees,Guns N' Roses,0
+Bee Gees,Enya,0
+Bee Gees,B'z,0
+Bee Gees,Garth Brooks,0
+Bee Gees,Mariah Carey,0
+Bee Gees,Nirvana,0
+Bee Gees,Tupac Shakur,0
+Bee Gees,R. Kelly,0
+Bee Gees,Shania Twain,0
+Bee Gees,Tim McGraw,0
+Bee Gees,Usher,0
+Bee Gees,Green Day,0
+Bee Gees,Backstreet Boys,0
+Bee Gees,Shakira,0
+Bee Gees,Jay-Z,0
+Bee Gees,Robbie Williams,0
+Bee Gees,Britney Spears,0
+Bee Gees,Christina Aguilera,0
+Bee Gees,The Black Eyed Peas,0
+Bee Gees,Ayumi Hamasaki,0
+Bee Gees,Eminem,0
+Bee Gees,Lil Wayne,0
+Bee Gees,Coldplay,0
+Bee Gees,Linkin Park,0
+Bee Gees,Pink,0
+Bee Gees,Alicia Keys,0
+Bee Gees,Beyoncé,0
+Bee Gees,Maroon 5,0
+Bee Gees,Justin Timberlake,0
+Bee Gees,Kanye West,0
+Bee Gees,Rihanna,0
+Bee Gees,Chris Brown,0
+Bee Gees,Taylor Swift,0
+Bee Gees,Flo Rida,0
+Bee Gees,Luke Bryan,0
+Bee Gees,Katy Perry,0
+Bee Gees,Lady Gaga,0
+Bee Gees,Adele,0
+Bee Gees,Drake,0
+Bee Gees,Justin Bieber,0
+Bee Gees,Bruno Mars,0
+Bee Gees,Nicki Minaj,0
+Bee Gees,Ed Sheeran,0
+Bee Gees,Imagine Dragons,0
+Bee Gees,Ariana Grande,0
+Bee Gees,The Weeknd,0
+Bee Gees,Post Malone,0
+Bob Dylan,Simon & Garfunkel,1
+Bob Dylan,Cher,1
+Bob Dylan,Neil Diamond,1
+Bob Dylan,Olivia Newton-John,1
+Bob Dylan,Pink Floyd,1
+Bob Dylan,The Doors,1
+Bob Dylan,David Bowie,1
+Bob Dylan,Bob Seger,1
+Bob Dylan,Julio Iglesias,1
+Bob Dylan,Fleetwood Mac,1
+Bob Dylan,Linda Ronstadt,1
+Bob Dylan,Led Zeppelin,1
+Bob Dylan,Rod Stewart,1
+Bob Dylan,Santana,1
+Bob Dylan,Chicago,1
+Bob Dylan,The Carpenters,1
+Bob Dylan,Genesis,1
+Bob Dylan,Elton John,0
+Bob Dylan,Eric Clapton,0
+Bob Dylan,Paul McCartney,0
+Bob Dylan,James Taylor,0
+Bob Dylan,Michael Jackson,0
+Bob Dylan,Billy Joel,0
+Bob Dylan,"Earth, Wind & Fire",0
+Bob Dylan,Eagles,0
+Bob Dylan,ABBA,0
+Bob Dylan,Queen,0
+Bob Dylan,Bruce Springsteen,0
+Bob Dylan,Aerosmith,0
+Bob Dylan,Barry Manilow,0
+Bob Dylan,Donna Summer,0
+Bob Dylan,Kiss,0
+Bob Dylan,AC/DC,0
+Bob Dylan,Journey,0
+Bob Dylan,Kenny Rogers,0
+Bob Dylan,Bob Marley,0
+Bob Dylan,Foreigner,0
+Bob Dylan,Meat Loaf,0
+Bob Dylan,Tom Petty,0
+Bob Dylan,Prince,0
+Bob Dylan,Dire Straits,0
+Bob Dylan,Van Halen,0
+Bob Dylan,The Police,0
+Bob Dylan,Def Leppard,0
+Bob Dylan,Bryan Adams,0
+Bob Dylan,U2,0
+Bob Dylan,Alabama,0
+Bob Dylan,Celine Dion,0
+Bob Dylan,Phil Collins,0
+Bob Dylan,Lionel Richie,0
+Bob Dylan,Janet Jackson,0
+Bob Dylan,Madonna,0
+Bob Dylan,Metallica,0
+Bob Dylan,Bon Jovi,0
+Bob Dylan,R.E.M.,0
+Bob Dylan,Whitney Houston,0
+Bob Dylan,George Strait,0
+Bob Dylan,George Michael,0
+Bob Dylan,Gloria Estefan,0
+Bob Dylan,Kenny G,0
+Bob Dylan,Red Hot Chili Peppers,0
+Bob Dylan,Guns N' Roses,0
+Bob Dylan,Enya,0
+Bob Dylan,B'z,0
+Bob Dylan,Garth Brooks,0
+Bob Dylan,Mariah Carey,0
+Bob Dylan,Nirvana,0
+Bob Dylan,Tupac Shakur,0
+Bob Dylan,R. Kelly,0
+Bob Dylan,Shania Twain,0
+Bob Dylan,Tim McGraw,0
+Bob Dylan,Usher,0
+Bob Dylan,Green Day,0
+Bob Dylan,Backstreet Boys,0
+Bob Dylan,Shakira,0
+Bob Dylan,Jay-Z,0
+Bob Dylan,Robbie Williams,0
+Bob Dylan,Britney Spears,0
+Bob Dylan,Christina Aguilera,0
+Bob Dylan,The Black Eyed Peas,0
+Bob Dylan,Ayumi Hamasaki,0
+Bob Dylan,Eminem,0
+Bob Dylan,Lil Wayne,0
+Bob Dylan,Coldplay,0
+Bob Dylan,Linkin Park,0
+Bob Dylan,Pink,0
+Bob Dylan,Alicia Keys,0
+Bob Dylan,Beyoncé,0
+Bob Dylan,Maroon 5,0
+Bob Dylan,Justin Timberlake,0
+Bob Dylan,Kanye West,0
+Bob Dylan,Rihanna,0
+Bob Dylan,Chris Brown,0
+Bob Dylan,Taylor Swift,0
+Bob Dylan,Flo Rida,0
+Bob Dylan,Luke Bryan,0
+Bob Dylan,Katy Perry,0
+Bob Dylan,Lady Gaga,0
+Bob Dylan,Adele,0
+Bob Dylan,Drake,0
+Bob Dylan,Justin Bieber,0
+Bob Dylan,Bruno Mars,0
+Bob Dylan,Nicki Minaj,0
+Bob Dylan,Ed Sheeran,0
+Bob Dylan,Imagine Dragons,0
+Bob Dylan,Ariana Grande,0
+Bob Dylan,The Weeknd,0
+Bob Dylan,Post Malone,0
+Simon & Garfunkel,Cher,1
+Simon & Garfunkel,Neil Diamond,1
+Simon & Garfunkel,Olivia Newton-John,1
+Simon & Garfunkel,Pink Floyd,1
+Simon & Garfunkel,The Doors,1
+Simon & Garfunkel,David Bowie,1
+Simon & Garfunkel,Bob Seger,1
+Simon & Garfunkel,Julio Iglesias,1
+Simon & Garfunkel,Fleetwood Mac,1
+Simon & Garfunkel,Linda Ronstadt,1
+Simon & Garfunkel,Led Zeppelin,1
+Simon & Garfunkel,Rod Stewart,1
+Simon & Garfunkel,Santana,1
+Simon & Garfunkel,Chicago,1
+Simon & Garfunkel,The Carpenters,1
+Simon & Garfunkel,Genesis,1
+Simon & Garfunkel,Elton John,0
+Simon & Garfunkel,Eric Clapton,0
+Simon & Garfunkel,Paul McCartney,0
+Simon & Garfunkel,James Taylor,0
+Simon & Garfunkel,Michael Jackson,0
+Simon & Garfunkel,Billy Joel,0
+Simon & Garfunkel,"Earth, Wind & Fire",0
+Simon & Garfunkel,Eagles,0
+Simon & Garfunkel,ABBA,0
+Simon & Garfunkel,Queen,0
+Simon & Garfunkel,Bruce Springsteen,0
+Simon & Garfunkel,Aerosmith,0
+Simon & Garfunkel,Barry Manilow,0
+Simon & Garfunkel,Donna Summer,0
+Simon & Garfunkel,Kiss,0
+Simon & Garfunkel,AC/DC,0
+Simon & Garfunkel,Journey,0
+Simon & Garfunkel,Kenny Rogers,0
+Simon & Garfunkel,Bob Marley,0
+Simon & Garfunkel,Foreigner,0
+Simon & Garfunkel,Meat Loaf,0
+Simon & Garfunkel,Tom Petty,0
+Simon & Garfunkel,Prince,0
+Simon & Garfunkel,Dire Straits,0
+Simon & Garfunkel,Van Halen,0
+Simon & Garfunkel,The Police,0
+Simon & Garfunkel,Def Leppard,0
+Simon & Garfunkel,Bryan Adams,0
+Simon & Garfunkel,U2,0
+Simon & Garfunkel,Alabama,0
+Simon & Garfunkel,Celine Dion,0
+Simon & Garfunkel,Phil Collins,0
+Simon & Garfunkel,Lionel Richie,0
+Simon & Garfunkel,Janet Jackson,0
+Simon & Garfunkel,Madonna,0
+Simon & Garfunkel,Metallica,0
+Simon & Garfunkel,Bon Jovi,0
+Simon & Garfunkel,R.E.M.,0
+Simon & Garfunkel,Whitney Houston,0
+Simon & Garfunkel,George Strait,0
+Simon & Garfunkel,George Michael,0
+Simon & Garfunkel,Gloria Estefan,0
+Simon & Garfunkel,Kenny G,0
+Simon & Garfunkel,Red Hot Chili Peppers,0
+Simon & Garfunkel,Guns N' Roses,0
+Simon & Garfunkel,Enya,0
+Simon & Garfunkel,B'z,0
+Simon & Garfunkel,Garth Brooks,0
+Simon & Garfunkel,Mariah Carey,0
+Simon & Garfunkel,Nirvana,0
+Simon & Garfunkel,Tupac Shakur,0
+Simon & Garfunkel,R. Kelly,0
+Simon & Garfunkel,Shania Twain,0
+Simon & Garfunkel,Tim McGraw,0
+Simon & Garfunkel,Usher,0
+Simon & Garfunkel,Green Day,0
+Simon & Garfunkel,Backstreet Boys,0
+Simon & Garfunkel,Shakira,0
+Simon & Garfunkel,Jay-Z,0
+Simon & Garfunkel,Robbie Williams,0
+Simon & Garfunkel,Britney Spears,0
+Simon & Garfunkel,Christina Aguilera,0
+Simon & Garfunkel,The Black Eyed Peas,0
+Simon & Garfunkel,Ayumi Hamasaki,0
+Simon & Garfunkel,Eminem,0
+Simon & Garfunkel,Lil Wayne,0
+Simon & Garfunkel,Coldplay,0
+Simon & Garfunkel,Linkin Park,0
+Simon & Garfunkel,Pink,0
+Simon & Garfunkel,Alicia Keys,0
+Simon & Garfunkel,Beyoncé,0
+Simon & Garfunkel,Maroon 5,0
+Simon & Garfunkel,Justin Timberlake,0
+Simon & Garfunkel,Kanye West,0
+Simon & Garfunkel,Rihanna,0
+Simon & Garfunkel,Chris Brown,0
+Simon & Garfunkel,Taylor Swift,0
+Simon & Garfunkel,Flo Rida,0
+Simon & Garfunkel,Luke Bryan,0
+Simon & Garfunkel,Katy Perry,0
+Simon & Garfunkel,Lady Gaga,0
+Simon & Garfunkel,Adele,0
+Simon & Garfunkel,Drake,0
+Simon & Garfunkel,Justin Bieber,0
+Simon & Garfunkel,Bruno Mars,0
+Simon & Garfunkel,Nicki Minaj,0
+Simon & Garfunkel,Ed Sheeran,0
+Simon & Garfunkel,Imagine Dragons,0
+Simon & Garfunkel,Ariana Grande,0
+Simon & Garfunkel,The Weeknd,0
+Simon & Garfunkel,Post Malone,0
+Cher,Neil Diamond,1
+Cher,Olivia Newton-John,1
+Cher,Pink Floyd,1
+Cher,The Doors,1
+Cher,David Bowie,1
+Cher,Bob Seger,1
+Cher,Julio Iglesias,1
+Cher,Fleetwood Mac,1
+Cher,Linda Ronstadt,1
+Cher,Led Zeppelin,1
+Cher,Rod Stewart,1
+Cher,Santana,1
+Cher,Chicago,1
+Cher,The Carpenters,1
+Cher,Genesis,1
+Cher,Elton John,0
+Cher,Eric Clapton,0
+Cher,Paul McCartney,0
+Cher,James Taylor,0
+Cher,Michael Jackson,0
+Cher,Billy Joel,0
+Cher,"Earth, Wind & Fire",0
+Cher,Eagles,0
+Cher,ABBA,0
+Cher,Queen,0
+Cher,Bruce Springsteen,0
+Cher,Aerosmith,0
+Cher,Barry Manilow,0
+Cher,Donna Summer,0
+Cher,Kiss,0
+Cher,AC/DC,0
+Cher,Journey,0
+Cher,Kenny Rogers,0
+Cher,Bob Marley,0
+Cher,Foreigner,0
+Cher,Meat Loaf,0
+Cher,Tom Petty,0
+Cher,Prince,0
+Cher,Dire Straits,0
+Cher,Van Halen,0
+Cher,The Police,0
+Cher,Def Leppard,0
+Cher,Bryan Adams,0
+Cher,U2,0
+Cher,Alabama,0
+Cher,Celine Dion,0
+Cher,Phil Collins,0
+Cher,Lionel Richie,0
+Cher,Janet Jackson,0
+Cher,Madonna,0
+Cher,Metallica,0
+Cher,Bon Jovi,0
+Cher,R.E.M.,0
+Cher,Whitney Houston,0
+Cher,George Strait,0
+Cher,George Michael,0
+Cher,Gloria Estefan,0
+Cher,Kenny G,0
+Cher,Red Hot Chili Peppers,0
+Cher,Guns N' Roses,0
+Cher,Enya,0
+Cher,B'z,0
+Cher,Garth Brooks,0
+Cher,Mariah Carey,0
+Cher,Nirvana,0
+Cher,Tupac Shakur,0
+Cher,R. Kelly,0
+Cher,Shania Twain,0
+Cher,Tim McGraw,0
+Cher,Usher,0
+Cher,Green Day,0
+Cher,Backstreet Boys,0
+Cher,Shakira,0
+Cher,Jay-Z,0
+Cher,Robbie Williams,0
+Cher,Britney Spears,0
+Cher,Christina Aguilera,0
+Cher,The Black Eyed Peas,0
+Cher,Ayumi Hamasaki,0
+Cher,Eminem,0
+Cher,Lil Wayne,0
+Cher,Coldplay,0
+Cher,Linkin Park,0
+Cher,Pink,0
+Cher,Alicia Keys,0
+Cher,Beyoncé,0
+Cher,Maroon 5,0
+Cher,Justin Timberlake,0
+Cher,Kanye West,0
+Cher,Rihanna,0
+Cher,Chris Brown,0
+Cher,Taylor Swift,0
+Cher,Flo Rida,0
+Cher,Luke Bryan,0
+Cher,Katy Perry,0
+Cher,Lady Gaga,0
+Cher,Adele,0
+Cher,Drake,0
+Cher,Justin Bieber,0
+Cher,Bruno Mars,0
+Cher,Nicki Minaj,0
+Cher,Ed Sheeran,0
+Cher,Imagine Dragons,0
+Cher,Ariana Grande,0
+Cher,The Weeknd,0
+Cher,Post Malone,0
+Neil Diamond,Olivia Newton-John,1
+Neil Diamond,Pink Floyd,1
+Neil Diamond,The Doors,1
+Neil Diamond,David Bowie,1
+Neil Diamond,Bob Seger,1
+Neil Diamond,Julio Iglesias,1
+Neil Diamond,Fleetwood Mac,1
+Neil Diamond,Linda Ronstadt,1
+Neil Diamond,Led Zeppelin,1
+Neil Diamond,Rod Stewart,1
+Neil Diamond,Santana,1
+Neil Diamond,Chicago,1
+Neil Diamond,The Carpenters,1
+Neil Diamond,Genesis,1
+Neil Diamond,Elton John,0
+Neil Diamond,Eric Clapton,0
+Neil Diamond,Paul McCartney,0
+Neil Diamond,James Taylor,0
+Neil Diamond,Michael Jackson,0
+Neil Diamond,Billy Joel,0
+Neil Diamond,"Earth, Wind & Fire",0
+Neil Diamond,Eagles,0
+Neil Diamond,ABBA,0
+Neil Diamond,Queen,0
+Neil Diamond,Bruce Springsteen,0
+Neil Diamond,Aerosmith,0
+Neil Diamond,Barry Manilow,0
+Neil Diamond,Donna Summer,0
+Neil Diamond,Kiss,0
+Neil Diamond,AC/DC,0
+Neil Diamond,Journey,0
+Neil Diamond,Kenny Rogers,0
+Neil Diamond,Bob Marley,0
+Neil Diamond,Foreigner,0
+Neil Diamond,Meat Loaf,0
+Neil Diamond,Tom Petty,0
+Neil Diamond,Prince,0
+Neil Diamond,Dire Straits,0
+Neil Diamond,Van Halen,0
+Neil Diamond,The Police,0
+Neil Diamond,Def Leppard,0
+Neil Diamond,Bryan Adams,0
+Neil Diamond,U2,0
+Neil Diamond,Alabama,0
+Neil Diamond,Celine Dion,0
+Neil Diamond,Phil Collins,0
+Neil Diamond,Lionel Richie,0
+Neil Diamond,Janet Jackson,0
+Neil Diamond,Madonna,0
+Neil Diamond,Metallica,0
+Neil Diamond,Bon Jovi,0
+Neil Diamond,R.E.M.,0
+Neil Diamond,Whitney Houston,0
+Neil Diamond,George Strait,0
+Neil Diamond,George Michael,0
+Neil Diamond,Gloria Estefan,0
+Neil Diamond,Kenny G,0
+Neil Diamond,Red Hot Chili Peppers,0
+Neil Diamond,Guns N' Roses,0
+Neil Diamond,Enya,0
+Neil Diamond,B'z,0
+Neil Diamond,Garth Brooks,0
+Neil Diamond,Mariah Carey,0
+Neil Diamond,Nirvana,0
+Neil Diamond,Tupac Shakur,0
+Neil Diamond,R. Kelly,0
+Neil Diamond,Shania Twain,0
+Neil Diamond,Tim McGraw,0
+Neil Diamond,Usher,0
+Neil Diamond,Green Day,0
+Neil Diamond,Backstreet Boys,0
+Neil Diamond,Shakira,0
+Neil Diamond,Jay-Z,0
+Neil Diamond,Robbie Williams,0
+Neil Diamond,Britney Spears,0
+Neil Diamond,Christina Aguilera,0
+Neil Diamond,The Black Eyed Peas,0
+Neil Diamond,Ayumi Hamasaki,0
+Neil Diamond,Eminem,0
+Neil Diamond,Lil Wayne,0
+Neil Diamond,Coldplay,0
+Neil Diamond,Linkin Park,0
+Neil Diamond,Pink,0
+Neil Diamond,Alicia Keys,0
+Neil Diamond,Beyoncé,0
+Neil Diamond,Maroon 5,0
+Neil Diamond,Justin Timberlake,0
+Neil Diamond,Kanye West,0
+Neil Diamond,Rihanna,0
+Neil Diamond,Chris Brown,0
+Neil Diamond,Taylor Swift,0
+Neil Diamond,Flo Rida,0
+Neil Diamond,Luke Bryan,0
+Neil Diamond,Katy Perry,0
+Neil Diamond,Lady Gaga,0
+Neil Diamond,Adele,0
+Neil Diamond,Drake,0
+Neil Diamond,Justin Bieber,0
+Neil Diamond,Bruno Mars,0
+Neil Diamond,Nicki Minaj,0
+Neil Diamond,Ed Sheeran,0
+Neil Diamond,Imagine Dragons,0
+Neil Diamond,Ariana Grande,0
+Neil Diamond,The Weeknd,0
+Neil Diamond,Post Malone,0
+Olivia Newton-John,Pink Floyd,1
+Olivia Newton-John,The Doors,1
+Olivia Newton-John,David Bowie,1
+Olivia Newton-John,Bob Seger,1
+Olivia Newton-John,Julio Iglesias,1
+Olivia Newton-John,Fleetwood Mac,1
+Olivia Newton-John,Linda Ronstadt,1
+Olivia Newton-John,Led Zeppelin,1
+Olivia Newton-John,Rod Stewart,1
+Olivia Newton-John,Santana,1
+Olivia Newton-John,Chicago,1
+Olivia Newton-John,The Carpenters,1
+Olivia Newton-John,Genesis,1
+Olivia Newton-John,Elton John,0
+Olivia Newton-John,Eric Clapton,0
+Olivia Newton-John,Paul McCartney,0
+Olivia Newton-John,James Taylor,0
+Olivia Newton-John,Michael Jackson,0
+Olivia Newton-John,Billy Joel,0
+Olivia Newton-John,"Earth, Wind & Fire",0
+Olivia Newton-John,Eagles,0
+Olivia Newton-John,ABBA,0
+Olivia Newton-John,Queen,0
+Olivia Newton-John,Bruce Springsteen,0
+Olivia Newton-John,Aerosmith,0
+Olivia Newton-John,Barry Manilow,0
+Olivia Newton-John,Donna Summer,0
+Olivia Newton-John,Kiss,0
+Olivia Newton-John,AC/DC,0
+Olivia Newton-John,Journey,0
+Olivia Newton-John,Kenny Rogers,0
+Olivia Newton-John,Bob Marley,0
+Olivia Newton-John,Foreigner,0
+Olivia Newton-John,Meat Loaf,0
+Olivia Newton-John,Tom Petty,0
+Olivia Newton-John,Prince,0
+Olivia Newton-John,Dire Straits,0
+Olivia Newton-John,Van Halen,0
+Olivia Newton-John,The Police,0
+Olivia Newton-John,Def Leppard,0
+Olivia Newton-John,Bryan Adams,0
+Olivia Newton-John,U2,0
+Olivia Newton-John,Alabama,0
+Olivia Newton-John,Celine Dion,0
+Olivia Newton-John,Phil Collins,0
+Olivia Newton-John,Lionel Richie,0
+Olivia Newton-John,Janet Jackson,0
+Olivia Newton-John,Madonna,0
+Olivia Newton-John,Metallica,0
+Olivia Newton-John,Bon Jovi,0
+Olivia Newton-John,R.E.M.,0
+Olivia Newton-John,Whitney Houston,0
+Olivia Newton-John,George Strait,0
+Olivia Newton-John,George Michael,0
+Olivia Newton-John,Gloria Estefan,0
+Olivia Newton-John,Kenny G,0
+Olivia Newton-John,Red Hot Chili Peppers,0
+Olivia Newton-John,Guns N' Roses,0
+Olivia Newton-John,Enya,0
+Olivia Newton-John,B'z,0
+Olivia Newton-John,Garth Brooks,0
+Olivia Newton-John,Mariah Carey,0
+Olivia Newton-John,Nirvana,0
+Olivia Newton-John,Tupac Shakur,0
+Olivia Newton-John,R. Kelly,0
+Olivia Newton-John,Shania Twain,0
+Olivia Newton-John,Tim McGraw,0
+Olivia Newton-John,Usher,0
+Olivia Newton-John,Green Day,0
+Olivia Newton-John,Backstreet Boys,0
+Olivia Newton-John,Shakira,0
+Olivia Newton-John,Jay-Z,0
+Olivia Newton-John,Robbie Williams,0
+Olivia Newton-John,Britney Spears,0
+Olivia Newton-John,Christina Aguilera,0
+Olivia Newton-John,The Black Eyed Peas,0
+Olivia Newton-John,Ayumi Hamasaki,0
+Olivia Newton-John,Eminem,0
+Olivia Newton-John,Lil Wayne,0
+Olivia Newton-John,Coldplay,0
+Olivia Newton-John,Linkin Park,0
+Olivia Newton-John,Pink,0
+Olivia Newton-John,Alicia Keys,0
+Olivia Newton-John,Beyoncé,0
+Olivia Newton-John,Maroon 5,0
+Olivia Newton-John,Justin Timberlake,0
+Olivia Newton-John,Kanye West,0
+Olivia Newton-John,Rihanna,0
+Olivia Newton-John,Chris Brown,0
+Olivia Newton-John,Taylor Swift,0
+Olivia Newton-John,Flo Rida,0
+Olivia Newton-John,Luke Bryan,0
+Olivia Newton-John,Katy Perry,0
+Olivia Newton-John,Lady Gaga,0
+Olivia Newton-John,Adele,0
+Olivia Newton-John,Drake,0
+Olivia Newton-John,Justin Bieber,0
+Olivia Newton-John,Bruno Mars,0
+Olivia Newton-John,Nicki Minaj,0
+Olivia Newton-John,Ed Sheeran,0
+Olivia Newton-John,Imagine Dragons,0
+Olivia Newton-John,Ariana Grande,0
+Olivia Newton-John,The Weeknd,0
+Olivia Newton-John,Post Malone,0
+Pink Floyd,The Doors,1
+Pink Floyd,David Bowie,1
+Pink Floyd,Bob Seger,1
+Pink Floyd,Julio Iglesias,1
+Pink Floyd,Fleetwood Mac,1
+Pink Floyd,Linda Ronstadt,1
+Pink Floyd,Led Zeppelin,1
+Pink Floyd,Rod Stewart,1
+Pink Floyd,Santana,1
+Pink Floyd,Chicago,1
+Pink Floyd,The Carpenters,1
+Pink Floyd,Genesis,1
+Pink Floyd,Elton John,0
+Pink Floyd,Eric Clapton,0
+Pink Floyd,Paul McCartney,0
+Pink Floyd,James Taylor,0
+Pink Floyd,Michael Jackson,0
+Pink Floyd,Billy Joel,0
+Pink Floyd,"Earth, Wind & Fire",0
+Pink Floyd,Eagles,0
+Pink Floyd,ABBA,0
+Pink Floyd,Queen,0
+Pink Floyd,Bruce Springsteen,0
+Pink Floyd,Aerosmith,0
+Pink Floyd,Barry Manilow,0
+Pink Floyd,Donna Summer,0
+Pink Floyd,Kiss,0
+Pink Floyd,AC/DC,0
+Pink Floyd,Journey,0
+Pink Floyd,Kenny Rogers,0
+Pink Floyd,Bob Marley,0
+Pink Floyd,Foreigner,0
+Pink Floyd,Meat Loaf,0
+Pink Floyd,Tom Petty,0
+Pink Floyd,Prince,0
+Pink Floyd,Dire Straits,0
+Pink Floyd,Van Halen,0
+Pink Floyd,The Police,0
+Pink Floyd,Def Leppard,0
+Pink Floyd,Bryan Adams,0
+Pink Floyd,U2,0
+Pink Floyd,Alabama,0
+Pink Floyd,Celine Dion,0
+Pink Floyd,Phil Collins,0
+Pink Floyd,Lionel Richie,0
+Pink Floyd,Janet Jackson,0
+Pink Floyd,Madonna,0
+Pink Floyd,Metallica,0
+Pink Floyd,Bon Jovi,0
+Pink Floyd,R.E.M.,0
+Pink Floyd,Whitney Houston,0
+Pink Floyd,George Strait,0
+Pink Floyd,George Michael,0
+Pink Floyd,Gloria Estefan,0
+Pink Floyd,Kenny G,0
+Pink Floyd,Red Hot Chili Peppers,0
+Pink Floyd,Guns N' Roses,0
+Pink Floyd,Enya,0
+Pink Floyd,B'z,0
+Pink Floyd,Garth Brooks,0
+Pink Floyd,Mariah Carey,0
+Pink Floyd,Nirvana,0
+Pink Floyd,Tupac Shakur,0
+Pink Floyd,R. Kelly,0
+Pink Floyd,Shania Twain,0
+Pink Floyd,Tim McGraw,0
+Pink Floyd,Usher,0
+Pink Floyd,Green Day,0
+Pink Floyd,Backstreet Boys,0
+Pink Floyd,Shakira,0
+Pink Floyd,Jay-Z,0
+Pink Floyd,Robbie Williams,0
+Pink Floyd,Britney Spears,0
+Pink Floyd,Christina Aguilera,0
+Pink Floyd,The Black Eyed Peas,0
+Pink Floyd,Ayumi Hamasaki,0
+Pink Floyd,Eminem,0
+Pink Floyd,Lil Wayne,0
+Pink Floyd,Coldplay,0
+Pink Floyd,Linkin Park,0
+Pink Floyd,Pink,0
+Pink Floyd,Alicia Keys,0
+Pink Floyd,Beyoncé,0
+Pink Floyd,Maroon 5,0
+Pink Floyd,Justin Timberlake,0
+Pink Floyd,Kanye West,0
+Pink Floyd,Rihanna,0
+Pink Floyd,Chris Brown,0
+Pink Floyd,Taylor Swift,0
+Pink Floyd,Flo Rida,0
+Pink Floyd,Luke Bryan,0
+Pink Floyd,Katy Perry,0
+Pink Floyd,Lady Gaga,0
+Pink Floyd,Adele,0
+Pink Floyd,Drake,0
+Pink Floyd,Justin Bieber,0
+Pink Floyd,Bruno Mars,0
+Pink Floyd,Nicki Minaj,0
+Pink Floyd,Ed Sheeran,0
+Pink Floyd,Imagine Dragons,0
+Pink Floyd,Ariana Grande,0
+Pink Floyd,The Weeknd,0
+Pink Floyd,Post Malone,0
+The Doors,David Bowie,1
+The Doors,Bob Seger,1
+The Doors,Julio Iglesias,1
+The Doors,Fleetwood Mac,1
+The Doors,Linda Ronstadt,1
+The Doors,Led Zeppelin,1
+The Doors,Rod Stewart,1
+The Doors,Santana,1
+The Doors,Chicago,1
+The Doors,The Carpenters,1
+The Doors,Genesis,1
+The Doors,Elton John,0
+The Doors,Eric Clapton,0
+The Doors,Paul McCartney,0
+The Doors,James Taylor,0
+The Doors,Michael Jackson,0
+The Doors,Billy Joel,0
+The Doors,"Earth, Wind & Fire",0
+The Doors,Eagles,0
+The Doors,ABBA,0
+The Doors,Queen,0
+The Doors,Bruce Springsteen,0
+The Doors,Aerosmith,0
+The Doors,Barry Manilow,0
+The Doors,Donna Summer,0
+The Doors,Kiss,0
+The Doors,AC/DC,0
+The Doors,Journey,0
+The Doors,Kenny Rogers,0
+The Doors,Bob Marley,0
+The Doors,Foreigner,0
+The Doors,Meat Loaf,0
+The Doors,Tom Petty,0
+The Doors,Prince,0
+The Doors,Dire Straits,0
+The Doors,Van Halen,0
+The Doors,The Police,0
+The Doors,Def Leppard,0
+The Doors,Bryan Adams,0
+The Doors,U2,0
+The Doors,Alabama,0
+The Doors,Celine Dion,0
+The Doors,Phil Collins,0
+The Doors,Lionel Richie,0
+The Doors,Janet Jackson,0
+The Doors,Madonna,0
+The Doors,Metallica,0
+The Doors,Bon Jovi,0
+The Doors,R.E.M.,0
+The Doors,Whitney Houston,0
+The Doors,George Strait,0
+The Doors,George Michael,0
+The Doors,Gloria Estefan,0
+The Doors,Kenny G,0
+The Doors,Red Hot Chili Peppers,0
+The Doors,Guns N' Roses,0
+The Doors,Enya,0
+The Doors,B'z,0
+The Doors,Garth Brooks,0
+The Doors,Mariah Carey,0
+The Doors,Nirvana,0
+The Doors,Tupac Shakur,0
+The Doors,R. Kelly,0
+The Doors,Shania Twain,0
+The Doors,Tim McGraw,0
+The Doors,Usher,0
+The Doors,Green Day,0
+The Doors,Backstreet Boys,0
+The Doors,Shakira,0
+The Doors,Jay-Z,0
+The Doors,Robbie Williams,0
+The Doors,Britney Spears,0
+The Doors,Christina Aguilera,0
+The Doors,The Black Eyed Peas,0
+The Doors,Ayumi Hamasaki,0
+The Doors,Eminem,0
+The Doors,Lil Wayne,0
+The Doors,Coldplay,0
+The Doors,Linkin Park,0
+The Doors,Pink,0
+The Doors,Alicia Keys,0
+The Doors,Beyoncé,0
+The Doors,Maroon 5,0
+The Doors,Justin Timberlake,0
+The Doors,Kanye West,0
+The Doors,Rihanna,0
+The Doors,Chris Brown,0
+The Doors,Taylor Swift,0
+The Doors,Flo Rida,0
+The Doors,Luke Bryan,0
+The Doors,Katy Perry,0
+The Doors,Lady Gaga,0
+The Doors,Adele,0
+The Doors,Drake,0
+The Doors,Justin Bieber,0
+The Doors,Bruno Mars,0
+The Doors,Nicki Minaj,0
+The Doors,Ed Sheeran,0
+The Doors,Imagine Dragons,0
+The Doors,Ariana Grande,0
+The Doors,The Weeknd,0
+The Doors,Post Malone,0
+David Bowie,Bob Seger,1
+David Bowie,Julio Iglesias,1
+David Bowie,Fleetwood Mac,1
+David Bowie,Linda Ronstadt,1
+David Bowie,Led Zeppelin,1
+David Bowie,Rod Stewart,1
+David Bowie,Santana,1
+David Bowie,Chicago,1
+David Bowie,The Carpenters,1
+David Bowie,Genesis,1
+David Bowie,Elton John,0
+David Bowie,Eric Clapton,0
+David Bowie,Paul McCartney,0
+David Bowie,James Taylor,0
+David Bowie,Michael Jackson,0
+David Bowie,Billy Joel,0
+David Bowie,"Earth, Wind & Fire",0
+David Bowie,Eagles,0
+David Bowie,ABBA,0
+David Bowie,Queen,0
+David Bowie,Bruce Springsteen,0
+David Bowie,Aerosmith,0
+David Bowie,Barry Manilow,0
+David Bowie,Donna Summer,0
+David Bowie,Kiss,0
+David Bowie,AC/DC,0
+David Bowie,Journey,0
+David Bowie,Kenny Rogers,0
+David Bowie,Bob Marley,0
+David Bowie,Foreigner,0
+David Bowie,Meat Loaf,0
+David Bowie,Tom Petty,0
+David Bowie,Prince,0
+David Bowie,Dire Straits,0
+David Bowie,Van Halen,0
+David Bowie,The Police,0
+David Bowie,Def Leppard,0
+David Bowie,Bryan Adams,0
+David Bowie,U2,0
+David Bowie,Alabama,0
+David Bowie,Celine Dion,0
+David Bowie,Phil Collins,0
+David Bowie,Lionel Richie,0
+David Bowie,Janet Jackson,0
+David Bowie,Madonna,0
+David Bowie,Metallica,0
+David Bowie,Bon Jovi,0
+David Bowie,R.E.M.,0
+David Bowie,Whitney Houston,0
+David Bowie,George Strait,0
+David Bowie,George Michael,0
+David Bowie,Gloria Estefan,0
+David Bowie,Kenny G,0
+David Bowie,Red Hot Chili Peppers,0
+David Bowie,Guns N' Roses,0
+David Bowie,Enya,0
+David Bowie,B'z,0
+David Bowie,Garth Brooks,0
+David Bowie,Mariah Carey,0
+David Bowie,Nirvana,0
+David Bowie,Tupac Shakur,0
+David Bowie,R. Kelly,0
+David Bowie,Shania Twain,0
+David Bowie,Tim McGraw,0
+David Bowie,Usher,0
+David Bowie,Green Day,0
+David Bowie,Backstreet Boys,0
+David Bowie,Shakira,0
+David Bowie,Jay-Z,0
+David Bowie,Robbie Williams,0
+David Bowie,Britney Spears,0
+David Bowie,Christina Aguilera,0
+David Bowie,The Black Eyed Peas,0
+David Bowie,Ayumi Hamasaki,0
+David Bowie,Eminem,0
+David Bowie,Lil Wayne,0
+David Bowie,Coldplay,0
+David Bowie,Linkin Park,0
+David Bowie,Pink,0
+David Bowie,Alicia Keys,0
+David Bowie,Beyoncé,0
+David Bowie,Maroon 5,0
+David Bowie,Justin Timberlake,0
+David Bowie,Kanye West,0
+David Bowie,Rihanna,0
+David Bowie,Chris Brown,0
+David Bowie,Taylor Swift,0
+David Bowie,Flo Rida,0
+David Bowie,Luke Bryan,0
+David Bowie,Katy Perry,0
+David Bowie,Lady Gaga,0
+David Bowie,Adele,0
+David Bowie,Drake,0
+David Bowie,Justin Bieber,0
+David Bowie,Bruno Mars,0
+David Bowie,Nicki Minaj,0
+David Bowie,Ed Sheeran,0
+David Bowie,Imagine Dragons,0
+David Bowie,Ariana Grande,0
+David Bowie,The Weeknd,0
+David Bowie,Post Malone,0
+Bob Seger,Julio Iglesias,1
+Bob Seger,Fleetwood Mac,1
+Bob Seger,Linda Ronstadt,1
+Bob Seger,Led Zeppelin,1
+Bob Seger,Rod Stewart,1
+Bob Seger,Santana,1
+Bob Seger,Chicago,1
+Bob Seger,The Carpenters,1
+Bob Seger,Genesis,1
+Bob Seger,Elton John,0
+Bob Seger,Eric Clapton,0
+Bob Seger,Paul McCartney,0
+Bob Seger,James Taylor,0
+Bob Seger,Michael Jackson,0
+Bob Seger,Billy Joel,0
+Bob Seger,"Earth, Wind & Fire",0
+Bob Seger,Eagles,0
+Bob Seger,ABBA,0
+Bob Seger,Queen,0
+Bob Seger,Bruce Springsteen,0
+Bob Seger,Aerosmith,0
+Bob Seger,Barry Manilow,0
+Bob Seger,Donna Summer,0
+Bob Seger,Kiss,0
+Bob Seger,AC/DC,0
+Bob Seger,Journey,0
+Bob Seger,Kenny Rogers,0
+Bob Seger,Bob Marley,0
+Bob Seger,Foreigner,0
+Bob Seger,Meat Loaf,0
+Bob Seger,Tom Petty,0
+Bob Seger,Prince,0
+Bob Seger,Dire Straits,0
+Bob Seger,Van Halen,0
+Bob Seger,The Police,0
+Bob Seger,Def Leppard,0
+Bob Seger,Bryan Adams,0
+Bob Seger,U2,0
+Bob Seger,Alabama,0
+Bob Seger,Celine Dion,0
+Bob Seger,Phil Collins,0
+Bob Seger,Lionel Richie,0
+Bob Seger,Janet Jackson,0
+Bob Seger,Madonna,0
+Bob Seger,Metallica,0
+Bob Seger,Bon Jovi,0
+Bob Seger,R.E.M.,0
+Bob Seger,Whitney Houston,0
+Bob Seger,George Strait,0
+Bob Seger,George Michael,0
+Bob Seger,Gloria Estefan,0
+Bob Seger,Kenny G,0
+Bob Seger,Red Hot Chili Peppers,0
+Bob Seger,Guns N' Roses,0
+Bob Seger,Enya,0
+Bob Seger,B'z,0
+Bob Seger,Garth Brooks,0
+Bob Seger,Mariah Carey,0
+Bob Seger,Nirvana,0
+Bob Seger,Tupac Shakur,0
+Bob Seger,R. Kelly,0
+Bob Seger,Shania Twain,0
+Bob Seger,Tim McGraw,0
+Bob Seger,Usher,0
+Bob Seger,Green Day,0
+Bob Seger,Backstreet Boys,0
+Bob Seger,Shakira,0
+Bob Seger,Jay-Z,0
+Bob Seger,Robbie Williams,0
+Bob Seger,Britney Spears,0
+Bob Seger,Christina Aguilera,0
+Bob Seger,The Black Eyed Peas,0
+Bob Seger,Ayumi Hamasaki,0
+Bob Seger,Eminem,0
+Bob Seger,Lil Wayne,0
+Bob Seger,Coldplay,0
+Bob Seger,Linkin Park,0
+Bob Seger,Pink,0
+Bob Seger,Alicia Keys,0
+Bob Seger,Beyoncé,0
+Bob Seger,Maroon 5,0
+Bob Seger,Justin Timberlake,0
+Bob Seger,Kanye West,0
+Bob Seger,Rihanna,0
+Bob Seger,Chris Brown,0
+Bob Seger,Taylor Swift,0
+Bob Seger,Flo Rida,0
+Bob Seger,Luke Bryan,0
+Bob Seger,Katy Perry,0
+Bob Seger,Lady Gaga,0
+Bob Seger,Adele,0
+Bob Seger,Drake,0
+Bob Seger,Justin Bieber,0
+Bob Seger,Bruno Mars,0
+Bob Seger,Nicki Minaj,0
+Bob Seger,Ed Sheeran,0
+Bob Seger,Imagine Dragons,0
+Bob Seger,Ariana Grande,0
+Bob Seger,The Weeknd,0
+Bob Seger,Post Malone,0
+Julio Iglesias,Fleetwood Mac,1
+Julio Iglesias,Linda Ronstadt,1
+Julio Iglesias,Led Zeppelin,1
+Julio Iglesias,Rod Stewart,1
+Julio Iglesias,Santana,1
+Julio Iglesias,Chicago,1
+Julio Iglesias,The Carpenters,1
+Julio Iglesias,Genesis,1
+Julio Iglesias,Elton John,0
+Julio Iglesias,Eric Clapton,0
+Julio Iglesias,Paul McCartney,0
+Julio Iglesias,James Taylor,0
+Julio Iglesias,Michael Jackson,0
+Julio Iglesias,Billy Joel,0
+Julio Iglesias,"Earth, Wind & Fire",0
+Julio Iglesias,Eagles,0
+Julio Iglesias,ABBA,0
+Julio Iglesias,Queen,0
+Julio Iglesias,Bruce Springsteen,0
+Julio Iglesias,Aerosmith,0
+Julio Iglesias,Barry Manilow,0
+Julio Iglesias,Donna Summer,0
+Julio Iglesias,Kiss,0
+Julio Iglesias,AC/DC,0
+Julio Iglesias,Journey,0
+Julio Iglesias,Kenny Rogers,0
+Julio Iglesias,Bob Marley,0
+Julio Iglesias,Foreigner,0
+Julio Iglesias,Meat Loaf,0
+Julio Iglesias,Tom Petty,0
+Julio Iglesias,Prince,0
+Julio Iglesias,Dire Straits,0
+Julio Iglesias,Van Halen,0
+Julio Iglesias,The Police,0
+Julio Iglesias,Def Leppard,0
+Julio Iglesias,Bryan Adams,0
+Julio Iglesias,U2,0
+Julio Iglesias,Alabama,0
+Julio Iglesias,Celine Dion,0
+Julio Iglesias,Phil Collins,0
+Julio Iglesias,Lionel Richie,0
+Julio Iglesias,Janet Jackson,0
+Julio Iglesias,Madonna,0
+Julio Iglesias,Metallica,0
+Julio Iglesias,Bon Jovi,0
+Julio Iglesias,R.E.M.,0
+Julio Iglesias,Whitney Houston,0
+Julio Iglesias,George Strait,0
+Julio Iglesias,George Michael,0
+Julio Iglesias,Gloria Estefan,0
+Julio Iglesias,Kenny G,0
+Julio Iglesias,Red Hot Chili Peppers,0
+Julio Iglesias,Guns N' Roses,0
+Julio Iglesias,Enya,0
+Julio Iglesias,B'z,0
+Julio Iglesias,Garth Brooks,0
+Julio Iglesias,Mariah Carey,0
+Julio Iglesias,Nirvana,0
+Julio Iglesias,Tupac Shakur,0
+Julio Iglesias,R. Kelly,0
+Julio Iglesias,Shania Twain,0
+Julio Iglesias,Tim McGraw,0
+Julio Iglesias,Usher,0
+Julio Iglesias,Green Day,0
+Julio Iglesias,Backstreet Boys,0
+Julio Iglesias,Shakira,0
+Julio Iglesias,Jay-Z,0
+Julio Iglesias,Robbie Williams,0
+Julio Iglesias,Britney Spears,0
+Julio Iglesias,Christina Aguilera,0
+Julio Iglesias,The Black Eyed Peas,0
+Julio Iglesias,Ayumi Hamasaki,0
+Julio Iglesias,Eminem,0
+Julio Iglesias,Lil Wayne,0
+Julio Iglesias,Coldplay,0
+Julio Iglesias,Linkin Park,0
+Julio Iglesias,Pink,0
+Julio Iglesias,Alicia Keys,0
+Julio Iglesias,Beyoncé,0
+Julio Iglesias,Maroon 5,0
+Julio Iglesias,Justin Timberlake,0
+Julio Iglesias,Kanye West,0
+Julio Iglesias,Rihanna,0
+Julio Iglesias,Chris Brown,0
+Julio Iglesias,Taylor Swift,0
+Julio Iglesias,Flo Rida,0
+Julio Iglesias,Luke Bryan,0
+Julio Iglesias,Katy Perry,0
+Julio Iglesias,Lady Gaga,0
+Julio Iglesias,Adele,0
+Julio Iglesias,Drake,0
+Julio Iglesias,Justin Bieber,0
+Julio Iglesias,Bruno Mars,0
+Julio Iglesias,Nicki Minaj,0
+Julio Iglesias,Ed Sheeran,0
+Julio Iglesias,Imagine Dragons,0
+Julio Iglesias,Ariana Grande,0
+Julio Iglesias,The Weeknd,0
+Julio Iglesias,Post Malone,0
+Fleetwood Mac,Linda Ronstadt,1
+Fleetwood Mac,Led Zeppelin,1
+Fleetwood Mac,Rod Stewart,1
+Fleetwood Mac,Santana,1
+Fleetwood Mac,Chicago,1
+Fleetwood Mac,The Carpenters,1
+Fleetwood Mac,Genesis,1
+Fleetwood Mac,Elton John,0
+Fleetwood Mac,Eric Clapton,0
+Fleetwood Mac,Paul McCartney,0
+Fleetwood Mac,James Taylor,0
+Fleetwood Mac,Michael Jackson,0
+Fleetwood Mac,Billy Joel,0
+Fleetwood Mac,"Earth, Wind & Fire",0
+Fleetwood Mac,Eagles,0
+Fleetwood Mac,ABBA,0
+Fleetwood Mac,Queen,0
+Fleetwood Mac,Bruce Springsteen,0
+Fleetwood Mac,Aerosmith,0
+Fleetwood Mac,Barry Manilow,0
+Fleetwood Mac,Donna Summer,0
+Fleetwood Mac,Kiss,0
+Fleetwood Mac,AC/DC,0
+Fleetwood Mac,Journey,0
+Fleetwood Mac,Kenny Rogers,0
+Fleetwood Mac,Bob Marley,0
+Fleetwood Mac,Foreigner,0
+Fleetwood Mac,Meat Loaf,0
+Fleetwood Mac,Tom Petty,0
+Fleetwood Mac,Prince,0
+Fleetwood Mac,Dire Straits,0
+Fleetwood Mac,Van Halen,0
+Fleetwood Mac,The Police,0
+Fleetwood Mac,Def Leppard,0
+Fleetwood Mac,Bryan Adams,0
+Fleetwood Mac,U2,0
+Fleetwood Mac,Alabama,0
+Fleetwood Mac,Celine Dion,0
+Fleetwood Mac,Phil Collins,0
+Fleetwood Mac,Lionel Richie,0
+Fleetwood Mac,Janet Jackson,0
+Fleetwood Mac,Madonna,0
+Fleetwood Mac,Metallica,0
+Fleetwood Mac,Bon Jovi,0
+Fleetwood Mac,R.E.M.,0
+Fleetwood Mac,Whitney Houston,0
+Fleetwood Mac,George Strait,0
+Fleetwood Mac,George Michael,0
+Fleetwood Mac,Gloria Estefan,0
+Fleetwood Mac,Kenny G,0
+Fleetwood Mac,Red Hot Chili Peppers,0
+Fleetwood Mac,Guns N' Roses,0
+Fleetwood Mac,Enya,0
+Fleetwood Mac,B'z,0
+Fleetwood Mac,Garth Brooks,0
+Fleetwood Mac,Mariah Carey,0
+Fleetwood Mac,Nirvana,0
+Fleetwood Mac,Tupac Shakur,0
+Fleetwood Mac,R. Kelly,0
+Fleetwood Mac,Shania Twain,0
+Fleetwood Mac,Tim McGraw,0
+Fleetwood Mac,Usher,0
+Fleetwood Mac,Green Day,0
+Fleetwood Mac,Backstreet Boys,0
+Fleetwood Mac,Shakira,0
+Fleetwood Mac,Jay-Z,0
+Fleetwood Mac,Robbie Williams,0
+Fleetwood Mac,Britney Spears,0
+Fleetwood Mac,Christina Aguilera,0
+Fleetwood Mac,The Black Eyed Peas,0
+Fleetwood Mac,Ayumi Hamasaki,0
+Fleetwood Mac,Eminem,0
+Fleetwood Mac,Lil Wayne,0
+Fleetwood Mac,Coldplay,0
+Fleetwood Mac,Linkin Park,0
+Fleetwood Mac,Pink,0
+Fleetwood Mac,Alicia Keys,0
+Fleetwood Mac,Beyoncé,0
+Fleetwood Mac,Maroon 5,0
+Fleetwood Mac,Justin Timberlake,0
+Fleetwood Mac,Kanye West,0
+Fleetwood Mac,Rihanna,0
+Fleetwood Mac,Chris Brown,0
+Fleetwood Mac,Taylor Swift,0
+Fleetwood Mac,Flo Rida,0
+Fleetwood Mac,Luke Bryan,0
+Fleetwood Mac,Katy Perry,0
+Fleetwood Mac,Lady Gaga,0
+Fleetwood Mac,Adele,0
+Fleetwood Mac,Drake,0
+Fleetwood Mac,Justin Bieber,0
+Fleetwood Mac,Bruno Mars,0
+Fleetwood Mac,Nicki Minaj,0
+Fleetwood Mac,Ed Sheeran,0
+Fleetwood Mac,Imagine Dragons,0
+Fleetwood Mac,Ariana Grande,0
+Fleetwood Mac,The Weeknd,0
+Fleetwood Mac,Post Malone,0
+Linda Ronstadt,Led Zeppelin,1
+Linda Ronstadt,Rod Stewart,1
+Linda Ronstadt,Santana,1
+Linda Ronstadt,Chicago,1
+Linda Ronstadt,The Carpenters,1
+Linda Ronstadt,Genesis,1
+Linda Ronstadt,Elton John,0
+Linda Ronstadt,Eric Clapton,0
+Linda Ronstadt,Paul McCartney,0
+Linda Ronstadt,James Taylor,0
+Linda Ronstadt,Michael Jackson,0
+Linda Ronstadt,Billy Joel,0
+Linda Ronstadt,"Earth, Wind & Fire",0
+Linda Ronstadt,Eagles,0
+Linda Ronstadt,ABBA,0
+Linda Ronstadt,Queen,0
+Linda Ronstadt,Bruce Springsteen,0
+Linda Ronstadt,Aerosmith,0
+Linda Ronstadt,Barry Manilow,0
+Linda Ronstadt,Donna Summer,0
+Linda Ronstadt,Kiss,0
+Linda Ronstadt,AC/DC,0
+Linda Ronstadt,Journey,0
+Linda Ronstadt,Kenny Rogers,0
+Linda Ronstadt,Bob Marley,0
+Linda Ronstadt,Foreigner,0
+Linda Ronstadt,Meat Loaf,0
+Linda Ronstadt,Tom Petty,0
+Linda Ronstadt,Prince,0
+Linda Ronstadt,Dire Straits,0
+Linda Ronstadt,Van Halen,0
+Linda Ronstadt,The Police,0
+Linda Ronstadt,Def Leppard,0
+Linda Ronstadt,Bryan Adams,0
+Linda Ronstadt,U2,0
+Linda Ronstadt,Alabama,0
+Linda Ronstadt,Celine Dion,0
+Linda Ronstadt,Phil Collins,0
+Linda Ronstadt,Lionel Richie,0
+Linda Ronstadt,Janet Jackson,0
+Linda Ronstadt,Madonna,0
+Linda Ronstadt,Metallica,0
+Linda Ronstadt,Bon Jovi,0
+Linda Ronstadt,R.E.M.,0
+Linda Ronstadt,Whitney Houston,0
+Linda Ronstadt,George Strait,0
+Linda Ronstadt,George Michael,0
+Linda Ronstadt,Gloria Estefan,0
+Linda Ronstadt,Kenny G,0
+Linda Ronstadt,Red Hot Chili Peppers,0
+Linda Ronstadt,Guns N' Roses,0
+Linda Ronstadt,Enya,0
+Linda Ronstadt,B'z,0
+Linda Ronstadt,Garth Brooks,0
+Linda Ronstadt,Mariah Carey,0
+Linda Ronstadt,Nirvana,0
+Linda Ronstadt,Tupac Shakur,0
+Linda Ronstadt,R. Kelly,0
+Linda Ronstadt,Shania Twain,0
+Linda Ronstadt,Tim McGraw,0
+Linda Ronstadt,Usher,0
+Linda Ronstadt,Green Day,0
+Linda Ronstadt,Backstreet Boys,0
+Linda Ronstadt,Shakira,0
+Linda Ronstadt,Jay-Z,0
+Linda Ronstadt,Robbie Williams,0
+Linda Ronstadt,Britney Spears,0
+Linda Ronstadt,Christina Aguilera,0
+Linda Ronstadt,The Black Eyed Peas,0
+Linda Ronstadt,Ayumi Hamasaki,0
+Linda Ronstadt,Eminem,0
+Linda Ronstadt,Lil Wayne,0
+Linda Ronstadt,Coldplay,0
+Linda Ronstadt,Linkin Park,0
+Linda Ronstadt,Pink,0
+Linda Ronstadt,Alicia Keys,0
+Linda Ronstadt,Beyoncé,0
+Linda Ronstadt,Maroon 5,0
+Linda Ronstadt,Justin Timberlake,0
+Linda Ronstadt,Kanye West,0
+Linda Ronstadt,Rihanna,0
+Linda Ronstadt,Chris Brown,0
+Linda Ronstadt,Taylor Swift,0
+Linda Ronstadt,Flo Rida,0
+Linda Ronstadt,Luke Bryan,0
+Linda Ronstadt,Katy Perry,0
+Linda Ronstadt,Lady Gaga,0
+Linda Ronstadt,Adele,0
+Linda Ronstadt,Drake,0
+Linda Ronstadt,Justin Bieber,0
+Linda Ronstadt,Bruno Mars,0
+Linda Ronstadt,Nicki Minaj,0
+Linda Ronstadt,Ed Sheeran,0
+Linda Ronstadt,Imagine Dragons,0
+Linda Ronstadt,Ariana Grande,0
+Linda Ronstadt,The Weeknd,0
+Linda Ronstadt,Post Malone,0
+Led Zeppelin,Rod Stewart,1
+Led Zeppelin,Santana,1
+Led Zeppelin,Chicago,1
+Led Zeppelin,The Carpenters,1
+Led Zeppelin,Genesis,1
+Led Zeppelin,Elton John,0
+Led Zeppelin,Eric Clapton,0
+Led Zeppelin,Paul McCartney,0
+Led Zeppelin,James Taylor,0
+Led Zeppelin,Michael Jackson,0
+Led Zeppelin,Billy Joel,0
+Led Zeppelin,"Earth, Wind & Fire",0
+Led Zeppelin,Eagles,0
+Led Zeppelin,ABBA,0
+Led Zeppelin,Queen,0
+Led Zeppelin,Bruce Springsteen,0
+Led Zeppelin,Aerosmith,0
+Led Zeppelin,Barry Manilow,0
+Led Zeppelin,Donna Summer,0
+Led Zeppelin,Kiss,0
+Led Zeppelin,AC/DC,0
+Led Zeppelin,Journey,0
+Led Zeppelin,Kenny Rogers,0
+Led Zeppelin,Bob Marley,0
+Led Zeppelin,Foreigner,0
+Led Zeppelin,Meat Loaf,0
+Led Zeppelin,Tom Petty,0
+Led Zeppelin,Prince,0
+Led Zeppelin,Dire Straits,0
+Led Zeppelin,Van Halen,0
+Led Zeppelin,The Police,0
+Led Zeppelin,Def Leppard,0
+Led Zeppelin,Bryan Adams,0
+Led Zeppelin,U2,0
+Led Zeppelin,Alabama,0
+Led Zeppelin,Celine Dion,0
+Led Zeppelin,Phil Collins,0
+Led Zeppelin,Lionel Richie,0
+Led Zeppelin,Janet Jackson,0
+Led Zeppelin,Madonna,0
+Led Zeppelin,Metallica,0
+Led Zeppelin,Bon Jovi,0
+Led Zeppelin,R.E.M.,0
+Led Zeppelin,Whitney Houston,0
+Led Zeppelin,George Strait,0
+Led Zeppelin,George Michael,0
+Led Zeppelin,Gloria Estefan,0
+Led Zeppelin,Kenny G,0
+Led Zeppelin,Red Hot Chili Peppers,0
+Led Zeppelin,Guns N' Roses,0
+Led Zeppelin,Enya,0
+Led Zeppelin,B'z,0
+Led Zeppelin,Garth Brooks,0
+Led Zeppelin,Mariah Carey,0
+Led Zeppelin,Nirvana,0
+Led Zeppelin,Tupac Shakur,0
+Led Zeppelin,R. Kelly,0
+Led Zeppelin,Shania Twain,0
+Led Zeppelin,Tim McGraw,0
+Led Zeppelin,Usher,0
+Led Zeppelin,Green Day,0
+Led Zeppelin,Backstreet Boys,0
+Led Zeppelin,Shakira,0
+Led Zeppelin,Jay-Z,0
+Led Zeppelin,Robbie Williams,0
+Led Zeppelin,Britney Spears,0
+Led Zeppelin,Christina Aguilera,0
+Led Zeppelin,The Black Eyed Peas,0
+Led Zeppelin,Ayumi Hamasaki,0
+Led Zeppelin,Eminem,0
+Led Zeppelin,Lil Wayne,0
+Led Zeppelin,Coldplay,0
+Led Zeppelin,Linkin Park,0
+Led Zeppelin,Pink,0
+Led Zeppelin,Alicia Keys,0
+Led Zeppelin,Beyoncé,0
+Led Zeppelin,Maroon 5,0
+Led Zeppelin,Justin Timberlake,0
+Led Zeppelin,Kanye West,0
+Led Zeppelin,Rihanna,0
+Led Zeppelin,Chris Brown,0
+Led Zeppelin,Taylor Swift,0
+Led Zeppelin,Flo Rida,0
+Led Zeppelin,Luke Bryan,0
+Led Zeppelin,Katy Perry,0
+Led Zeppelin,Lady Gaga,0
+Led Zeppelin,Adele,0
+Led Zeppelin,Drake,0
+Led Zeppelin,Justin Bieber,0
+Led Zeppelin,Bruno Mars,0
+Led Zeppelin,Nicki Minaj,0
+Led Zeppelin,Ed Sheeran,0
+Led Zeppelin,Imagine Dragons,0
+Led Zeppelin,Ariana Grande,0
+Led Zeppelin,The Weeknd,0
+Led Zeppelin,Post Malone,0
+Rod Stewart,Santana,1
+Rod Stewart,Chicago,1
+Rod Stewart,The Carpenters,1
+Rod Stewart,Genesis,1
+Rod Stewart,Elton John,0
+Rod Stewart,Eric Clapton,0
+Rod Stewart,Paul McCartney,0
+Rod Stewart,James Taylor,0
+Rod Stewart,Michael Jackson,0
+Rod Stewart,Billy Joel,0
+Rod Stewart,"Earth, Wind & Fire",0
+Rod Stewart,Eagles,0
+Rod Stewart,ABBA,0
+Rod Stewart,Queen,0
+Rod Stewart,Bruce Springsteen,0
+Rod Stewart,Aerosmith,0
+Rod Stewart,Barry Manilow,0
+Rod Stewart,Donna Summer,0
+Rod Stewart,Kiss,0
+Rod Stewart,AC/DC,0
+Rod Stewart,Journey,0
+Rod Stewart,Kenny Rogers,0
+Rod Stewart,Bob Marley,0
+Rod Stewart,Foreigner,0
+Rod Stewart,Meat Loaf,0
+Rod Stewart,Tom Petty,0
+Rod Stewart,Prince,0
+Rod Stewart,Dire Straits,0
+Rod Stewart,Van Halen,0
+Rod Stewart,The Police,0
+Rod Stewart,Def Leppard,0
+Rod Stewart,Bryan Adams,0
+Rod Stewart,U2,0
+Rod Stewart,Alabama,0
+Rod Stewart,Celine Dion,0
+Rod Stewart,Phil Collins,0
+Rod Stewart,Lionel Richie,0
+Rod Stewart,Janet Jackson,0
+Rod Stewart,Madonna,0
+Rod Stewart,Metallica,0
+Rod Stewart,Bon Jovi,0
+Rod Stewart,R.E.M.,0
+Rod Stewart,Whitney Houston,0
+Rod Stewart,George Strait,0
+Rod Stewart,George Michael,0
+Rod Stewart,Gloria Estefan,0
+Rod Stewart,Kenny G,0
+Rod Stewart,Red Hot Chili Peppers,0
+Rod Stewart,Guns N' Roses,0
+Rod Stewart,Enya,0
+Rod Stewart,B'z,0
+Rod Stewart,Garth Brooks,0
+Rod Stewart,Mariah Carey,0
+Rod Stewart,Nirvana,0
+Rod Stewart,Tupac Shakur,0
+Rod Stewart,R. Kelly,0
+Rod Stewart,Shania Twain,0
+Rod Stewart,Tim McGraw,0
+Rod Stewart,Usher,0
+Rod Stewart,Green Day,0
+Rod Stewart,Backstreet Boys,0
+Rod Stewart,Shakira,0
+Rod Stewart,Jay-Z,0
+Rod Stewart,Robbie Williams,0
+Rod Stewart,Britney Spears,0
+Rod Stewart,Christina Aguilera,0
+Rod Stewart,The Black Eyed Peas,0
+Rod Stewart,Ayumi Hamasaki,0
+Rod Stewart,Eminem,0
+Rod Stewart,Lil Wayne,0
+Rod Stewart,Coldplay,0
+Rod Stewart,Linkin Park,0
+Rod Stewart,Pink,0
+Rod Stewart,Alicia Keys,0
+Rod Stewart,Beyoncé,0
+Rod Stewart,Maroon 5,0
+Rod Stewart,Justin Timberlake,0
+Rod Stewart,Kanye West,0
+Rod Stewart,Rihanna,0
+Rod Stewart,Chris Brown,0
+Rod Stewart,Taylor Swift,0
+Rod Stewart,Flo Rida,0
+Rod Stewart,Luke Bryan,0
+Rod Stewart,Katy Perry,0
+Rod Stewart,Lady Gaga,0
+Rod Stewart,Adele,0
+Rod Stewart,Drake,0
+Rod Stewart,Justin Bieber,0
+Rod Stewart,Bruno Mars,0
+Rod Stewart,Nicki Minaj,0
+Rod Stewart,Ed Sheeran,0
+Rod Stewart,Imagine Dragons,0
+Rod Stewart,Ariana Grande,0
+Rod Stewart,The Weeknd,0
+Rod Stewart,Post Malone,0
+Santana,Chicago,1
+Santana,The Carpenters,1
+Santana,Genesis,1
+Santana,Elton John,0
+Santana,Eric Clapton,0
+Santana,Paul McCartney,0
+Santana,James Taylor,0
+Santana,Michael Jackson,0
+Santana,Billy Joel,0
+Santana,"Earth, Wind & Fire",0
+Santana,Eagles,0
+Santana,ABBA,0
+Santana,Queen,0
+Santana,Bruce Springsteen,0
+Santana,Aerosmith,0
+Santana,Barry Manilow,0
+Santana,Donna Summer,0
+Santana,Kiss,0
+Santana,AC/DC,0
+Santana,Journey,0
+Santana,Kenny Rogers,0
+Santana,Bob Marley,0
+Santana,Foreigner,0
+Santana,Meat Loaf,0
+Santana,Tom Petty,0
+Santana,Prince,0
+Santana,Dire Straits,0
+Santana,Van Halen,0
+Santana,The Police,0
+Santana,Def Leppard,0
+Santana,Bryan Adams,0
+Santana,U2,0
+Santana,Alabama,0
+Santana,Celine Dion,0
+Santana,Phil Collins,0
+Santana,Lionel Richie,0
+Santana,Janet Jackson,0
+Santana,Madonna,0
+Santana,Metallica,0
+Santana,Bon Jovi,0
+Santana,R.E.M.,0
+Santana,Whitney Houston,0
+Santana,George Strait,0
+Santana,George Michael,0
+Santana,Gloria Estefan,0
+Santana,Kenny G,0
+Santana,Red Hot Chili Peppers,0
+Santana,Guns N' Roses,0
+Santana,Enya,0
+Santana,B'z,0
+Santana,Garth Brooks,0
+Santana,Mariah Carey,0
+Santana,Nirvana,0
+Santana,Tupac Shakur,0
+Santana,R. Kelly,0
+Santana,Shania Twain,0
+Santana,Tim McGraw,0
+Santana,Usher,0
+Santana,Green Day,0
+Santana,Backstreet Boys,0
+Santana,Shakira,0
+Santana,Jay-Z,0
+Santana,Robbie Williams,0
+Santana,Britney Spears,0
+Santana,Christina Aguilera,0
+Santana,The Black Eyed Peas,0
+Santana,Ayumi Hamasaki,0
+Santana,Eminem,0
+Santana,Lil Wayne,0
+Santana,Coldplay,0
+Santana,Linkin Park,0
+Santana,Pink,0
+Santana,Alicia Keys,0
+Santana,Beyoncé,0
+Santana,Maroon 5,0
+Santana,Justin Timberlake,0
+Santana,Kanye West,0
+Santana,Rihanna,0
+Santana,Chris Brown,0
+Santana,Taylor Swift,0
+Santana,Flo Rida,0
+Santana,Luke Bryan,0
+Santana,Katy Perry,0
+Santana,Lady Gaga,0
+Santana,Adele,0
+Santana,Drake,0
+Santana,Justin Bieber,0
+Santana,Bruno Mars,0
+Santana,Nicki Minaj,0
+Santana,Ed Sheeran,0
+Santana,Imagine Dragons,0
+Santana,Ariana Grande,0
+Santana,The Weeknd,0
+Santana,Post Malone,0
+Chicago,The Carpenters,1
+Chicago,Genesis,1
+Chicago,Elton John,0
+Chicago,Eric Clapton,0
+Chicago,Paul McCartney,0
+Chicago,James Taylor,0
+Chicago,Michael Jackson,0
+Chicago,Billy Joel,0
+Chicago,"Earth, Wind & Fire",0
+Chicago,Eagles,0
+Chicago,ABBA,0
+Chicago,Queen,0
+Chicago,Bruce Springsteen,0
+Chicago,Aerosmith,0
+Chicago,Barry Manilow,0
+Chicago,Donna Summer,0
+Chicago,Kiss,0
+Chicago,AC/DC,0
+Chicago,Journey,0
+Chicago,Kenny Rogers,0
+Chicago,Bob Marley,0
+Chicago,Foreigner,0
+Chicago,Meat Loaf,0
+Chicago,Tom Petty,0
+Chicago,Prince,0
+Chicago,Dire Straits,0
+Chicago,Van Halen,0
+Chicago,The Police,0
+Chicago,Def Leppard,0
+Chicago,Bryan Adams,0
+Chicago,U2,0
+Chicago,Alabama,0
+Chicago,Celine Dion,0
+Chicago,Phil Collins,0
+Chicago,Lionel Richie,0
+Chicago,Janet Jackson,0
+Chicago,Madonna,0
+Chicago,Metallica,0
+Chicago,Bon Jovi,0
+Chicago,R.E.M.,0
+Chicago,Whitney Houston,0
+Chicago,George Strait,0
+Chicago,George Michael,0
+Chicago,Gloria Estefan,0
+Chicago,Kenny G,0
+Chicago,Red Hot Chili Peppers,0
+Chicago,Guns N' Roses,0
+Chicago,Enya,0
+Chicago,B'z,0
+Chicago,Garth Brooks,0
+Chicago,Mariah Carey,0
+Chicago,Nirvana,0
+Chicago,Tupac Shakur,0
+Chicago,R. Kelly,0
+Chicago,Shania Twain,0
+Chicago,Tim McGraw,0
+Chicago,Usher,0
+Chicago,Green Day,0
+Chicago,Backstreet Boys,0
+Chicago,Shakira,0
+Chicago,Jay-Z,0
+Chicago,Robbie Williams,0
+Chicago,Britney Spears,0
+Chicago,Christina Aguilera,0
+Chicago,The Black Eyed Peas,0
+Chicago,Ayumi Hamasaki,0
+Chicago,Eminem,0
+Chicago,Lil Wayne,0
+Chicago,Coldplay,0
+Chicago,Linkin Park,0
+Chicago,Pink,0
+Chicago,Alicia Keys,0
+Chicago,Beyoncé,0
+Chicago,Maroon 5,0
+Chicago,Justin Timberlake,0
+Chicago,Kanye West,0
+Chicago,Rihanna,0
+Chicago,Chris Brown,0
+Chicago,Taylor Swift,0
+Chicago,Flo Rida,0
+Chicago,Luke Bryan,0
+Chicago,Katy Perry,0
+Chicago,Lady Gaga,0
+Chicago,Adele,0
+Chicago,Drake,0
+Chicago,Justin Bieber,0
+Chicago,Bruno Mars,0
+Chicago,Nicki Minaj,0
+Chicago,Ed Sheeran,0
+Chicago,Imagine Dragons,0
+Chicago,Ariana Grande,0
+Chicago,The Weeknd,0
+Chicago,Post Malone,0
+The Carpenters,Genesis,1
+The Carpenters,Elton John,0
+The Carpenters,Eric Clapton,0
+The Carpenters,Paul McCartney,0
+The Carpenters,James Taylor,0
+The Carpenters,Michael Jackson,0
+The Carpenters,Billy Joel,0
+The Carpenters,"Earth, Wind & Fire",0
+The Carpenters,Eagles,0
+The Carpenters,ABBA,0
+The Carpenters,Queen,0
+The Carpenters,Bruce Springsteen,0
+The Carpenters,Aerosmith,0
+The Carpenters,Barry Manilow,0
+The Carpenters,Donna Summer,0
+The Carpenters,Kiss,0
+The Carpenters,AC/DC,0
+The Carpenters,Journey,0
+The Carpenters,Kenny Rogers,0
+The Carpenters,Bob Marley,0
+The Carpenters,Foreigner,0
+The Carpenters,Meat Loaf,0
+The Carpenters,Tom Petty,0
+The Carpenters,Prince,0
+The Carpenters,Dire Straits,0
+The Carpenters,Van Halen,0
+The Carpenters,The Police,0
+The Carpenters,Def Leppard,0
+The Carpenters,Bryan Adams,0
+The Carpenters,U2,0
+The Carpenters,Alabama,0
+The Carpenters,Celine Dion,0
+The Carpenters,Phil Collins,0
+The Carpenters,Lionel Richie,0
+The Carpenters,Janet Jackson,0
+The Carpenters,Madonna,0
+The Carpenters,Metallica,0
+The Carpenters,Bon Jovi,0
+The Carpenters,R.E.M.,0
+The Carpenters,Whitney Houston,0
+The Carpenters,George Strait,0
+The Carpenters,George Michael,0
+The Carpenters,Gloria Estefan,0
+The Carpenters,Kenny G,0
+The Carpenters,Red Hot Chili Peppers,0
+The Carpenters,Guns N' Roses,0
+The Carpenters,Enya,0
+The Carpenters,B'z,0
+The Carpenters,Garth Brooks,0
+The Carpenters,Mariah Carey,0
+The Carpenters,Nirvana,0
+The Carpenters,Tupac Shakur,0
+The Carpenters,R. Kelly,0
+The Carpenters,Shania Twain,0
+The Carpenters,Tim McGraw,0
+The Carpenters,Usher,0
+The Carpenters,Green Day,0
+The Carpenters,Backstreet Boys,0
+The Carpenters,Shakira,0
+The Carpenters,Jay-Z,0
+The Carpenters,Robbie Williams,0
+The Carpenters,Britney Spears,0
+The Carpenters,Christina Aguilera,0
+The Carpenters,The Black Eyed Peas,0
+The Carpenters,Ayumi Hamasaki,0
+The Carpenters,Eminem,0
+The Carpenters,Lil Wayne,0
+The Carpenters,Coldplay,0
+The Carpenters,Linkin Park,0
+The Carpenters,Pink,0
+The Carpenters,Alicia Keys,0
+The Carpenters,Beyoncé,0
+The Carpenters,Maroon 5,0
+The Carpenters,Justin Timberlake,0
+The Carpenters,Kanye West,0
+The Carpenters,Rihanna,0
+The Carpenters,Chris Brown,0
+The Carpenters,Taylor Swift,0
+The Carpenters,Flo Rida,0
+The Carpenters,Luke Bryan,0
+The Carpenters,Katy Perry,0
+The Carpenters,Lady Gaga,0
+The Carpenters,Adele,0
+The Carpenters,Drake,0
+The Carpenters,Justin Bieber,0
+The Carpenters,Bruno Mars,0
+The Carpenters,Nicki Minaj,0
+The Carpenters,Ed Sheeran,0
+The Carpenters,Imagine Dragons,0
+The Carpenters,Ariana Grande,0
+The Carpenters,The Weeknd,0
+The Carpenters,Post Malone,0
+Genesis,Elton John,0
+Genesis,Eric Clapton,0
+Genesis,Paul McCartney,0
+Genesis,James Taylor,0
+Genesis,Michael Jackson,0
+Genesis,Billy Joel,0
+Genesis,"Earth, Wind & Fire",0
+Genesis,Eagles,0
+Genesis,ABBA,0
+Genesis,Queen,0
+Genesis,Bruce Springsteen,0
+Genesis,Aerosmith,0
+Genesis,Barry Manilow,0
+Genesis,Donna Summer,0
+Genesis,Kiss,0
+Genesis,AC/DC,0
+Genesis,Journey,0
+Genesis,Kenny Rogers,0
+Genesis,Bob Marley,0
+Genesis,Foreigner,0
+Genesis,Meat Loaf,0
+Genesis,Tom Petty,0
+Genesis,Prince,0
+Genesis,Dire Straits,0
+Genesis,Van Halen,0
+Genesis,The Police,0
+Genesis,Def Leppard,0
+Genesis,Bryan Adams,0
+Genesis,U2,0
+Genesis,Alabama,0
+Genesis,Celine Dion,0
+Genesis,Phil Collins,0
+Genesis,Lionel Richie,0
+Genesis,Janet Jackson,0
+Genesis,Madonna,0
+Genesis,Metallica,0
+Genesis,Bon Jovi,0
+Genesis,R.E.M.,0
+Genesis,Whitney Houston,0
+Genesis,George Strait,0
+Genesis,George Michael,0
+Genesis,Gloria Estefan,0
+Genesis,Kenny G,0
+Genesis,Red Hot Chili Peppers,0
+Genesis,Guns N' Roses,0
+Genesis,Enya,0
+Genesis,B'z,0
+Genesis,Garth Brooks,0
+Genesis,Mariah Carey,0
+Genesis,Nirvana,0
+Genesis,Tupac Shakur,0
+Genesis,R. Kelly,0
+Genesis,Shania Twain,0
+Genesis,Tim McGraw,0
+Genesis,Usher,0
+Genesis,Green Day,0
+Genesis,Backstreet Boys,0
+Genesis,Shakira,0
+Genesis,Jay-Z,0
+Genesis,Robbie Williams,0
+Genesis,Britney Spears,0
+Genesis,Christina Aguilera,0
+Genesis,The Black Eyed Peas,0
+Genesis,Ayumi Hamasaki,0
+Genesis,Eminem,0
+Genesis,Lil Wayne,0
+Genesis,Coldplay,0
+Genesis,Linkin Park,0
+Genesis,Pink,0
+Genesis,Alicia Keys,0
+Genesis,Beyoncé,0
+Genesis,Maroon 5,0
+Genesis,Justin Timberlake,0
+Genesis,Kanye West,0
+Genesis,Rihanna,0
+Genesis,Chris Brown,0
+Genesis,Taylor Swift,0
+Genesis,Flo Rida,0
+Genesis,Luke Bryan,0
+Genesis,Katy Perry,0
+Genesis,Lady Gaga,0
+Genesis,Adele,0
+Genesis,Drake,0
+Genesis,Justin Bieber,0
+Genesis,Bruno Mars,0
+Genesis,Nicki Minaj,0
+Genesis,Ed Sheeran,0
+Genesis,Imagine Dragons,0
+Genesis,Ariana Grande,0
+Genesis,The Weeknd,0
+Genesis,Post Malone,0
+Elton John,Eric Clapton,1
+Elton John,Paul McCartney,1
+Elton John,James Taylor,1
+Elton John,Michael Jackson,1
+Elton John,Billy Joel,1
+Elton John,"Earth, Wind & Fire",1
+Elton John,Eagles,1
+Elton John,ABBA,1
+Elton John,Queen,1
+Elton John,Bruce Springsteen,1
+Elton John,Aerosmith,1
+Elton John,Barry Manilow,1
+Elton John,Donna Summer,1
+Elton John,Kiss,1
+Elton John,AC/DC,1
+Elton John,Journey,1
+Elton John,Kenny Rogers,1
+Elton John,Bob Marley,1
+Elton John,Foreigner,1
+Elton John,Meat Loaf,1
+Elton John,Tom Petty,1
+Elton John,Prince,1
+Elton John,Dire Straits,1
+Elton John,Van Halen,1
+Elton John,The Police,1
+Elton John,Def Leppard,1
+Elton John,Bryan Adams,1
+Elton John,U2,0
+Elton John,Alabama,0
+Elton John,Celine Dion,0
+Elton John,Phil Collins,0
+Elton John,Lionel Richie,0
+Elton John,Janet Jackson,0
+Elton John,Madonna,0
+Elton John,Metallica,0
+Elton John,Bon Jovi,0
+Elton John,R.E.M.,0
+Elton John,Whitney Houston,0
+Elton John,George Strait,0
+Elton John,George Michael,0
+Elton John,Gloria Estefan,0
+Elton John,Kenny G,0
+Elton John,Red Hot Chili Peppers,0
+Elton John,Guns N' Roses,0
+Elton John,Enya,0
+Elton John,B'z,0
+Elton John,Garth Brooks,0
+Elton John,Mariah Carey,0
+Elton John,Nirvana,0
+Elton John,Tupac Shakur,0
+Elton John,R. Kelly,0
+Elton John,Shania Twain,0
+Elton John,Tim McGraw,0
+Elton John,Usher,0
+Elton John,Green Day,0
+Elton John,Backstreet Boys,0
+Elton John,Shakira,0
+Elton John,Jay-Z,0
+Elton John,Robbie Williams,0
+Elton John,Britney Spears,0
+Elton John,Christina Aguilera,0
+Elton John,The Black Eyed Peas,0
+Elton John,Ayumi Hamasaki,0
+Elton John,Eminem,0
+Elton John,Lil Wayne,0
+Elton John,Coldplay,0
+Elton John,Linkin Park,0
+Elton John,Pink,0
+Elton John,Alicia Keys,0
+Elton John,Beyoncé,0
+Elton John,Maroon 5,0
+Elton John,Justin Timberlake,0
+Elton John,Kanye West,0
+Elton John,Rihanna,0
+Elton John,Chris Brown,0
+Elton John,Taylor Swift,0
+Elton John,Flo Rida,0
+Elton John,Luke Bryan,0
+Elton John,Katy Perry,0
+Elton John,Lady Gaga,0
+Elton John,Adele,0
+Elton John,Drake,0
+Elton John,Justin Bieber,0
+Elton John,Bruno Mars,0
+Elton John,Nicki Minaj,0
+Elton John,Ed Sheeran,0
+Elton John,Imagine Dragons,0
+Elton John,Ariana Grande,0
+Elton John,The Weeknd,0
+Elton John,Post Malone,0
+Eric Clapton,Paul McCartney,1
+Eric Clapton,James Taylor,1
+Eric Clapton,Michael Jackson,1
+Eric Clapton,Billy Joel,1
+Eric Clapton,"Earth, Wind & Fire",1
+Eric Clapton,Eagles,1
+Eric Clapton,ABBA,1
+Eric Clapton,Queen,1
+Eric Clapton,Bruce Springsteen,1
+Eric Clapton,Aerosmith,1
+Eric Clapton,Barry Manilow,1
+Eric Clapton,Donna Summer,1
+Eric Clapton,Kiss,1
+Eric Clapton,AC/DC,1
+Eric Clapton,Journey,1
+Eric Clapton,Kenny Rogers,1
+Eric Clapton,Bob Marley,1
+Eric Clapton,Foreigner,1
+Eric Clapton,Meat Loaf,1
+Eric Clapton,Tom Petty,1
+Eric Clapton,Prince,1
+Eric Clapton,Dire Straits,1
+Eric Clapton,Van Halen,1
+Eric Clapton,The Police,1
+Eric Clapton,Def Leppard,1
+Eric Clapton,Bryan Adams,1
+Eric Clapton,U2,0
+Eric Clapton,Alabama,0
+Eric Clapton,Celine Dion,0
+Eric Clapton,Phil Collins,0
+Eric Clapton,Lionel Richie,0
+Eric Clapton,Janet Jackson,0
+Eric Clapton,Madonna,0
+Eric Clapton,Metallica,0
+Eric Clapton,Bon Jovi,0
+Eric Clapton,R.E.M.,0
+Eric Clapton,Whitney Houston,0
+Eric Clapton,George Strait,0
+Eric Clapton,George Michael,0
+Eric Clapton,Gloria Estefan,0
+Eric Clapton,Kenny G,0
+Eric Clapton,Red Hot Chili Peppers,0
+Eric Clapton,Guns N' Roses,0
+Eric Clapton,Enya,0
+Eric Clapton,B'z,0
+Eric Clapton,Garth Brooks,0
+Eric Clapton,Mariah Carey,0
+Eric Clapton,Nirvana,0
+Eric Clapton,Tupac Shakur,0
+Eric Clapton,R. Kelly,0
+Eric Clapton,Shania Twain,0
+Eric Clapton,Tim McGraw,0
+Eric Clapton,Usher,0
+Eric Clapton,Green Day,0
+Eric Clapton,Backstreet Boys,0
+Eric Clapton,Shakira,0
+Eric Clapton,Jay-Z,0
+Eric Clapton,Robbie Williams,0
+Eric Clapton,Britney Spears,0
+Eric Clapton,Christina Aguilera,0
+Eric Clapton,The Black Eyed Peas,0
+Eric Clapton,Ayumi Hamasaki,0
+Eric Clapton,Eminem,0
+Eric Clapton,Lil Wayne,0
+Eric Clapton,Coldplay,0
+Eric Clapton,Linkin Park,0
+Eric Clapton,Pink,0
+Eric Clapton,Alicia Keys,0
+Eric Clapton,Beyoncé,0
+Eric Clapton,Maroon 5,0
+Eric Clapton,Justin Timberlake,0
+Eric Clapton,Kanye West,0
+Eric Clapton,Rihanna,0
+Eric Clapton,Chris Brown,0
+Eric Clapton,Taylor Swift,0
+Eric Clapton,Flo Rida,0
+Eric Clapton,Luke Bryan,0
+Eric Clapton,Katy Perry,0
+Eric Clapton,Lady Gaga,0
+Eric Clapton,Adele,0
+Eric Clapton,Drake,0
+Eric Clapton,Justin Bieber,0
+Eric Clapton,Bruno Mars,0
+Eric Clapton,Nicki Minaj,0
+Eric Clapton,Ed Sheeran,0
+Eric Clapton,Imagine Dragons,0
+Eric Clapton,Ariana Grande,0
+Eric Clapton,The Weeknd,0
+Eric Clapton,Post Malone,0
+Paul McCartney,James Taylor,1
+Paul McCartney,Michael Jackson,1
+Paul McCartney,Billy Joel,1
+Paul McCartney,"Earth, Wind & Fire",1
+Paul McCartney,Eagles,1
+Paul McCartney,ABBA,1
+Paul McCartney,Queen,1
+Paul McCartney,Bruce Springsteen,1
+Paul McCartney,Aerosmith,1
+Paul McCartney,Barry Manilow,1
+Paul McCartney,Donna Summer,1
+Paul McCartney,Kiss,1
+Paul McCartney,AC/DC,1
+Paul McCartney,Journey,1
+Paul McCartney,Kenny Rogers,1
+Paul McCartney,Bob Marley,1
+Paul McCartney,Foreigner,1
+Paul McCartney,Meat Loaf,1
+Paul McCartney,Tom Petty,1
+Paul McCartney,Prince,1
+Paul McCartney,Dire Straits,1
+Paul McCartney,Van Halen,1
+Paul McCartney,The Police,1
+Paul McCartney,Def Leppard,1
+Paul McCartney,Bryan Adams,1
+Paul McCartney,U2,0
+Paul McCartney,Alabama,0
+Paul McCartney,Celine Dion,0
+Paul McCartney,Phil Collins,0
+Paul McCartney,Lionel Richie,0
+Paul McCartney,Janet Jackson,0
+Paul McCartney,Madonna,0
+Paul McCartney,Metallica,0
+Paul McCartney,Bon Jovi,0
+Paul McCartney,R.E.M.,0
+Paul McCartney,Whitney Houston,0
+Paul McCartney,George Strait,0
+Paul McCartney,George Michael,0
+Paul McCartney,Gloria Estefan,0
+Paul McCartney,Kenny G,0
+Paul McCartney,Red Hot Chili Peppers,0
+Paul McCartney,Guns N' Roses,0
+Paul McCartney,Enya,0
+Paul McCartney,B'z,0
+Paul McCartney,Garth Brooks,0
+Paul McCartney,Mariah Carey,0
+Paul McCartney,Nirvana,0
+Paul McCartney,Tupac Shakur,0
+Paul McCartney,R. Kelly,0
+Paul McCartney,Shania Twain,0
+Paul McCartney,Tim McGraw,0
+Paul McCartney,Usher,0
+Paul McCartney,Green Day,0
+Paul McCartney,Backstreet Boys,0
+Paul McCartney,Shakira,0
+Paul McCartney,Jay-Z,0
+Paul McCartney,Robbie Williams,0
+Paul McCartney,Britney Spears,0
+Paul McCartney,Christina Aguilera,0
+Paul McCartney,The Black Eyed Peas,0
+Paul McCartney,Ayumi Hamasaki,0
+Paul McCartney,Eminem,0
+Paul McCartney,Lil Wayne,0
+Paul McCartney,Coldplay,0
+Paul McCartney,Linkin Park,0
+Paul McCartney,Pink,0
+Paul McCartney,Alicia Keys,0
+Paul McCartney,Beyoncé,0
+Paul McCartney,Maroon 5,0
+Paul McCartney,Justin Timberlake,0
+Paul McCartney,Kanye West,0
+Paul McCartney,Rihanna,0
+Paul McCartney,Chris Brown,0
+Paul McCartney,Taylor Swift,0
+Paul McCartney,Flo Rida,0
+Paul McCartney,Luke Bryan,0
+Paul McCartney,Katy Perry,0
+Paul McCartney,Lady Gaga,0
+Paul McCartney,Adele,0
+Paul McCartney,Drake,0
+Paul McCartney,Justin Bieber,0
+Paul McCartney,Bruno Mars,0
+Paul McCartney,Nicki Minaj,0
+Paul McCartney,Ed Sheeran,0
+Paul McCartney,Imagine Dragons,0
+Paul McCartney,Ariana Grande,0
+Paul McCartney,The Weeknd,0
+Paul McCartney,Post Malone,0
+James Taylor,Michael Jackson,1
+James Taylor,Billy Joel,1
+James Taylor,"Earth, Wind & Fire",1
+James Taylor,Eagles,1
+James Taylor,ABBA,1
+James Taylor,Queen,1
+James Taylor,Bruce Springsteen,1
+James Taylor,Aerosmith,1
+James Taylor,Barry Manilow,1
+James Taylor,Donna Summer,1
+James Taylor,Kiss,1
+James Taylor,AC/DC,1
+James Taylor,Journey,1
+James Taylor,Kenny Rogers,1
+James Taylor,Bob Marley,1
+James Taylor,Foreigner,1
+James Taylor,Meat Loaf,1
+James Taylor,Tom Petty,1
+James Taylor,Prince,1
+James Taylor,Dire Straits,1
+James Taylor,Van Halen,1
+James Taylor,The Police,1
+James Taylor,Def Leppard,1
+James Taylor,Bryan Adams,1
+James Taylor,U2,0
+James Taylor,Alabama,0
+James Taylor,Celine Dion,0
+James Taylor,Phil Collins,0
+James Taylor,Lionel Richie,0
+James Taylor,Janet Jackson,0
+James Taylor,Madonna,0
+James Taylor,Metallica,0
+James Taylor,Bon Jovi,0
+James Taylor,R.E.M.,0
+James Taylor,Whitney Houston,0
+James Taylor,George Strait,0
+James Taylor,George Michael,0
+James Taylor,Gloria Estefan,0
+James Taylor,Kenny G,0
+James Taylor,Red Hot Chili Peppers,0
+James Taylor,Guns N' Roses,0
+James Taylor,Enya,0
+James Taylor,B'z,0
+James Taylor,Garth Brooks,0
+James Taylor,Mariah Carey,0
+James Taylor,Nirvana,0
+James Taylor,Tupac Shakur,0
+James Taylor,R. Kelly,0
+James Taylor,Shania Twain,0
+James Taylor,Tim McGraw,0
+James Taylor,Usher,0
+James Taylor,Green Day,0
+James Taylor,Backstreet Boys,0
+James Taylor,Shakira,0
+James Taylor,Jay-Z,0
+James Taylor,Robbie Williams,0
+James Taylor,Britney Spears,0
+James Taylor,Christina Aguilera,0
+James Taylor,The Black Eyed Peas,0
+James Taylor,Ayumi Hamasaki,0
+James Taylor,Eminem,0
+James Taylor,Lil Wayne,0
+James Taylor,Coldplay,0
+James Taylor,Linkin Park,0
+James Taylor,Pink,0
+James Taylor,Alicia Keys,0
+James Taylor,Beyoncé,0
+James Taylor,Maroon 5,0
+James Taylor,Justin Timberlake,0
+James Taylor,Kanye West,0
+James Taylor,Rihanna,0
+James Taylor,Chris Brown,0
+James Taylor,Taylor Swift,0
+James Taylor,Flo Rida,0
+James Taylor,Luke Bryan,0
+James Taylor,Katy Perry,0
+James Taylor,Lady Gaga,0
+James Taylor,Adele,0
+James Taylor,Drake,0
+James Taylor,Justin Bieber,0
+James Taylor,Bruno Mars,0
+James Taylor,Nicki Minaj,0
+James Taylor,Ed Sheeran,0
+James Taylor,Imagine Dragons,0
+James Taylor,Ariana Grande,0
+James Taylor,The Weeknd,0
+James Taylor,Post Malone,0
+Michael Jackson,Billy Joel,1
+Michael Jackson,"Earth, Wind & Fire",1
+Michael Jackson,Eagles,1
+Michael Jackson,ABBA,1
+Michael Jackson,Queen,1
+Michael Jackson,Bruce Springsteen,1
+Michael Jackson,Aerosmith,1
+Michael Jackson,Barry Manilow,1
+Michael Jackson,Donna Summer,1
+Michael Jackson,Kiss,1
+Michael Jackson,AC/DC,1
+Michael Jackson,Journey,1
+Michael Jackson,Kenny Rogers,1
+Michael Jackson,Bob Marley,1
+Michael Jackson,Foreigner,1
+Michael Jackson,Meat Loaf,1
+Michael Jackson,Tom Petty,1
+Michael Jackson,Prince,1
+Michael Jackson,Dire Straits,1
+Michael Jackson,Van Halen,1
+Michael Jackson,The Police,1
+Michael Jackson,Def Leppard,1
+Michael Jackson,Bryan Adams,1
+Michael Jackson,U2,0
+Michael Jackson,Alabama,0
+Michael Jackson,Celine Dion,0
+Michael Jackson,Phil Collins,0
+Michael Jackson,Lionel Richie,0
+Michael Jackson,Janet Jackson,0
+Michael Jackson,Madonna,0
+Michael Jackson,Metallica,0
+Michael Jackson,Bon Jovi,0
+Michael Jackson,R.E.M.,0
+Michael Jackson,Whitney Houston,0
+Michael Jackson,George Strait,0
+Michael Jackson,George Michael,0
+Michael Jackson,Gloria Estefan,0
+Michael Jackson,Kenny G,0
+Michael Jackson,Red Hot Chili Peppers,0
+Michael Jackson,Guns N' Roses,0
+Michael Jackson,Enya,0
+Michael Jackson,B'z,0
+Michael Jackson,Garth Brooks,0
+Michael Jackson,Mariah Carey,0
+Michael Jackson,Nirvana,0
+Michael Jackson,Tupac Shakur,0
+Michael Jackson,R. Kelly,0
+Michael Jackson,Shania Twain,0
+Michael Jackson,Tim McGraw,0
+Michael Jackson,Usher,0
+Michael Jackson,Green Day,0
+Michael Jackson,Backstreet Boys,0
+Michael Jackson,Shakira,0
+Michael Jackson,Jay-Z,0
+Michael Jackson,Robbie Williams,0
+Michael Jackson,Britney Spears,0
+Michael Jackson,Christina Aguilera,0
+Michael Jackson,The Black Eyed Peas,0
+Michael Jackson,Ayumi Hamasaki,0
+Michael Jackson,Eminem,0
+Michael Jackson,Lil Wayne,0
+Michael Jackson,Coldplay,0
+Michael Jackson,Linkin Park,0
+Michael Jackson,Pink,0
+Michael Jackson,Alicia Keys,0
+Michael Jackson,Beyoncé,0
+Michael Jackson,Maroon 5,0
+Michael Jackson,Justin Timberlake,0
+Michael Jackson,Kanye West,0
+Michael Jackson,Rihanna,0
+Michael Jackson,Chris Brown,0
+Michael Jackson,Taylor Swift,0
+Michael Jackson,Flo Rida,0
+Michael Jackson,Luke Bryan,0
+Michael Jackson,Katy Perry,0
+Michael Jackson,Lady Gaga,0
+Michael Jackson,Adele,0
+Michael Jackson,Drake,0
+Michael Jackson,Justin Bieber,0
+Michael Jackson,Bruno Mars,0
+Michael Jackson,Nicki Minaj,0
+Michael Jackson,Ed Sheeran,0
+Michael Jackson,Imagine Dragons,0
+Michael Jackson,Ariana Grande,0
+Michael Jackson,The Weeknd,0
+Michael Jackson,Post Malone,0
+Billy Joel,"Earth, Wind & Fire",1
+Billy Joel,Eagles,1
+Billy Joel,ABBA,1
+Billy Joel,Queen,1
+Billy Joel,Bruce Springsteen,1
+Billy Joel,Aerosmith,1
+Billy Joel,Barry Manilow,1
+Billy Joel,Donna Summer,1
+Billy Joel,Kiss,1
+Billy Joel,AC/DC,1
+Billy Joel,Journey,1
+Billy Joel,Kenny Rogers,1
+Billy Joel,Bob Marley,1
+Billy Joel,Foreigner,1
+Billy Joel,Meat Loaf,1
+Billy Joel,Tom Petty,1
+Billy Joel,Prince,1
+Billy Joel,Dire Straits,1
+Billy Joel,Van Halen,1
+Billy Joel,The Police,1
+Billy Joel,Def Leppard,1
+Billy Joel,Bryan Adams,1
+Billy Joel,U2,0
+Billy Joel,Alabama,0
+Billy Joel,Celine Dion,0
+Billy Joel,Phil Collins,0
+Billy Joel,Lionel Richie,0
+Billy Joel,Janet Jackson,0
+Billy Joel,Madonna,0
+Billy Joel,Metallica,0
+Billy Joel,Bon Jovi,0
+Billy Joel,R.E.M.,0
+Billy Joel,Whitney Houston,0
+Billy Joel,George Strait,0
+Billy Joel,George Michael,0
+Billy Joel,Gloria Estefan,0
+Billy Joel,Kenny G,0
+Billy Joel,Red Hot Chili Peppers,0
+Billy Joel,Guns N' Roses,0
+Billy Joel,Enya,0
+Billy Joel,B'z,0
+Billy Joel,Garth Brooks,0
+Billy Joel,Mariah Carey,0
+Billy Joel,Nirvana,0
+Billy Joel,Tupac Shakur,0
+Billy Joel,R. Kelly,0
+Billy Joel,Shania Twain,0
+Billy Joel,Tim McGraw,0
+Billy Joel,Usher,0
+Billy Joel,Green Day,0
+Billy Joel,Backstreet Boys,0
+Billy Joel,Shakira,0
+Billy Joel,Jay-Z,0
+Billy Joel,Robbie Williams,0
+Billy Joel,Britney Spears,0
+Billy Joel,Christina Aguilera,0
+Billy Joel,The Black Eyed Peas,0
+Billy Joel,Ayumi Hamasaki,0
+Billy Joel,Eminem,0
+Billy Joel,Lil Wayne,0
+Billy Joel,Coldplay,0
+Billy Joel,Linkin Park,0
+Billy Joel,Pink,0
+Billy Joel,Alicia Keys,0
+Billy Joel,Beyoncé,0
+Billy Joel,Maroon 5,0
+Billy Joel,Justin Timberlake,0
+Billy Joel,Kanye West,0
+Billy Joel,Rihanna,0
+Billy Joel,Chris Brown,0
+Billy Joel,Taylor Swift,0
+Billy Joel,Flo Rida,0
+Billy Joel,Luke Bryan,0
+Billy Joel,Katy Perry,0
+Billy Joel,Lady Gaga,0
+Billy Joel,Adele,0
+Billy Joel,Drake,0
+Billy Joel,Justin Bieber,0
+Billy Joel,Bruno Mars,0
+Billy Joel,Nicki Minaj,0
+Billy Joel,Ed Sheeran,0
+Billy Joel,Imagine Dragons,0
+Billy Joel,Ariana Grande,0
+Billy Joel,The Weeknd,0
+Billy Joel,Post Malone,0
+"Earth, Wind & Fire",Eagles,1
+"Earth, Wind & Fire",ABBA,1
+"Earth, Wind & Fire",Queen,1
+"Earth, Wind & Fire",Bruce Springsteen,1
+"Earth, Wind & Fire",Aerosmith,1
+"Earth, Wind & Fire",Barry Manilow,1
+"Earth, Wind & Fire",Donna Summer,1
+"Earth, Wind & Fire",Kiss,1
+"Earth, Wind & Fire",AC/DC,1
+"Earth, Wind & Fire",Journey,1
+"Earth, Wind & Fire",Kenny Rogers,1
+"Earth, Wind & Fire",Bob Marley,1
+"Earth, Wind & Fire",Foreigner,1
+"Earth, Wind & Fire",Meat Loaf,1
+"Earth, Wind & Fire",Tom Petty,1
+"Earth, Wind & Fire",Prince,1
+"Earth, Wind & Fire",Dire Straits,1
+"Earth, Wind & Fire",Van Halen,1
+"Earth, Wind & Fire",The Police,1
+"Earth, Wind & Fire",Def Leppard,1
+"Earth, Wind & Fire",Bryan Adams,1
+"Earth, Wind & Fire",U2,0
+"Earth, Wind & Fire",Alabama,0
+"Earth, Wind & Fire",Celine Dion,0
+"Earth, Wind & Fire",Phil Collins,0
+"Earth, Wind & Fire",Lionel Richie,0
+"Earth, Wind & Fire",Janet Jackson,0
+"Earth, Wind & Fire",Madonna,0
+"Earth, Wind & Fire",Metallica,0
+"Earth, Wind & Fire",Bon Jovi,0
+"Earth, Wind & Fire",R.E.M.,0
+"Earth, Wind & Fire",Whitney Houston,0
+"Earth, Wind & Fire",George Strait,0
+"Earth, Wind & Fire",George Michael,0
+"Earth, Wind & Fire",Gloria Estefan,0
+"Earth, Wind & Fire",Kenny G,0
+"Earth, Wind & Fire",Red Hot Chili Peppers,0
+"Earth, Wind & Fire",Guns N' Roses,0
+"Earth, Wind & Fire",Enya,0
+"Earth, Wind & Fire",B'z,0
+"Earth, Wind & Fire",Garth Brooks,0
+"Earth, Wind & Fire",Mariah Carey,0
+"Earth, Wind & Fire",Nirvana,0
+"Earth, Wind & Fire",Tupac Shakur,0
+"Earth, Wind & Fire",R. Kelly,0
+"Earth, Wind & Fire",Shania Twain,0
+"Earth, Wind & Fire",Tim McGraw,0
+"Earth, Wind & Fire",Usher,0
+"Earth, Wind & Fire",Green Day,0
+"Earth, Wind & Fire",Backstreet Boys,0
+"Earth, Wind & Fire",Shakira,0
+"Earth, Wind & Fire",Jay-Z,0
+"Earth, Wind & Fire",Robbie Williams,0
+"Earth, Wind & Fire",Britney Spears,0
+"Earth, Wind & Fire",Christina Aguilera,0
+"Earth, Wind & Fire",The Black Eyed Peas,0
+"Earth, Wind & Fire",Ayumi Hamasaki,0
+"Earth, Wind & Fire",Eminem,0
+"Earth, Wind & Fire",Lil Wayne,0
+"Earth, Wind & Fire",Coldplay,0
+"Earth, Wind & Fire",Linkin Park,0
+"Earth, Wind & Fire",Pink,0
+"Earth, Wind & Fire",Alicia Keys,0
+"Earth, Wind & Fire",Beyoncé,0
+"Earth, Wind & Fire",Maroon 5,0
+"Earth, Wind & Fire",Justin Timberlake,0
+"Earth, Wind & Fire",Kanye West,0
+"Earth, Wind & Fire",Rihanna,0
+"Earth, Wind & Fire",Chris Brown,0
+"Earth, Wind & Fire",Taylor Swift,0
+"Earth, Wind & Fire",Flo Rida,0
+"Earth, Wind & Fire",Luke Bryan,0
+"Earth, Wind & Fire",Katy Perry,0
+"Earth, Wind & Fire",Lady Gaga,0
+"Earth, Wind & Fire",Adele,0
+"Earth, Wind & Fire",Drake,0
+"Earth, Wind & Fire",Justin Bieber,0
+"Earth, Wind & Fire",Bruno Mars,0
+"Earth, Wind & Fire",Nicki Minaj,0
+"Earth, Wind & Fire",Ed Sheeran,0
+"Earth, Wind & Fire",Imagine Dragons,0
+"Earth, Wind & Fire",Ariana Grande,0
+"Earth, Wind & Fire",The Weeknd,0
+"Earth, Wind & Fire",Post Malone,0
+Eagles,ABBA,1
+Eagles,Queen,1
+Eagles,Bruce Springsteen,1
+Eagles,Aerosmith,1
+Eagles,Barry Manilow,1
+Eagles,Donna Summer,1
+Eagles,Kiss,1
+Eagles,AC/DC,1
+Eagles,Journey,1
+Eagles,Kenny Rogers,1
+Eagles,Bob Marley,1
+Eagles,Foreigner,1
+Eagles,Meat Loaf,1
+Eagles,Tom Petty,1
+Eagles,Prince,1
+Eagles,Dire Straits,1
+Eagles,Van Halen,1
+Eagles,The Police,1
+Eagles,Def Leppard,1
+Eagles,Bryan Adams,1
+Eagles,U2,0
+Eagles,Alabama,0
+Eagles,Celine Dion,0
+Eagles,Phil Collins,0
+Eagles,Lionel Richie,0
+Eagles,Janet Jackson,0
+Eagles,Madonna,0
+Eagles,Metallica,0
+Eagles,Bon Jovi,0
+Eagles,R.E.M.,0
+Eagles,Whitney Houston,0
+Eagles,George Strait,0
+Eagles,George Michael,0
+Eagles,Gloria Estefan,0
+Eagles,Kenny G,0
+Eagles,Red Hot Chili Peppers,0
+Eagles,Guns N' Roses,0
+Eagles,Enya,0
+Eagles,B'z,0
+Eagles,Garth Brooks,0
+Eagles,Mariah Carey,0
+Eagles,Nirvana,0
+Eagles,Tupac Shakur,0
+Eagles,R. Kelly,0
+Eagles,Shania Twain,0
+Eagles,Tim McGraw,0
+Eagles,Usher,0
+Eagles,Green Day,0
+Eagles,Backstreet Boys,0
+Eagles,Shakira,0
+Eagles,Jay-Z,0
+Eagles,Robbie Williams,0
+Eagles,Britney Spears,0
+Eagles,Christina Aguilera,0
+Eagles,The Black Eyed Peas,0
+Eagles,Ayumi Hamasaki,0
+Eagles,Eminem,0
+Eagles,Lil Wayne,0
+Eagles,Coldplay,0
+Eagles,Linkin Park,0
+Eagles,Pink,0
+Eagles,Alicia Keys,0
+Eagles,Beyoncé,0
+Eagles,Maroon 5,0
+Eagles,Justin Timberlake,0
+Eagles,Kanye West,0
+Eagles,Rihanna,0
+Eagles,Chris Brown,0
+Eagles,Taylor Swift,0
+Eagles,Flo Rida,0
+Eagles,Luke Bryan,0
+Eagles,Katy Perry,0
+Eagles,Lady Gaga,0
+Eagles,Adele,0
+Eagles,Drake,0
+Eagles,Justin Bieber,0
+Eagles,Bruno Mars,0
+Eagles,Nicki Minaj,0
+Eagles,Ed Sheeran,0
+Eagles,Imagine Dragons,0
+Eagles,Ariana Grande,0
+Eagles,The Weeknd,0
+Eagles,Post Malone,0
+ABBA,Queen,1
+ABBA,Bruce Springsteen,1
+ABBA,Aerosmith,1
+ABBA,Barry Manilow,1
+ABBA,Donna Summer,1
+ABBA,Kiss,1
+ABBA,AC/DC,1
+ABBA,Journey,1
+ABBA,Kenny Rogers,1
+ABBA,Bob Marley,1
+ABBA,Foreigner,1
+ABBA,Meat Loaf,1
+ABBA,Tom Petty,1
+ABBA,Prince,1
+ABBA,Dire Straits,1
+ABBA,Van Halen,1
+ABBA,The Police,1
+ABBA,Def Leppard,1
+ABBA,Bryan Adams,1
+ABBA,U2,0
+ABBA,Alabama,0
+ABBA,Celine Dion,0
+ABBA,Phil Collins,0
+ABBA,Lionel Richie,0
+ABBA,Janet Jackson,0
+ABBA,Madonna,0
+ABBA,Metallica,0
+ABBA,Bon Jovi,0
+ABBA,R.E.M.,0
+ABBA,Whitney Houston,0
+ABBA,George Strait,0
+ABBA,George Michael,0
+ABBA,Gloria Estefan,0
+ABBA,Kenny G,0
+ABBA,Red Hot Chili Peppers,0
+ABBA,Guns N' Roses,0
+ABBA,Enya,0
+ABBA,B'z,0
+ABBA,Garth Brooks,0
+ABBA,Mariah Carey,0
+ABBA,Nirvana,0
+ABBA,Tupac Shakur,0
+ABBA,R. Kelly,0
+ABBA,Shania Twain,0
+ABBA,Tim McGraw,0
+ABBA,Usher,0
+ABBA,Green Day,0
+ABBA,Backstreet Boys,0
+ABBA,Shakira,0
+ABBA,Jay-Z,0
+ABBA,Robbie Williams,0
+ABBA,Britney Spears,0
+ABBA,Christina Aguilera,0
+ABBA,The Black Eyed Peas,0
+ABBA,Ayumi Hamasaki,0
+ABBA,Eminem,0
+ABBA,Lil Wayne,0
+ABBA,Coldplay,0
+ABBA,Linkin Park,0
+ABBA,Pink,0
+ABBA,Alicia Keys,0
+ABBA,Beyoncé,0
+ABBA,Maroon 5,0
+ABBA,Justin Timberlake,0
+ABBA,Kanye West,0
+ABBA,Rihanna,0
+ABBA,Chris Brown,0
+ABBA,Taylor Swift,0
+ABBA,Flo Rida,0
+ABBA,Luke Bryan,0
+ABBA,Katy Perry,0
+ABBA,Lady Gaga,0
+ABBA,Adele,0
+ABBA,Drake,0
+ABBA,Justin Bieber,0
+ABBA,Bruno Mars,0
+ABBA,Nicki Minaj,0
+ABBA,Ed Sheeran,0
+ABBA,Imagine Dragons,0
+ABBA,Ariana Grande,0
+ABBA,The Weeknd,0
+ABBA,Post Malone,0
+Queen,Bruce Springsteen,1
+Queen,Aerosmith,1
+Queen,Barry Manilow,1
+Queen,Donna Summer,1
+Queen,Kiss,1
+Queen,AC/DC,1
+Queen,Journey,1
+Queen,Kenny Rogers,1
+Queen,Bob Marley,1
+Queen,Foreigner,1
+Queen,Meat Loaf,1
+Queen,Tom Petty,1
+Queen,Prince,1
+Queen,Dire Straits,1
+Queen,Van Halen,1
+Queen,The Police,1
+Queen,Def Leppard,1
+Queen,Bryan Adams,1
+Queen,U2,0
+Queen,Alabama,0
+Queen,Celine Dion,0
+Queen,Phil Collins,0
+Queen,Lionel Richie,0
+Queen,Janet Jackson,0
+Queen,Madonna,0
+Queen,Metallica,0
+Queen,Bon Jovi,0
+Queen,R.E.M.,0
+Queen,Whitney Houston,0
+Queen,George Strait,0
+Queen,George Michael,0
+Queen,Gloria Estefan,0
+Queen,Kenny G,0
+Queen,Red Hot Chili Peppers,0
+Queen,Guns N' Roses,0
+Queen,Enya,0
+Queen,B'z,0
+Queen,Garth Brooks,0
+Queen,Mariah Carey,0
+Queen,Nirvana,0
+Queen,Tupac Shakur,0
+Queen,R. Kelly,0
+Queen,Shania Twain,0
+Queen,Tim McGraw,0
+Queen,Usher,0
+Queen,Green Day,0
+Queen,Backstreet Boys,0
+Queen,Shakira,0
+Queen,Jay-Z,0
+Queen,Robbie Williams,0
+Queen,Britney Spears,0
+Queen,Christina Aguilera,0
+Queen,The Black Eyed Peas,0
+Queen,Ayumi Hamasaki,0
+Queen,Eminem,0
+Queen,Lil Wayne,0
+Queen,Coldplay,0
+Queen,Linkin Park,0
+Queen,Pink,0
+Queen,Alicia Keys,0
+Queen,Beyoncé,0
+Queen,Maroon 5,0
+Queen,Justin Timberlake,0
+Queen,Kanye West,0
+Queen,Rihanna,0
+Queen,Chris Brown,0
+Queen,Taylor Swift,0
+Queen,Flo Rida,0
+Queen,Luke Bryan,0
+Queen,Katy Perry,0
+Queen,Lady Gaga,0
+Queen,Adele,0
+Queen,Drake,0
+Queen,Justin Bieber,0
+Queen,Bruno Mars,0
+Queen,Nicki Minaj,0
+Queen,Ed Sheeran,0
+Queen,Imagine Dragons,0
+Queen,Ariana Grande,0
+Queen,The Weeknd,0
+Queen,Post Malone,0
+Bruce Springsteen,Aerosmith,1
+Bruce Springsteen,Barry Manilow,1
+Bruce Springsteen,Donna Summer,1
+Bruce Springsteen,Kiss,1
+Bruce Springsteen,AC/DC,1
+Bruce Springsteen,Journey,1
+Bruce Springsteen,Kenny Rogers,1
+Bruce Springsteen,Bob Marley,1
+Bruce Springsteen,Foreigner,1
+Bruce Springsteen,Meat Loaf,1
+Bruce Springsteen,Tom Petty,1
+Bruce Springsteen,Prince,1
+Bruce Springsteen,Dire Straits,1
+Bruce Springsteen,Van Halen,1
+Bruce Springsteen,The Police,1
+Bruce Springsteen,Def Leppard,1
+Bruce Springsteen,Bryan Adams,1
+Bruce Springsteen,U2,0
+Bruce Springsteen,Alabama,0
+Bruce Springsteen,Celine Dion,0
+Bruce Springsteen,Phil Collins,0
+Bruce Springsteen,Lionel Richie,0
+Bruce Springsteen,Janet Jackson,0
+Bruce Springsteen,Madonna,0
+Bruce Springsteen,Metallica,0
+Bruce Springsteen,Bon Jovi,0
+Bruce Springsteen,R.E.M.,0
+Bruce Springsteen,Whitney Houston,0
+Bruce Springsteen,George Strait,0
+Bruce Springsteen,George Michael,0
+Bruce Springsteen,Gloria Estefan,0
+Bruce Springsteen,Kenny G,0
+Bruce Springsteen,Red Hot Chili Peppers,0
+Bruce Springsteen,Guns N' Roses,0
+Bruce Springsteen,Enya,0
+Bruce Springsteen,B'z,0
+Bruce Springsteen,Garth Brooks,0
+Bruce Springsteen,Mariah Carey,0
+Bruce Springsteen,Nirvana,0
+Bruce Springsteen,Tupac Shakur,0
+Bruce Springsteen,R. Kelly,0
+Bruce Springsteen,Shania Twain,0
+Bruce Springsteen,Tim McGraw,0
+Bruce Springsteen,Usher,0
+Bruce Springsteen,Green Day,0
+Bruce Springsteen,Backstreet Boys,0
+Bruce Springsteen,Shakira,0
+Bruce Springsteen,Jay-Z,0
+Bruce Springsteen,Robbie Williams,0
+Bruce Springsteen,Britney Spears,0
+Bruce Springsteen,Christina Aguilera,0
+Bruce Springsteen,The Black Eyed Peas,0
+Bruce Springsteen,Ayumi Hamasaki,0
+Bruce Springsteen,Eminem,0
+Bruce Springsteen,Lil Wayne,0
+Bruce Springsteen,Coldplay,0
+Bruce Springsteen,Linkin Park,0
+Bruce Springsteen,Pink,0
+Bruce Springsteen,Alicia Keys,0
+Bruce Springsteen,Beyoncé,0
+Bruce Springsteen,Maroon 5,0
+Bruce Springsteen,Justin Timberlake,0
+Bruce Springsteen,Kanye West,0
+Bruce Springsteen,Rihanna,0
+Bruce Springsteen,Chris Brown,0
+Bruce Springsteen,Taylor Swift,0
+Bruce Springsteen,Flo Rida,0
+Bruce Springsteen,Luke Bryan,0
+Bruce Springsteen,Katy Perry,0
+Bruce Springsteen,Lady Gaga,0
+Bruce Springsteen,Adele,0
+Bruce Springsteen,Drake,0
+Bruce Springsteen,Justin Bieber,0
+Bruce Springsteen,Bruno Mars,0
+Bruce Springsteen,Nicki Minaj,0
+Bruce Springsteen,Ed Sheeran,0
+Bruce Springsteen,Imagine Dragons,0
+Bruce Springsteen,Ariana Grande,0
+Bruce Springsteen,The Weeknd,0
+Bruce Springsteen,Post Malone,0
+Aerosmith,Barry Manilow,1
+Aerosmith,Donna Summer,1
+Aerosmith,Kiss,1
+Aerosmith,AC/DC,1
+Aerosmith,Journey,1
+Aerosmith,Kenny Rogers,1
+Aerosmith,Bob Marley,1
+Aerosmith,Foreigner,1
+Aerosmith,Meat Loaf,1
+Aerosmith,Tom Petty,1
+Aerosmith,Prince,1
+Aerosmith,Dire Straits,1
+Aerosmith,Van Halen,1
+Aerosmith,The Police,1
+Aerosmith,Def Leppard,1
+Aerosmith,Bryan Adams,1
+Aerosmith,U2,0
+Aerosmith,Alabama,0
+Aerosmith,Celine Dion,0
+Aerosmith,Phil Collins,0
+Aerosmith,Lionel Richie,0
+Aerosmith,Janet Jackson,0
+Aerosmith,Madonna,0
+Aerosmith,Metallica,0
+Aerosmith,Bon Jovi,0
+Aerosmith,R.E.M.,0
+Aerosmith,Whitney Houston,0
+Aerosmith,George Strait,0
+Aerosmith,George Michael,0
+Aerosmith,Gloria Estefan,0
+Aerosmith,Kenny G,0
+Aerosmith,Red Hot Chili Peppers,0
+Aerosmith,Guns N' Roses,0
+Aerosmith,Enya,0
+Aerosmith,B'z,0
+Aerosmith,Garth Brooks,0
+Aerosmith,Mariah Carey,0
+Aerosmith,Nirvana,0
+Aerosmith,Tupac Shakur,0
+Aerosmith,R. Kelly,0
+Aerosmith,Shania Twain,0
+Aerosmith,Tim McGraw,0
+Aerosmith,Usher,0
+Aerosmith,Green Day,0
+Aerosmith,Backstreet Boys,0
+Aerosmith,Shakira,0
+Aerosmith,Jay-Z,0
+Aerosmith,Robbie Williams,0
+Aerosmith,Britney Spears,0
+Aerosmith,Christina Aguilera,0
+Aerosmith,The Black Eyed Peas,0
+Aerosmith,Ayumi Hamasaki,0
+Aerosmith,Eminem,0
+Aerosmith,Lil Wayne,0
+Aerosmith,Coldplay,0
+Aerosmith,Linkin Park,0
+Aerosmith,Pink,0
+Aerosmith,Alicia Keys,0
+Aerosmith,Beyoncé,0
+Aerosmith,Maroon 5,0
+Aerosmith,Justin Timberlake,0
+Aerosmith,Kanye West,0
+Aerosmith,Rihanna,0
+Aerosmith,Chris Brown,0
+Aerosmith,Taylor Swift,0
+Aerosmith,Flo Rida,0
+Aerosmith,Luke Bryan,0
+Aerosmith,Katy Perry,0
+Aerosmith,Lady Gaga,0
+Aerosmith,Adele,0
+Aerosmith,Drake,0
+Aerosmith,Justin Bieber,0
+Aerosmith,Bruno Mars,0
+Aerosmith,Nicki Minaj,0
+Aerosmith,Ed Sheeran,0
+Aerosmith,Imagine Dragons,0
+Aerosmith,Ariana Grande,0
+Aerosmith,The Weeknd,0
+Aerosmith,Post Malone,0
+Barry Manilow,Donna Summer,1
+Barry Manilow,Kiss,1
+Barry Manilow,AC/DC,1
+Barry Manilow,Journey,1
+Barry Manilow,Kenny Rogers,1
+Barry Manilow,Bob Marley,1
+Barry Manilow,Foreigner,1
+Barry Manilow,Meat Loaf,1
+Barry Manilow,Tom Petty,1
+Barry Manilow,Prince,1
+Barry Manilow,Dire Straits,1
+Barry Manilow,Van Halen,1
+Barry Manilow,The Police,1
+Barry Manilow,Def Leppard,1
+Barry Manilow,Bryan Adams,1
+Barry Manilow,U2,0
+Barry Manilow,Alabama,0
+Barry Manilow,Celine Dion,0
+Barry Manilow,Phil Collins,0
+Barry Manilow,Lionel Richie,0
+Barry Manilow,Janet Jackson,0
+Barry Manilow,Madonna,0
+Barry Manilow,Metallica,0
+Barry Manilow,Bon Jovi,0
+Barry Manilow,R.E.M.,0
+Barry Manilow,Whitney Houston,0
+Barry Manilow,George Strait,0
+Barry Manilow,George Michael,0
+Barry Manilow,Gloria Estefan,0
+Barry Manilow,Kenny G,0
+Barry Manilow,Red Hot Chili Peppers,0
+Barry Manilow,Guns N' Roses,0
+Barry Manilow,Enya,0
+Barry Manilow,B'z,0
+Barry Manilow,Garth Brooks,0
+Barry Manilow,Mariah Carey,0
+Barry Manilow,Nirvana,0
+Barry Manilow,Tupac Shakur,0
+Barry Manilow,R. Kelly,0
+Barry Manilow,Shania Twain,0
+Barry Manilow,Tim McGraw,0
+Barry Manilow,Usher,0
+Barry Manilow,Green Day,0
+Barry Manilow,Backstreet Boys,0
+Barry Manilow,Shakira,0
+Barry Manilow,Jay-Z,0
+Barry Manilow,Robbie Williams,0
+Barry Manilow,Britney Spears,0
+Barry Manilow,Christina Aguilera,0
+Barry Manilow,The Black Eyed Peas,0
+Barry Manilow,Ayumi Hamasaki,0
+Barry Manilow,Eminem,0
+Barry Manilow,Lil Wayne,0
+Barry Manilow,Coldplay,0
+Barry Manilow,Linkin Park,0
+Barry Manilow,Pink,0
+Barry Manilow,Alicia Keys,0
+Barry Manilow,Beyoncé,0
+Barry Manilow,Maroon 5,0
+Barry Manilow,Justin Timberlake,0
+Barry Manilow,Kanye West,0
+Barry Manilow,Rihanna,0
+Barry Manilow,Chris Brown,0
+Barry Manilow,Taylor Swift,0
+Barry Manilow,Flo Rida,0
+Barry Manilow,Luke Bryan,0
+Barry Manilow,Katy Perry,0
+Barry Manilow,Lady Gaga,0
+Barry Manilow,Adele,0
+Barry Manilow,Drake,0
+Barry Manilow,Justin Bieber,0
+Barry Manilow,Bruno Mars,0
+Barry Manilow,Nicki Minaj,0
+Barry Manilow,Ed Sheeran,0
+Barry Manilow,Imagine Dragons,0
+Barry Manilow,Ariana Grande,0
+Barry Manilow,The Weeknd,0
+Barry Manilow,Post Malone,0
+Donna Summer,Kiss,1
+Donna Summer,AC/DC,1
+Donna Summer,Journey,1
+Donna Summer,Kenny Rogers,1
+Donna Summer,Bob Marley,1
+Donna Summer,Foreigner,1
+Donna Summer,Meat Loaf,1
+Donna Summer,Tom Petty,1
+Donna Summer,Prince,1
+Donna Summer,Dire Straits,1
+Donna Summer,Van Halen,1
+Donna Summer,The Police,1
+Donna Summer,Def Leppard,1
+Donna Summer,Bryan Adams,1
+Donna Summer,U2,0
+Donna Summer,Alabama,0
+Donna Summer,Celine Dion,0
+Donna Summer,Phil Collins,0
+Donna Summer,Lionel Richie,0
+Donna Summer,Janet Jackson,0
+Donna Summer,Madonna,0
+Donna Summer,Metallica,0
+Donna Summer,Bon Jovi,0
+Donna Summer,R.E.M.,0
+Donna Summer,Whitney Houston,0
+Donna Summer,George Strait,0
+Donna Summer,George Michael,0
+Donna Summer,Gloria Estefan,0
+Donna Summer,Kenny G,0
+Donna Summer,Red Hot Chili Peppers,0
+Donna Summer,Guns N' Roses,0
+Donna Summer,Enya,0
+Donna Summer,B'z,0
+Donna Summer,Garth Brooks,0
+Donna Summer,Mariah Carey,0
+Donna Summer,Nirvana,0
+Donna Summer,Tupac Shakur,0
+Donna Summer,R. Kelly,0
+Donna Summer,Shania Twain,0
+Donna Summer,Tim McGraw,0
+Donna Summer,Usher,0
+Donna Summer,Green Day,0
+Donna Summer,Backstreet Boys,0
+Donna Summer,Shakira,0
+Donna Summer,Jay-Z,0
+Donna Summer,Robbie Williams,0
+Donna Summer,Britney Spears,0
+Donna Summer,Christina Aguilera,0
+Donna Summer,The Black Eyed Peas,0
+Donna Summer,Ayumi Hamasaki,0
+Donna Summer,Eminem,0
+Donna Summer,Lil Wayne,0
+Donna Summer,Coldplay,0
+Donna Summer,Linkin Park,0
+Donna Summer,Pink,0
+Donna Summer,Alicia Keys,0
+Donna Summer,Beyoncé,0
+Donna Summer,Maroon 5,0
+Donna Summer,Justin Timberlake,0
+Donna Summer,Kanye West,0
+Donna Summer,Rihanna,0
+Donna Summer,Chris Brown,0
+Donna Summer,Taylor Swift,0
+Donna Summer,Flo Rida,0
+Donna Summer,Luke Bryan,0
+Donna Summer,Katy Perry,0
+Donna Summer,Lady Gaga,0
+Donna Summer,Adele,0
+Donna Summer,Drake,0
+Donna Summer,Justin Bieber,0
+Donna Summer,Bruno Mars,0
+Donna Summer,Nicki Minaj,0
+Donna Summer,Ed Sheeran,0
+Donna Summer,Imagine Dragons,0
+Donna Summer,Ariana Grande,0
+Donna Summer,The Weeknd,0
+Donna Summer,Post Malone,0
+Kiss,AC/DC,1
+Kiss,Journey,1
+Kiss,Kenny Rogers,1
+Kiss,Bob Marley,1
+Kiss,Foreigner,1
+Kiss,Meat Loaf,1
+Kiss,Tom Petty,1
+Kiss,Prince,1
+Kiss,Dire Straits,1
+Kiss,Van Halen,1
+Kiss,The Police,1
+Kiss,Def Leppard,1
+Kiss,Bryan Adams,1
+Kiss,U2,0
+Kiss,Alabama,0
+Kiss,Celine Dion,0
+Kiss,Phil Collins,0
+Kiss,Lionel Richie,0
+Kiss,Janet Jackson,0
+Kiss,Madonna,0
+Kiss,Metallica,0
+Kiss,Bon Jovi,0
+Kiss,R.E.M.,0
+Kiss,Whitney Houston,0
+Kiss,George Strait,0
+Kiss,George Michael,0
+Kiss,Gloria Estefan,0
+Kiss,Kenny G,0
+Kiss,Red Hot Chili Peppers,0
+Kiss,Guns N' Roses,0
+Kiss,Enya,0
+Kiss,B'z,0
+Kiss,Garth Brooks,0
+Kiss,Mariah Carey,0
+Kiss,Nirvana,0
+Kiss,Tupac Shakur,0
+Kiss,R. Kelly,0
+Kiss,Shania Twain,0
+Kiss,Tim McGraw,0
+Kiss,Usher,0
+Kiss,Green Day,0
+Kiss,Backstreet Boys,0
+Kiss,Shakira,0
+Kiss,Jay-Z,0
+Kiss,Robbie Williams,0
+Kiss,Britney Spears,0
+Kiss,Christina Aguilera,0
+Kiss,The Black Eyed Peas,0
+Kiss,Ayumi Hamasaki,0
+Kiss,Eminem,0
+Kiss,Lil Wayne,0
+Kiss,Coldplay,0
+Kiss,Linkin Park,0
+Kiss,Pink,0
+Kiss,Alicia Keys,0
+Kiss,Beyoncé,0
+Kiss,Maroon 5,0
+Kiss,Justin Timberlake,0
+Kiss,Kanye West,0
+Kiss,Rihanna,0
+Kiss,Chris Brown,0
+Kiss,Taylor Swift,0
+Kiss,Flo Rida,0
+Kiss,Luke Bryan,0
+Kiss,Katy Perry,0
+Kiss,Lady Gaga,0
+Kiss,Adele,0
+Kiss,Drake,0
+Kiss,Justin Bieber,0
+Kiss,Bruno Mars,0
+Kiss,Nicki Minaj,0
+Kiss,Ed Sheeran,0
+Kiss,Imagine Dragons,0
+Kiss,Ariana Grande,0
+Kiss,The Weeknd,0
+Kiss,Post Malone,0
+AC/DC,Journey,1
+AC/DC,Kenny Rogers,1
+AC/DC,Bob Marley,1
+AC/DC,Foreigner,1
+AC/DC,Meat Loaf,1
+AC/DC,Tom Petty,1
+AC/DC,Prince,1
+AC/DC,Dire Straits,1
+AC/DC,Van Halen,1
+AC/DC,The Police,1
+AC/DC,Def Leppard,1
+AC/DC,Bryan Adams,1
+AC/DC,U2,0
+AC/DC,Alabama,0
+AC/DC,Celine Dion,0
+AC/DC,Phil Collins,0
+AC/DC,Lionel Richie,0
+AC/DC,Janet Jackson,0
+AC/DC,Madonna,0
+AC/DC,Metallica,0
+AC/DC,Bon Jovi,0
+AC/DC,R.E.M.,0
+AC/DC,Whitney Houston,0
+AC/DC,George Strait,0
+AC/DC,George Michael,0
+AC/DC,Gloria Estefan,0
+AC/DC,Kenny G,0
+AC/DC,Red Hot Chili Peppers,0
+AC/DC,Guns N' Roses,0
+AC/DC,Enya,0
+AC/DC,B'z,0
+AC/DC,Garth Brooks,0
+AC/DC,Mariah Carey,0
+AC/DC,Nirvana,0
+AC/DC,Tupac Shakur,0
+AC/DC,R. Kelly,0
+AC/DC,Shania Twain,0
+AC/DC,Tim McGraw,0
+AC/DC,Usher,0
+AC/DC,Green Day,0
+AC/DC,Backstreet Boys,0
+AC/DC,Shakira,0
+AC/DC,Jay-Z,0
+AC/DC,Robbie Williams,0
+AC/DC,Britney Spears,0
+AC/DC,Christina Aguilera,0
+AC/DC,The Black Eyed Peas,0
+AC/DC,Ayumi Hamasaki,0
+AC/DC,Eminem,0
+AC/DC,Lil Wayne,0
+AC/DC,Coldplay,0
+AC/DC,Linkin Park,0
+AC/DC,Pink,0
+AC/DC,Alicia Keys,0
+AC/DC,Beyoncé,0
+AC/DC,Maroon 5,0
+AC/DC,Justin Timberlake,0
+AC/DC,Kanye West,0
+AC/DC,Rihanna,0
+AC/DC,Chris Brown,0
+AC/DC,Taylor Swift,0
+AC/DC,Flo Rida,0
+AC/DC,Luke Bryan,0
+AC/DC,Katy Perry,0
+AC/DC,Lady Gaga,0
+AC/DC,Adele,0
+AC/DC,Drake,0
+AC/DC,Justin Bieber,0
+AC/DC,Bruno Mars,0
+AC/DC,Nicki Minaj,0
+AC/DC,Ed Sheeran,0
+AC/DC,Imagine Dragons,0
+AC/DC,Ariana Grande,0
+AC/DC,The Weeknd,0
+AC/DC,Post Malone,0
+Journey,Kenny Rogers,1
+Journey,Bob Marley,1
+Journey,Foreigner,1
+Journey,Meat Loaf,1
+Journey,Tom Petty,1
+Journey,Prince,1
+Journey,Dire Straits,1
+Journey,Van Halen,1
+Journey,The Police,1
+Journey,Def Leppard,1
+Journey,Bryan Adams,1
+Journey,U2,0
+Journey,Alabama,0
+Journey,Celine Dion,0
+Journey,Phil Collins,0
+Journey,Lionel Richie,0
+Journey,Janet Jackson,0
+Journey,Madonna,0
+Journey,Metallica,0
+Journey,Bon Jovi,0
+Journey,R.E.M.,0
+Journey,Whitney Houston,0
+Journey,George Strait,0
+Journey,George Michael,0
+Journey,Gloria Estefan,0
+Journey,Kenny G,0
+Journey,Red Hot Chili Peppers,0
+Journey,Guns N' Roses,0
+Journey,Enya,0
+Journey,B'z,0
+Journey,Garth Brooks,0
+Journey,Mariah Carey,0
+Journey,Nirvana,0
+Journey,Tupac Shakur,0
+Journey,R. Kelly,0
+Journey,Shania Twain,0
+Journey,Tim McGraw,0
+Journey,Usher,0
+Journey,Green Day,0
+Journey,Backstreet Boys,0
+Journey,Shakira,0
+Journey,Jay-Z,0
+Journey,Robbie Williams,0
+Journey,Britney Spears,0
+Journey,Christina Aguilera,0
+Journey,The Black Eyed Peas,0
+Journey,Ayumi Hamasaki,0
+Journey,Eminem,0
+Journey,Lil Wayne,0
+Journey,Coldplay,0
+Journey,Linkin Park,0
+Journey,Pink,0
+Journey,Alicia Keys,0
+Journey,Beyoncé,0
+Journey,Maroon 5,0
+Journey,Justin Timberlake,0
+Journey,Kanye West,0
+Journey,Rihanna,0
+Journey,Chris Brown,0
+Journey,Taylor Swift,0
+Journey,Flo Rida,0
+Journey,Luke Bryan,0
+Journey,Katy Perry,0
+Journey,Lady Gaga,0
+Journey,Adele,0
+Journey,Drake,0
+Journey,Justin Bieber,0
+Journey,Bruno Mars,0
+Journey,Nicki Minaj,0
+Journey,Ed Sheeran,0
+Journey,Imagine Dragons,0
+Journey,Ariana Grande,0
+Journey,The Weeknd,0
+Journey,Post Malone,0
+Kenny Rogers,Bob Marley,1
+Kenny Rogers,Foreigner,1
+Kenny Rogers,Meat Loaf,1
+Kenny Rogers,Tom Petty,1
+Kenny Rogers,Prince,1
+Kenny Rogers,Dire Straits,1
+Kenny Rogers,Van Halen,1
+Kenny Rogers,The Police,1
+Kenny Rogers,Def Leppard,1
+Kenny Rogers,Bryan Adams,1
+Kenny Rogers,U2,0
+Kenny Rogers,Alabama,0
+Kenny Rogers,Celine Dion,0
+Kenny Rogers,Phil Collins,0
+Kenny Rogers,Lionel Richie,0
+Kenny Rogers,Janet Jackson,0
+Kenny Rogers,Madonna,0
+Kenny Rogers,Metallica,0
+Kenny Rogers,Bon Jovi,0
+Kenny Rogers,R.E.M.,0
+Kenny Rogers,Whitney Houston,0
+Kenny Rogers,George Strait,0
+Kenny Rogers,George Michael,0
+Kenny Rogers,Gloria Estefan,0
+Kenny Rogers,Kenny G,0
+Kenny Rogers,Red Hot Chili Peppers,0
+Kenny Rogers,Guns N' Roses,0
+Kenny Rogers,Enya,0
+Kenny Rogers,B'z,0
+Kenny Rogers,Garth Brooks,0
+Kenny Rogers,Mariah Carey,0
+Kenny Rogers,Nirvana,0
+Kenny Rogers,Tupac Shakur,0
+Kenny Rogers,R. Kelly,0
+Kenny Rogers,Shania Twain,0
+Kenny Rogers,Tim McGraw,0
+Kenny Rogers,Usher,0
+Kenny Rogers,Green Day,0
+Kenny Rogers,Backstreet Boys,0
+Kenny Rogers,Shakira,0
+Kenny Rogers,Jay-Z,0
+Kenny Rogers,Robbie Williams,0
+Kenny Rogers,Britney Spears,0
+Kenny Rogers,Christina Aguilera,0
+Kenny Rogers,The Black Eyed Peas,0
+Kenny Rogers,Ayumi Hamasaki,0
+Kenny Rogers,Eminem,0
+Kenny Rogers,Lil Wayne,0
+Kenny Rogers,Coldplay,0
+Kenny Rogers,Linkin Park,0
+Kenny Rogers,Pink,0
+Kenny Rogers,Alicia Keys,0
+Kenny Rogers,Beyoncé,0
+Kenny Rogers,Maroon 5,0
+Kenny Rogers,Justin Timberlake,0
+Kenny Rogers,Kanye West,0
+Kenny Rogers,Rihanna,0
+Kenny Rogers,Chris Brown,0
+Kenny Rogers,Taylor Swift,0
+Kenny Rogers,Flo Rida,0
+Kenny Rogers,Luke Bryan,0
+Kenny Rogers,Katy Perry,0
+Kenny Rogers,Lady Gaga,0
+Kenny Rogers,Adele,0
+Kenny Rogers,Drake,0
+Kenny Rogers,Justin Bieber,0
+Kenny Rogers,Bruno Mars,0
+Kenny Rogers,Nicki Minaj,0
+Kenny Rogers,Ed Sheeran,0
+Kenny Rogers,Imagine Dragons,0
+Kenny Rogers,Ariana Grande,0
+Kenny Rogers,The Weeknd,0
+Kenny Rogers,Post Malone,0
+Bob Marley,Foreigner,1
+Bob Marley,Meat Loaf,1
+Bob Marley,Tom Petty,1
+Bob Marley,Prince,1
+Bob Marley,Dire Straits,1
+Bob Marley,Van Halen,1
+Bob Marley,The Police,1
+Bob Marley,Def Leppard,1
+Bob Marley,Bryan Adams,1
+Bob Marley,U2,0
+Bob Marley,Alabama,0
+Bob Marley,Celine Dion,0
+Bob Marley,Phil Collins,0
+Bob Marley,Lionel Richie,0
+Bob Marley,Janet Jackson,0
+Bob Marley,Madonna,0
+Bob Marley,Metallica,0
+Bob Marley,Bon Jovi,0
+Bob Marley,R.E.M.,0
+Bob Marley,Whitney Houston,0
+Bob Marley,George Strait,0
+Bob Marley,George Michael,0
+Bob Marley,Gloria Estefan,0
+Bob Marley,Kenny G,0
+Bob Marley,Red Hot Chili Peppers,0
+Bob Marley,Guns N' Roses,0
+Bob Marley,Enya,0
+Bob Marley,B'z,0
+Bob Marley,Garth Brooks,0
+Bob Marley,Mariah Carey,0
+Bob Marley,Nirvana,0
+Bob Marley,Tupac Shakur,0
+Bob Marley,R. Kelly,0
+Bob Marley,Shania Twain,0
+Bob Marley,Tim McGraw,0
+Bob Marley,Usher,0
+Bob Marley,Green Day,0
+Bob Marley,Backstreet Boys,0
+Bob Marley,Shakira,0
+Bob Marley,Jay-Z,0
+Bob Marley,Robbie Williams,0
+Bob Marley,Britney Spears,0
+Bob Marley,Christina Aguilera,0
+Bob Marley,The Black Eyed Peas,0
+Bob Marley,Ayumi Hamasaki,0
+Bob Marley,Eminem,0
+Bob Marley,Lil Wayne,0
+Bob Marley,Coldplay,0
+Bob Marley,Linkin Park,0
+Bob Marley,Pink,0
+Bob Marley,Alicia Keys,0
+Bob Marley,Beyoncé,0
+Bob Marley,Maroon 5,0
+Bob Marley,Justin Timberlake,0
+Bob Marley,Kanye West,0
+Bob Marley,Rihanna,0
+Bob Marley,Chris Brown,0
+Bob Marley,Taylor Swift,0
+Bob Marley,Flo Rida,0
+Bob Marley,Luke Bryan,0
+Bob Marley,Katy Perry,0
+Bob Marley,Lady Gaga,0
+Bob Marley,Adele,0
+Bob Marley,Drake,0
+Bob Marley,Justin Bieber,0
+Bob Marley,Bruno Mars,0
+Bob Marley,Nicki Minaj,0
+Bob Marley,Ed Sheeran,0
+Bob Marley,Imagine Dragons,0
+Bob Marley,Ariana Grande,0
+Bob Marley,The Weeknd,0
+Bob Marley,Post Malone,0
+Foreigner,Meat Loaf,1
+Foreigner,Tom Petty,1
+Foreigner,Prince,1
+Foreigner,Dire Straits,1
+Foreigner,Van Halen,1
+Foreigner,The Police,1
+Foreigner,Def Leppard,1
+Foreigner,Bryan Adams,1
+Foreigner,U2,0
+Foreigner,Alabama,0
+Foreigner,Celine Dion,0
+Foreigner,Phil Collins,0
+Foreigner,Lionel Richie,0
+Foreigner,Janet Jackson,0
+Foreigner,Madonna,0
+Foreigner,Metallica,0
+Foreigner,Bon Jovi,0
+Foreigner,R.E.M.,0
+Foreigner,Whitney Houston,0
+Foreigner,George Strait,0
+Foreigner,George Michael,0
+Foreigner,Gloria Estefan,0
+Foreigner,Kenny G,0
+Foreigner,Red Hot Chili Peppers,0
+Foreigner,Guns N' Roses,0
+Foreigner,Enya,0
+Foreigner,B'z,0
+Foreigner,Garth Brooks,0
+Foreigner,Mariah Carey,0
+Foreigner,Nirvana,0
+Foreigner,Tupac Shakur,0
+Foreigner,R. Kelly,0
+Foreigner,Shania Twain,0
+Foreigner,Tim McGraw,0
+Foreigner,Usher,0
+Foreigner,Green Day,0
+Foreigner,Backstreet Boys,0
+Foreigner,Shakira,0
+Foreigner,Jay-Z,0
+Foreigner,Robbie Williams,0
+Foreigner,Britney Spears,0
+Foreigner,Christina Aguilera,0
+Foreigner,The Black Eyed Peas,0
+Foreigner,Ayumi Hamasaki,0
+Foreigner,Eminem,0
+Foreigner,Lil Wayne,0
+Foreigner,Coldplay,0
+Foreigner,Linkin Park,0
+Foreigner,Pink,0
+Foreigner,Alicia Keys,0
+Foreigner,Beyoncé,0
+Foreigner,Maroon 5,0
+Foreigner,Justin Timberlake,0
+Foreigner,Kanye West,0
+Foreigner,Rihanna,0
+Foreigner,Chris Brown,0
+Foreigner,Taylor Swift,0
+Foreigner,Flo Rida,0
+Foreigner,Luke Bryan,0
+Foreigner,Katy Perry,0
+Foreigner,Lady Gaga,0
+Foreigner,Adele,0
+Foreigner,Drake,0
+Foreigner,Justin Bieber,0
+Foreigner,Bruno Mars,0
+Foreigner,Nicki Minaj,0
+Foreigner,Ed Sheeran,0
+Foreigner,Imagine Dragons,0
+Foreigner,Ariana Grande,0
+Foreigner,The Weeknd,0
+Foreigner,Post Malone,0
+Meat Loaf,Tom Petty,1
+Meat Loaf,Prince,1
+Meat Loaf,Dire Straits,1
+Meat Loaf,Van Halen,1
+Meat Loaf,The Police,1
+Meat Loaf,Def Leppard,1
+Meat Loaf,Bryan Adams,1
+Meat Loaf,U2,0
+Meat Loaf,Alabama,0
+Meat Loaf,Celine Dion,0
+Meat Loaf,Phil Collins,0
+Meat Loaf,Lionel Richie,0
+Meat Loaf,Janet Jackson,0
+Meat Loaf,Madonna,0
+Meat Loaf,Metallica,0
+Meat Loaf,Bon Jovi,0
+Meat Loaf,R.E.M.,0
+Meat Loaf,Whitney Houston,0
+Meat Loaf,George Strait,0
+Meat Loaf,George Michael,0
+Meat Loaf,Gloria Estefan,0
+Meat Loaf,Kenny G,0
+Meat Loaf,Red Hot Chili Peppers,0
+Meat Loaf,Guns N' Roses,0
+Meat Loaf,Enya,0
+Meat Loaf,B'z,0
+Meat Loaf,Garth Brooks,0
+Meat Loaf,Mariah Carey,0
+Meat Loaf,Nirvana,0
+Meat Loaf,Tupac Shakur,0
+Meat Loaf,R. Kelly,0
+Meat Loaf,Shania Twain,0
+Meat Loaf,Tim McGraw,0
+Meat Loaf,Usher,0
+Meat Loaf,Green Day,0
+Meat Loaf,Backstreet Boys,0
+Meat Loaf,Shakira,0
+Meat Loaf,Jay-Z,0
+Meat Loaf,Robbie Williams,0
+Meat Loaf,Britney Spears,0
+Meat Loaf,Christina Aguilera,0
+Meat Loaf,The Black Eyed Peas,0
+Meat Loaf,Ayumi Hamasaki,0
+Meat Loaf,Eminem,0
+Meat Loaf,Lil Wayne,0
+Meat Loaf,Coldplay,0
+Meat Loaf,Linkin Park,0
+Meat Loaf,Pink,0
+Meat Loaf,Alicia Keys,0
+Meat Loaf,Beyoncé,0
+Meat Loaf,Maroon 5,0
+Meat Loaf,Justin Timberlake,0
+Meat Loaf,Kanye West,0
+Meat Loaf,Rihanna,0
+Meat Loaf,Chris Brown,0
+Meat Loaf,Taylor Swift,0
+Meat Loaf,Flo Rida,0
+Meat Loaf,Luke Bryan,0
+Meat Loaf,Katy Perry,0
+Meat Loaf,Lady Gaga,0
+Meat Loaf,Adele,0
+Meat Loaf,Drake,0
+Meat Loaf,Justin Bieber,0
+Meat Loaf,Bruno Mars,0
+Meat Loaf,Nicki Minaj,0
+Meat Loaf,Ed Sheeran,0
+Meat Loaf,Imagine Dragons,0
+Meat Loaf,Ariana Grande,0
+Meat Loaf,The Weeknd,0
+Meat Loaf,Post Malone,0
+Tom Petty,Prince,1
+Tom Petty,Dire Straits,1
+Tom Petty,Van Halen,1
+Tom Petty,The Police,1
+Tom Petty,Def Leppard,1
+Tom Petty,Bryan Adams,1
+Tom Petty,U2,0
+Tom Petty,Alabama,0
+Tom Petty,Celine Dion,0
+Tom Petty,Phil Collins,0
+Tom Petty,Lionel Richie,0
+Tom Petty,Janet Jackson,0
+Tom Petty,Madonna,0
+Tom Petty,Metallica,0
+Tom Petty,Bon Jovi,0
+Tom Petty,R.E.M.,0
+Tom Petty,Whitney Houston,0
+Tom Petty,George Strait,0
+Tom Petty,George Michael,0
+Tom Petty,Gloria Estefan,0
+Tom Petty,Kenny G,0
+Tom Petty,Red Hot Chili Peppers,0
+Tom Petty,Guns N' Roses,0
+Tom Petty,Enya,0
+Tom Petty,B'z,0
+Tom Petty,Garth Brooks,0
+Tom Petty,Mariah Carey,0
+Tom Petty,Nirvana,0
+Tom Petty,Tupac Shakur,0
+Tom Petty,R. Kelly,0
+Tom Petty,Shania Twain,0
+Tom Petty,Tim McGraw,0
+Tom Petty,Usher,0
+Tom Petty,Green Day,0
+Tom Petty,Backstreet Boys,0
+Tom Petty,Shakira,0
+Tom Petty,Jay-Z,0
+Tom Petty,Robbie Williams,0
+Tom Petty,Britney Spears,0
+Tom Petty,Christina Aguilera,0
+Tom Petty,The Black Eyed Peas,0
+Tom Petty,Ayumi Hamasaki,0
+Tom Petty,Eminem,0
+Tom Petty,Lil Wayne,0
+Tom Petty,Coldplay,0
+Tom Petty,Linkin Park,0
+Tom Petty,Pink,0
+Tom Petty,Alicia Keys,0
+Tom Petty,Beyoncé,0
+Tom Petty,Maroon 5,0
+Tom Petty,Justin Timberlake,0
+Tom Petty,Kanye West,0
+Tom Petty,Rihanna,0
+Tom Petty,Chris Brown,0
+Tom Petty,Taylor Swift,0
+Tom Petty,Flo Rida,0
+Tom Petty,Luke Bryan,0
+Tom Petty,Katy Perry,0
+Tom Petty,Lady Gaga,0
+Tom Petty,Adele,0
+Tom Petty,Drake,0
+Tom Petty,Justin Bieber,0
+Tom Petty,Bruno Mars,0
+Tom Petty,Nicki Minaj,0
+Tom Petty,Ed Sheeran,0
+Tom Petty,Imagine Dragons,0
+Tom Petty,Ariana Grande,0
+Tom Petty,The Weeknd,0
+Tom Petty,Post Malone,0
+Prince,Dire Straits,1
+Prince,Van Halen,1
+Prince,The Police,1
+Prince,Def Leppard,1
+Prince,Bryan Adams,1
+Prince,U2,0
+Prince,Alabama,0
+Prince,Celine Dion,0
+Prince,Phil Collins,0
+Prince,Lionel Richie,0
+Prince,Janet Jackson,0
+Prince,Madonna,0
+Prince,Metallica,0
+Prince,Bon Jovi,0
+Prince,R.E.M.,0
+Prince,Whitney Houston,0
+Prince,George Strait,0
+Prince,George Michael,0
+Prince,Gloria Estefan,0
+Prince,Kenny G,0
+Prince,Red Hot Chili Peppers,0
+Prince,Guns N' Roses,0
+Prince,Enya,0
+Prince,B'z,0
+Prince,Garth Brooks,0
+Prince,Mariah Carey,0
+Prince,Nirvana,0
+Prince,Tupac Shakur,0
+Prince,R. Kelly,0
+Prince,Shania Twain,0
+Prince,Tim McGraw,0
+Prince,Usher,0
+Prince,Green Day,0
+Prince,Backstreet Boys,0
+Prince,Shakira,0
+Prince,Jay-Z,0
+Prince,Robbie Williams,0
+Prince,Britney Spears,0
+Prince,Christina Aguilera,0
+Prince,The Black Eyed Peas,0
+Prince,Ayumi Hamasaki,0
+Prince,Eminem,0
+Prince,Lil Wayne,0
+Prince,Coldplay,0
+Prince,Linkin Park,0
+Prince,Pink,0
+Prince,Alicia Keys,0
+Prince,Beyoncé,0
+Prince,Maroon 5,0
+Prince,Justin Timberlake,0
+Prince,Kanye West,0
+Prince,Rihanna,0
+Prince,Chris Brown,0
+Prince,Taylor Swift,0
+Prince,Flo Rida,0
+Prince,Luke Bryan,0
+Prince,Katy Perry,0
+Prince,Lady Gaga,0
+Prince,Adele,0
+Prince,Drake,0
+Prince,Justin Bieber,0
+Prince,Bruno Mars,0
+Prince,Nicki Minaj,0
+Prince,Ed Sheeran,0
+Prince,Imagine Dragons,0
+Prince,Ariana Grande,0
+Prince,The Weeknd,0
+Prince,Post Malone,0
+Dire Straits,Van Halen,1
+Dire Straits,The Police,1
+Dire Straits,Def Leppard,1
+Dire Straits,Bryan Adams,1
+Dire Straits,U2,0
+Dire Straits,Alabama,0
+Dire Straits,Celine Dion,0
+Dire Straits,Phil Collins,0
+Dire Straits,Lionel Richie,0
+Dire Straits,Janet Jackson,0
+Dire Straits,Madonna,0
+Dire Straits,Metallica,0
+Dire Straits,Bon Jovi,0
+Dire Straits,R.E.M.,0
+Dire Straits,Whitney Houston,0
+Dire Straits,George Strait,0
+Dire Straits,George Michael,0
+Dire Straits,Gloria Estefan,0
+Dire Straits,Kenny G,0
+Dire Straits,Red Hot Chili Peppers,0
+Dire Straits,Guns N' Roses,0
+Dire Straits,Enya,0
+Dire Straits,B'z,0
+Dire Straits,Garth Brooks,0
+Dire Straits,Mariah Carey,0
+Dire Straits,Nirvana,0
+Dire Straits,Tupac Shakur,0
+Dire Straits,R. Kelly,0
+Dire Straits,Shania Twain,0
+Dire Straits,Tim McGraw,0
+Dire Straits,Usher,0
+Dire Straits,Green Day,0
+Dire Straits,Backstreet Boys,0
+Dire Straits,Shakira,0
+Dire Straits,Jay-Z,0
+Dire Straits,Robbie Williams,0
+Dire Straits,Britney Spears,0
+Dire Straits,Christina Aguilera,0
+Dire Straits,The Black Eyed Peas,0
+Dire Straits,Ayumi Hamasaki,0
+Dire Straits,Eminem,0
+Dire Straits,Lil Wayne,0
+Dire Straits,Coldplay,0
+Dire Straits,Linkin Park,0
+Dire Straits,Pink,0
+Dire Straits,Alicia Keys,0
+Dire Straits,Beyoncé,0
+Dire Straits,Maroon 5,0
+Dire Straits,Justin Timberlake,0
+Dire Straits,Kanye West,0
+Dire Straits,Rihanna,0
+Dire Straits,Chris Brown,0
+Dire Straits,Taylor Swift,0
+Dire Straits,Flo Rida,0
+Dire Straits,Luke Bryan,0
+Dire Straits,Katy Perry,0
+Dire Straits,Lady Gaga,0
+Dire Straits,Adele,0
+Dire Straits,Drake,0
+Dire Straits,Justin Bieber,0
+Dire Straits,Bruno Mars,0
+Dire Straits,Nicki Minaj,0
+Dire Straits,Ed Sheeran,0
+Dire Straits,Imagine Dragons,0
+Dire Straits,Ariana Grande,0
+Dire Straits,The Weeknd,0
+Dire Straits,Post Malone,0
+Van Halen,The Police,1
+Van Halen,Def Leppard,1
+Van Halen,Bryan Adams,1
+Van Halen,U2,0
+Van Halen,Alabama,0
+Van Halen,Celine Dion,0
+Van Halen,Phil Collins,0
+Van Halen,Lionel Richie,0
+Van Halen,Janet Jackson,0
+Van Halen,Madonna,0
+Van Halen,Metallica,0
+Van Halen,Bon Jovi,0
+Van Halen,R.E.M.,0
+Van Halen,Whitney Houston,0
+Van Halen,George Strait,0
+Van Halen,George Michael,0
+Van Halen,Gloria Estefan,0
+Van Halen,Kenny G,0
+Van Halen,Red Hot Chili Peppers,0
+Van Halen,Guns N' Roses,0
+Van Halen,Enya,0
+Van Halen,B'z,0
+Van Halen,Garth Brooks,0
+Van Halen,Mariah Carey,0
+Van Halen,Nirvana,0
+Van Halen,Tupac Shakur,0
+Van Halen,R. Kelly,0
+Van Halen,Shania Twain,0
+Van Halen,Tim McGraw,0
+Van Halen,Usher,0
+Van Halen,Green Day,0
+Van Halen,Backstreet Boys,0
+Van Halen,Shakira,0
+Van Halen,Jay-Z,0
+Van Halen,Robbie Williams,0
+Van Halen,Britney Spears,0
+Van Halen,Christina Aguilera,0
+Van Halen,The Black Eyed Peas,0
+Van Halen,Ayumi Hamasaki,0
+Van Halen,Eminem,0
+Van Halen,Lil Wayne,0
+Van Halen,Coldplay,0
+Van Halen,Linkin Park,0
+Van Halen,Pink,0
+Van Halen,Alicia Keys,0
+Van Halen,Beyoncé,0
+Van Halen,Maroon 5,0
+Van Halen,Justin Timberlake,0
+Van Halen,Kanye West,0
+Van Halen,Rihanna,0
+Van Halen,Chris Brown,0
+Van Halen,Taylor Swift,0
+Van Halen,Flo Rida,0
+Van Halen,Luke Bryan,0
+Van Halen,Katy Perry,0
+Van Halen,Lady Gaga,0
+Van Halen,Adele,0
+Van Halen,Drake,0
+Van Halen,Justin Bieber,0
+Van Halen,Bruno Mars,0
+Van Halen,Nicki Minaj,0
+Van Halen,Ed Sheeran,0
+Van Halen,Imagine Dragons,0
+Van Halen,Ariana Grande,0
+Van Halen,The Weeknd,0
+Van Halen,Post Malone,0
+The Police,Def Leppard,1
+The Police,Bryan Adams,1
+The Police,U2,0
+The Police,Alabama,0
+The Police,Celine Dion,0
+The Police,Phil Collins,0
+The Police,Lionel Richie,0
+The Police,Janet Jackson,0
+The Police,Madonna,0
+The Police,Metallica,0
+The Police,Bon Jovi,0
+The Police,R.E.M.,0
+The Police,Whitney Houston,0
+The Police,George Strait,0
+The Police,George Michael,0
+The Police,Gloria Estefan,0
+The Police,Kenny G,0
+The Police,Red Hot Chili Peppers,0
+The Police,Guns N' Roses,0
+The Police,Enya,0
+The Police,B'z,0
+The Police,Garth Brooks,0
+The Police,Mariah Carey,0
+The Police,Nirvana,0
+The Police,Tupac Shakur,0
+The Police,R. Kelly,0
+The Police,Shania Twain,0
+The Police,Tim McGraw,0
+The Police,Usher,0
+The Police,Green Day,0
+The Police,Backstreet Boys,0
+The Police,Shakira,0
+The Police,Jay-Z,0
+The Police,Robbie Williams,0
+The Police,Britney Spears,0
+The Police,Christina Aguilera,0
+The Police,The Black Eyed Peas,0
+The Police,Ayumi Hamasaki,0
+The Police,Eminem,0
+The Police,Lil Wayne,0
+The Police,Coldplay,0
+The Police,Linkin Park,0
+The Police,Pink,0
+The Police,Alicia Keys,0
+The Police,Beyoncé,0
+The Police,Maroon 5,0
+The Police,Justin Timberlake,0
+The Police,Kanye West,0
+The Police,Rihanna,0
+The Police,Chris Brown,0
+The Police,Taylor Swift,0
+The Police,Flo Rida,0
+The Police,Luke Bryan,0
+The Police,Katy Perry,0
+The Police,Lady Gaga,0
+The Police,Adele,0
+The Police,Drake,0
+The Police,Justin Bieber,0
+The Police,Bruno Mars,0
+The Police,Nicki Minaj,0
+The Police,Ed Sheeran,0
+The Police,Imagine Dragons,0
+The Police,Ariana Grande,0
+The Police,The Weeknd,0
+The Police,Post Malone,0
+Def Leppard,Bryan Adams,1
+Def Leppard,U2,0
+Def Leppard,Alabama,0
+Def Leppard,Celine Dion,0
+Def Leppard,Phil Collins,0
+Def Leppard,Lionel Richie,0
+Def Leppard,Janet Jackson,0
+Def Leppard,Madonna,0
+Def Leppard,Metallica,0
+Def Leppard,Bon Jovi,0
+Def Leppard,R.E.M.,0
+Def Leppard,Whitney Houston,0
+Def Leppard,George Strait,0
+Def Leppard,George Michael,0
+Def Leppard,Gloria Estefan,0
+Def Leppard,Kenny G,0
+Def Leppard,Red Hot Chili Peppers,0
+Def Leppard,Guns N' Roses,0
+Def Leppard,Enya,0
+Def Leppard,B'z,0
+Def Leppard,Garth Brooks,0
+Def Leppard,Mariah Carey,0
+Def Leppard,Nirvana,0
+Def Leppard,Tupac Shakur,0
+Def Leppard,R. Kelly,0
+Def Leppard,Shania Twain,0
+Def Leppard,Tim McGraw,0
+Def Leppard,Usher,0
+Def Leppard,Green Day,0
+Def Leppard,Backstreet Boys,0
+Def Leppard,Shakira,0
+Def Leppard,Jay-Z,0
+Def Leppard,Robbie Williams,0
+Def Leppard,Britney Spears,0
+Def Leppard,Christina Aguilera,0
+Def Leppard,The Black Eyed Peas,0
+Def Leppard,Ayumi Hamasaki,0
+Def Leppard,Eminem,0
+Def Leppard,Lil Wayne,0
+Def Leppard,Coldplay,0
+Def Leppard,Linkin Park,0
+Def Leppard,Pink,0
+Def Leppard,Alicia Keys,0
+Def Leppard,Beyoncé,0
+Def Leppard,Maroon 5,0
+Def Leppard,Justin Timberlake,0
+Def Leppard,Kanye West,0
+Def Leppard,Rihanna,0
+Def Leppard,Chris Brown,0
+Def Leppard,Taylor Swift,0
+Def Leppard,Flo Rida,0
+Def Leppard,Luke Bryan,0
+Def Leppard,Katy Perry,0
+Def Leppard,Lady Gaga,0
+Def Leppard,Adele,0
+Def Leppard,Drake,0
+Def Leppard,Justin Bieber,0
+Def Leppard,Bruno Mars,0
+Def Leppard,Nicki Minaj,0
+Def Leppard,Ed Sheeran,0
+Def Leppard,Imagine Dragons,0
+Def Leppard,Ariana Grande,0
+Def Leppard,The Weeknd,0
+Def Leppard,Post Malone,0
+Bryan Adams,U2,0
+Bryan Adams,Alabama,0
+Bryan Adams,Celine Dion,0
+Bryan Adams,Phil Collins,0
+Bryan Adams,Lionel Richie,0
+Bryan Adams,Janet Jackson,0
+Bryan Adams,Madonna,0
+Bryan Adams,Metallica,0
+Bryan Adams,Bon Jovi,0
+Bryan Adams,R.E.M.,0
+Bryan Adams,Whitney Houston,0
+Bryan Adams,George Strait,0
+Bryan Adams,George Michael,0
+Bryan Adams,Gloria Estefan,0
+Bryan Adams,Kenny G,0
+Bryan Adams,Red Hot Chili Peppers,0
+Bryan Adams,Guns N' Roses,0
+Bryan Adams,Enya,0
+Bryan Adams,B'z,0
+Bryan Adams,Garth Brooks,0
+Bryan Adams,Mariah Carey,0
+Bryan Adams,Nirvana,0
+Bryan Adams,Tupac Shakur,0
+Bryan Adams,R. Kelly,0
+Bryan Adams,Shania Twain,0
+Bryan Adams,Tim McGraw,0
+Bryan Adams,Usher,0
+Bryan Adams,Green Day,0
+Bryan Adams,Backstreet Boys,0
+Bryan Adams,Shakira,0
+Bryan Adams,Jay-Z,0
+Bryan Adams,Robbie Williams,0
+Bryan Adams,Britney Spears,0
+Bryan Adams,Christina Aguilera,0
+Bryan Adams,The Black Eyed Peas,0
+Bryan Adams,Ayumi Hamasaki,0
+Bryan Adams,Eminem,0
+Bryan Adams,Lil Wayne,0
+Bryan Adams,Coldplay,0
+Bryan Adams,Linkin Park,0
+Bryan Adams,Pink,0
+Bryan Adams,Alicia Keys,0
+Bryan Adams,Beyoncé,0
+Bryan Adams,Maroon 5,0
+Bryan Adams,Justin Timberlake,0
+Bryan Adams,Kanye West,0
+Bryan Adams,Rihanna,0
+Bryan Adams,Chris Brown,0
+Bryan Adams,Taylor Swift,0
+Bryan Adams,Flo Rida,0
+Bryan Adams,Luke Bryan,0
+Bryan Adams,Katy Perry,0
+Bryan Adams,Lady Gaga,0
+Bryan Adams,Adele,0
+Bryan Adams,Drake,0
+Bryan Adams,Justin Bieber,0
+Bryan Adams,Bruno Mars,0
+Bryan Adams,Nicki Minaj,0
+Bryan Adams,Ed Sheeran,0
+Bryan Adams,Imagine Dragons,0
+Bryan Adams,Ariana Grande,0
+Bryan Adams,The Weeknd,0
+Bryan Adams,Post Malone,0
+U2,Alabama,1
+U2,Celine Dion,1
+U2,Phil Collins,1
+U2,Lionel Richie,1
+U2,Janet Jackson,1
+U2,Madonna,1
+U2,Metallica,1
+U2,Bon Jovi,1
+U2,R.E.M.,1
+U2,Whitney Houston,1
+U2,George Strait,1
+U2,George Michael,1
+U2,Gloria Estefan,1
+U2,Kenny G,1
+U2,Red Hot Chili Peppers,1
+U2,Guns N' Roses,1
+U2,Enya,1
+U2,B'z,1
+U2,Garth Brooks,1
+U2,Mariah Carey,0
+U2,Nirvana,0
+U2,Tupac Shakur,0
+U2,R. Kelly,0
+U2,Shania Twain,0
+U2,Tim McGraw,0
+U2,Usher,0
+U2,Green Day,0
+U2,Backstreet Boys,0
+U2,Shakira,0
+U2,Jay-Z,0
+U2,Robbie Williams,0
+U2,Britney Spears,0
+U2,Christina Aguilera,0
+U2,The Black Eyed Peas,0
+U2,Ayumi Hamasaki,0
+U2,Eminem,0
+U2,Lil Wayne,0
+U2,Coldplay,0
+U2,Linkin Park,0
+U2,Pink,0
+U2,Alicia Keys,0
+U2,Beyoncé,0
+U2,Maroon 5,0
+U2,Justin Timberlake,0
+U2,Kanye West,0
+U2,Rihanna,0
+U2,Chris Brown,0
+U2,Taylor Swift,0
+U2,Flo Rida,0
+U2,Luke Bryan,0
+U2,Katy Perry,0
+U2,Lady Gaga,0
+U2,Adele,0
+U2,Drake,0
+U2,Justin Bieber,0
+U2,Bruno Mars,0
+U2,Nicki Minaj,0
+U2,Ed Sheeran,0
+U2,Imagine Dragons,0
+U2,Ariana Grande,0
+U2,The Weeknd,0
+U2,Post Malone,0
+Alabama,Celine Dion,1
+Alabama,Phil Collins,1
+Alabama,Lionel Richie,1
+Alabama,Janet Jackson,1
+Alabama,Madonna,1
+Alabama,Metallica,1
+Alabama,Bon Jovi,1
+Alabama,R.E.M.,1
+Alabama,Whitney Houston,1
+Alabama,George Strait,1
+Alabama,George Michael,1
+Alabama,Gloria Estefan,1
+Alabama,Kenny G,1
+Alabama,Red Hot Chili Peppers,1
+Alabama,Guns N' Roses,1
+Alabama,Enya,1
+Alabama,B'z,1
+Alabama,Garth Brooks,1
+Alabama,Mariah Carey,0
+Alabama,Nirvana,0
+Alabama,Tupac Shakur,0
+Alabama,R. Kelly,0
+Alabama,Shania Twain,0
+Alabama,Tim McGraw,0
+Alabama,Usher,0
+Alabama,Green Day,0
+Alabama,Backstreet Boys,0
+Alabama,Shakira,0
+Alabama,Jay-Z,0
+Alabama,Robbie Williams,0
+Alabama,Britney Spears,0
+Alabama,Christina Aguilera,0
+Alabama,The Black Eyed Peas,0
+Alabama,Ayumi Hamasaki,0
+Alabama,Eminem,0
+Alabama,Lil Wayne,0
+Alabama,Coldplay,0
+Alabama,Linkin Park,0
+Alabama,Pink,0
+Alabama,Alicia Keys,0
+Alabama,Beyoncé,0
+Alabama,Maroon 5,0
+Alabama,Justin Timberlake,0
+Alabama,Kanye West,0
+Alabama,Rihanna,0
+Alabama,Chris Brown,0
+Alabama,Taylor Swift,0
+Alabama,Flo Rida,0
+Alabama,Luke Bryan,0
+Alabama,Katy Perry,0
+Alabama,Lady Gaga,0
+Alabama,Adele,0
+Alabama,Drake,0
+Alabama,Justin Bieber,0
+Alabama,Bruno Mars,0
+Alabama,Nicki Minaj,0
+Alabama,Ed Sheeran,0
+Alabama,Imagine Dragons,0
+Alabama,Ariana Grande,0
+Alabama,The Weeknd,0
+Alabama,Post Malone,0
+Celine Dion,Phil Collins,1
+Celine Dion,Lionel Richie,1
+Celine Dion,Janet Jackson,1
+Celine Dion,Madonna,1
+Celine Dion,Metallica,1
+Celine Dion,Bon Jovi,1
+Celine Dion,R.E.M.,1
+Celine Dion,Whitney Houston,1
+Celine Dion,George Strait,1
+Celine Dion,George Michael,1
+Celine Dion,Gloria Estefan,1
+Celine Dion,Kenny G,1
+Celine Dion,Red Hot Chili Peppers,1
+Celine Dion,Guns N' Roses,1
+Celine Dion,Enya,1
+Celine Dion,B'z,1
+Celine Dion,Garth Brooks,1
+Celine Dion,Mariah Carey,0
+Celine Dion,Nirvana,0
+Celine Dion,Tupac Shakur,0
+Celine Dion,R. Kelly,0
+Celine Dion,Shania Twain,0
+Celine Dion,Tim McGraw,0
+Celine Dion,Usher,0
+Celine Dion,Green Day,0
+Celine Dion,Backstreet Boys,0
+Celine Dion,Shakira,0
+Celine Dion,Jay-Z,0
+Celine Dion,Robbie Williams,0
+Celine Dion,Britney Spears,0
+Celine Dion,Christina Aguilera,0
+Celine Dion,The Black Eyed Peas,0
+Celine Dion,Ayumi Hamasaki,0
+Celine Dion,Eminem,0
+Celine Dion,Lil Wayne,0
+Celine Dion,Coldplay,0
+Celine Dion,Linkin Park,0
+Celine Dion,Pink,0
+Celine Dion,Alicia Keys,0
+Celine Dion,Beyoncé,0
+Celine Dion,Maroon 5,0
+Celine Dion,Justin Timberlake,0
+Celine Dion,Kanye West,0
+Celine Dion,Rihanna,0
+Celine Dion,Chris Brown,0
+Celine Dion,Taylor Swift,0
+Celine Dion,Flo Rida,0
+Celine Dion,Luke Bryan,0
+Celine Dion,Katy Perry,0
+Celine Dion,Lady Gaga,0
+Celine Dion,Adele,0
+Celine Dion,Drake,0
+Celine Dion,Justin Bieber,0
+Celine Dion,Bruno Mars,0
+Celine Dion,Nicki Minaj,0
+Celine Dion,Ed Sheeran,0
+Celine Dion,Imagine Dragons,0
+Celine Dion,Ariana Grande,0
+Celine Dion,The Weeknd,0
+Celine Dion,Post Malone,0
+Phil Collins,Lionel Richie,1
+Phil Collins,Janet Jackson,1
+Phil Collins,Madonna,1
+Phil Collins,Metallica,1
+Phil Collins,Bon Jovi,1
+Phil Collins,R.E.M.,1
+Phil Collins,Whitney Houston,1
+Phil Collins,George Strait,1
+Phil Collins,George Michael,1
+Phil Collins,Gloria Estefan,1
+Phil Collins,Kenny G,1
+Phil Collins,Red Hot Chili Peppers,1
+Phil Collins,Guns N' Roses,1
+Phil Collins,Enya,1
+Phil Collins,B'z,1
+Phil Collins,Garth Brooks,1
+Phil Collins,Mariah Carey,0
+Phil Collins,Nirvana,0
+Phil Collins,Tupac Shakur,0
+Phil Collins,R. Kelly,0
+Phil Collins,Shania Twain,0
+Phil Collins,Tim McGraw,0
+Phil Collins,Usher,0
+Phil Collins,Green Day,0
+Phil Collins,Backstreet Boys,0
+Phil Collins,Shakira,0
+Phil Collins,Jay-Z,0
+Phil Collins,Robbie Williams,0
+Phil Collins,Britney Spears,0
+Phil Collins,Christina Aguilera,0
+Phil Collins,The Black Eyed Peas,0
+Phil Collins,Ayumi Hamasaki,0
+Phil Collins,Eminem,0
+Phil Collins,Lil Wayne,0
+Phil Collins,Coldplay,0
+Phil Collins,Linkin Park,0
+Phil Collins,Pink,0
+Phil Collins,Alicia Keys,0
+Phil Collins,Beyoncé,0
+Phil Collins,Maroon 5,0
+Phil Collins,Justin Timberlake,0
+Phil Collins,Kanye West,0
+Phil Collins,Rihanna,0
+Phil Collins,Chris Brown,0
+Phil Collins,Taylor Swift,0
+Phil Collins,Flo Rida,0
+Phil Collins,Luke Bryan,0
+Phil Collins,Katy Perry,0
+Phil Collins,Lady Gaga,0
+Phil Collins,Adele,0
+Phil Collins,Drake,0
+Phil Collins,Justin Bieber,0
+Phil Collins,Bruno Mars,0
+Phil Collins,Nicki Minaj,0
+Phil Collins,Ed Sheeran,0
+Phil Collins,Imagine Dragons,0
+Phil Collins,Ariana Grande,0
+Phil Collins,The Weeknd,0
+Phil Collins,Post Malone,0
+Lionel Richie,Janet Jackson,1
+Lionel Richie,Madonna,1
+Lionel Richie,Metallica,1
+Lionel Richie,Bon Jovi,1
+Lionel Richie,R.E.M.,1
+Lionel Richie,Whitney Houston,1
+Lionel Richie,George Strait,1
+Lionel Richie,George Michael,1
+Lionel Richie,Gloria Estefan,1
+Lionel Richie,Kenny G,1
+Lionel Richie,Red Hot Chili Peppers,1
+Lionel Richie,Guns N' Roses,1
+Lionel Richie,Enya,1
+Lionel Richie,B'z,1
+Lionel Richie,Garth Brooks,1
+Lionel Richie,Mariah Carey,0
+Lionel Richie,Nirvana,0
+Lionel Richie,Tupac Shakur,0
+Lionel Richie,R. Kelly,0
+Lionel Richie,Shania Twain,0
+Lionel Richie,Tim McGraw,0
+Lionel Richie,Usher,0
+Lionel Richie,Green Day,0
+Lionel Richie,Backstreet Boys,0
+Lionel Richie,Shakira,0
+Lionel Richie,Jay-Z,0
+Lionel Richie,Robbie Williams,0
+Lionel Richie,Britney Spears,0
+Lionel Richie,Christina Aguilera,0
+Lionel Richie,The Black Eyed Peas,0
+Lionel Richie,Ayumi Hamasaki,0
+Lionel Richie,Eminem,0
+Lionel Richie,Lil Wayne,0
+Lionel Richie,Coldplay,0
+Lionel Richie,Linkin Park,0
+Lionel Richie,Pink,0
+Lionel Richie,Alicia Keys,0
+Lionel Richie,Beyoncé,0
+Lionel Richie,Maroon 5,0
+Lionel Richie,Justin Timberlake,0
+Lionel Richie,Kanye West,0
+Lionel Richie,Rihanna,0
+Lionel Richie,Chris Brown,0
+Lionel Richie,Taylor Swift,0
+Lionel Richie,Flo Rida,0
+Lionel Richie,Luke Bryan,0
+Lionel Richie,Katy Perry,0
+Lionel Richie,Lady Gaga,0
+Lionel Richie,Adele,0
+Lionel Richie,Drake,0
+Lionel Richie,Justin Bieber,0
+Lionel Richie,Bruno Mars,0
+Lionel Richie,Nicki Minaj,0
+Lionel Richie,Ed Sheeran,0
+Lionel Richie,Imagine Dragons,0
+Lionel Richie,Ariana Grande,0
+Lionel Richie,The Weeknd,0
+Lionel Richie,Post Malone,0
+Janet Jackson,Madonna,1
+Janet Jackson,Metallica,1
+Janet Jackson,Bon Jovi,1
+Janet Jackson,R.E.M.,1
+Janet Jackson,Whitney Houston,1
+Janet Jackson,George Strait,1
+Janet Jackson,George Michael,1
+Janet Jackson,Gloria Estefan,1
+Janet Jackson,Kenny G,1
+Janet Jackson,Red Hot Chili Peppers,1
+Janet Jackson,Guns N' Roses,1
+Janet Jackson,Enya,1
+Janet Jackson,B'z,1
+Janet Jackson,Garth Brooks,1
+Janet Jackson,Mariah Carey,0
+Janet Jackson,Nirvana,0
+Janet Jackson,Tupac Shakur,0
+Janet Jackson,R. Kelly,0
+Janet Jackson,Shania Twain,0
+Janet Jackson,Tim McGraw,0
+Janet Jackson,Usher,0
+Janet Jackson,Green Day,0
+Janet Jackson,Backstreet Boys,0
+Janet Jackson,Shakira,0
+Janet Jackson,Jay-Z,0
+Janet Jackson,Robbie Williams,0
+Janet Jackson,Britney Spears,0
+Janet Jackson,Christina Aguilera,0
+Janet Jackson,The Black Eyed Peas,0
+Janet Jackson,Ayumi Hamasaki,0
+Janet Jackson,Eminem,0
+Janet Jackson,Lil Wayne,0
+Janet Jackson,Coldplay,0
+Janet Jackson,Linkin Park,0
+Janet Jackson,Pink,0
+Janet Jackson,Alicia Keys,0
+Janet Jackson,Beyoncé,0
+Janet Jackson,Maroon 5,0
+Janet Jackson,Justin Timberlake,0
+Janet Jackson,Kanye West,0
+Janet Jackson,Rihanna,0
+Janet Jackson,Chris Brown,0
+Janet Jackson,Taylor Swift,0
+Janet Jackson,Flo Rida,0
+Janet Jackson,Luke Bryan,0
+Janet Jackson,Katy Perry,0
+Janet Jackson,Lady Gaga,0
+Janet Jackson,Adele,0
+Janet Jackson,Drake,0
+Janet Jackson,Justin Bieber,0
+Janet Jackson,Bruno Mars,0
+Janet Jackson,Nicki Minaj,0
+Janet Jackson,Ed Sheeran,0
+Janet Jackson,Imagine Dragons,0
+Janet Jackson,Ariana Grande,0
+Janet Jackson,The Weeknd,0
+Janet Jackson,Post Malone,0
+Madonna,Metallica,1
+Madonna,Bon Jovi,1
+Madonna,R.E.M.,1
+Madonna,Whitney Houston,1
+Madonna,George Strait,1
+Madonna,George Michael,1
+Madonna,Gloria Estefan,1
+Madonna,Kenny G,1
+Madonna,Red Hot Chili Peppers,1
+Madonna,Guns N' Roses,1
+Madonna,Enya,1
+Madonna,B'z,1
+Madonna,Garth Brooks,1
+Madonna,Mariah Carey,0
+Madonna,Nirvana,0
+Madonna,Tupac Shakur,0
+Madonna,R. Kelly,0
+Madonna,Shania Twain,0
+Madonna,Tim McGraw,0
+Madonna,Usher,0
+Madonna,Green Day,0
+Madonna,Backstreet Boys,0
+Madonna,Shakira,0
+Madonna,Jay-Z,0
+Madonna,Robbie Williams,0
+Madonna,Britney Spears,0
+Madonna,Christina Aguilera,0
+Madonna,The Black Eyed Peas,0
+Madonna,Ayumi Hamasaki,0
+Madonna,Eminem,0
+Madonna,Lil Wayne,0
+Madonna,Coldplay,0
+Madonna,Linkin Park,0
+Madonna,Pink,0
+Madonna,Alicia Keys,0
+Madonna,Beyoncé,0
+Madonna,Maroon 5,0
+Madonna,Justin Timberlake,0
+Madonna,Kanye West,0
+Madonna,Rihanna,0
+Madonna,Chris Brown,0
+Madonna,Taylor Swift,0
+Madonna,Flo Rida,0
+Madonna,Luke Bryan,0
+Madonna,Katy Perry,0
+Madonna,Lady Gaga,0
+Madonna,Adele,0
+Madonna,Drake,0
+Madonna,Justin Bieber,0
+Madonna,Bruno Mars,0
+Madonna,Nicki Minaj,0
+Madonna,Ed Sheeran,0
+Madonna,Imagine Dragons,0
+Madonna,Ariana Grande,0
+Madonna,The Weeknd,0
+Madonna,Post Malone,0
+Metallica,Bon Jovi,1
+Metallica,R.E.M.,1
+Metallica,Whitney Houston,1
+Metallica,George Strait,1
+Metallica,George Michael,1
+Metallica,Gloria Estefan,1
+Metallica,Kenny G,1
+Metallica,Red Hot Chili Peppers,1
+Metallica,Guns N' Roses,1
+Metallica,Enya,1
+Metallica,B'z,1
+Metallica,Garth Brooks,1
+Metallica,Mariah Carey,0
+Metallica,Nirvana,0
+Metallica,Tupac Shakur,0
+Metallica,R. Kelly,0
+Metallica,Shania Twain,0
+Metallica,Tim McGraw,0
+Metallica,Usher,0
+Metallica,Green Day,0
+Metallica,Backstreet Boys,0
+Metallica,Shakira,0
+Metallica,Jay-Z,0
+Metallica,Robbie Williams,0
+Metallica,Britney Spears,0
+Metallica,Christina Aguilera,0
+Metallica,The Black Eyed Peas,0
+Metallica,Ayumi Hamasaki,0
+Metallica,Eminem,0
+Metallica,Lil Wayne,0
+Metallica,Coldplay,0
+Metallica,Linkin Park,0
+Metallica,Pink,0
+Metallica,Alicia Keys,0
+Metallica,Beyoncé,0
+Metallica,Maroon 5,0
+Metallica,Justin Timberlake,0
+Metallica,Kanye West,0
+Metallica,Rihanna,0
+Metallica,Chris Brown,0
+Metallica,Taylor Swift,0
+Metallica,Flo Rida,0
+Metallica,Luke Bryan,0
+Metallica,Katy Perry,0
+Metallica,Lady Gaga,0
+Metallica,Adele,0
+Metallica,Drake,0
+Metallica,Justin Bieber,0
+Metallica,Bruno Mars,0
+Metallica,Nicki Minaj,0
+Metallica,Ed Sheeran,0
+Metallica,Imagine Dragons,0
+Metallica,Ariana Grande,0
+Metallica,The Weeknd,0
+Metallica,Post Malone,0
+Bon Jovi,R.E.M.,1
+Bon Jovi,Whitney Houston,1
+Bon Jovi,George Strait,1
+Bon Jovi,George Michael,1
+Bon Jovi,Gloria Estefan,1
+Bon Jovi,Kenny G,1
+Bon Jovi,Red Hot Chili Peppers,1
+Bon Jovi,Guns N' Roses,1
+Bon Jovi,Enya,1
+Bon Jovi,B'z,1
+Bon Jovi,Garth Brooks,1
+Bon Jovi,Mariah Carey,0
+Bon Jovi,Nirvana,0
+Bon Jovi,Tupac Shakur,0
+Bon Jovi,R. Kelly,0
+Bon Jovi,Shania Twain,0
+Bon Jovi,Tim McGraw,0
+Bon Jovi,Usher,0
+Bon Jovi,Green Day,0
+Bon Jovi,Backstreet Boys,0
+Bon Jovi,Shakira,0
+Bon Jovi,Jay-Z,0
+Bon Jovi,Robbie Williams,0
+Bon Jovi,Britney Spears,0
+Bon Jovi,Christina Aguilera,0
+Bon Jovi,The Black Eyed Peas,0
+Bon Jovi,Ayumi Hamasaki,0
+Bon Jovi,Eminem,0
+Bon Jovi,Lil Wayne,0
+Bon Jovi,Coldplay,0
+Bon Jovi,Linkin Park,0
+Bon Jovi,Pink,0
+Bon Jovi,Alicia Keys,0
+Bon Jovi,Beyoncé,0
+Bon Jovi,Maroon 5,0
+Bon Jovi,Justin Timberlake,0
+Bon Jovi,Kanye West,0
+Bon Jovi,Rihanna,0
+Bon Jovi,Chris Brown,0
+Bon Jovi,Taylor Swift,0
+Bon Jovi,Flo Rida,0
+Bon Jovi,Luke Bryan,0
+Bon Jovi,Katy Perry,0
+Bon Jovi,Lady Gaga,0
+Bon Jovi,Adele,0
+Bon Jovi,Drake,0
+Bon Jovi,Justin Bieber,0
+Bon Jovi,Bruno Mars,0
+Bon Jovi,Nicki Minaj,0
+Bon Jovi,Ed Sheeran,0
+Bon Jovi,Imagine Dragons,0
+Bon Jovi,Ariana Grande,0
+Bon Jovi,The Weeknd,0
+Bon Jovi,Post Malone,0
+R.E.M.,Whitney Houston,1
+R.E.M.,George Strait,1
+R.E.M.,George Michael,1
+R.E.M.,Gloria Estefan,1
+R.E.M.,Kenny G,1
+R.E.M.,Red Hot Chili Peppers,1
+R.E.M.,Guns N' Roses,1
+R.E.M.,Enya,1
+R.E.M.,B'z,1
+R.E.M.,Garth Brooks,1
+R.E.M.,Mariah Carey,0
+R.E.M.,Nirvana,0
+R.E.M.,Tupac Shakur,0
+R.E.M.,R. Kelly,0
+R.E.M.,Shania Twain,0
+R.E.M.,Tim McGraw,0
+R.E.M.,Usher,0
+R.E.M.,Green Day,0
+R.E.M.,Backstreet Boys,0
+R.E.M.,Shakira,0
+R.E.M.,Jay-Z,0
+R.E.M.,Robbie Williams,0
+R.E.M.,Britney Spears,0
+R.E.M.,Christina Aguilera,0
+R.E.M.,The Black Eyed Peas,0
+R.E.M.,Ayumi Hamasaki,0
+R.E.M.,Eminem,0
+R.E.M.,Lil Wayne,0
+R.E.M.,Coldplay,0
+R.E.M.,Linkin Park,0
+R.E.M.,Pink,0
+R.E.M.,Alicia Keys,0
+R.E.M.,Beyoncé,0
+R.E.M.,Maroon 5,0
+R.E.M.,Justin Timberlake,0
+R.E.M.,Kanye West,0
+R.E.M.,Rihanna,0
+R.E.M.,Chris Brown,0
+R.E.M.,Taylor Swift,0
+R.E.M.,Flo Rida,0
+R.E.M.,Luke Bryan,0
+R.E.M.,Katy Perry,0
+R.E.M.,Lady Gaga,0
+R.E.M.,Adele,0
+R.E.M.,Drake,0
+R.E.M.,Justin Bieber,0
+R.E.M.,Bruno Mars,0
+R.E.M.,Nicki Minaj,0
+R.E.M.,Ed Sheeran,0
+R.E.M.,Imagine Dragons,0
+R.E.M.,Ariana Grande,0
+R.E.M.,The Weeknd,0
+R.E.M.,Post Malone,0
+Whitney Houston,George Strait,1
+Whitney Houston,George Michael,1
+Whitney Houston,Gloria Estefan,1
+Whitney Houston,Kenny G,1
+Whitney Houston,Red Hot Chili Peppers,1
+Whitney Houston,Guns N' Roses,1
+Whitney Houston,Enya,1
+Whitney Houston,B'z,1
+Whitney Houston,Garth Brooks,1
+Whitney Houston,Mariah Carey,0
+Whitney Houston,Nirvana,0
+Whitney Houston,Tupac Shakur,0
+Whitney Houston,R. Kelly,0
+Whitney Houston,Shania Twain,0
+Whitney Houston,Tim McGraw,0
+Whitney Houston,Usher,0
+Whitney Houston,Green Day,0
+Whitney Houston,Backstreet Boys,0
+Whitney Houston,Shakira,0
+Whitney Houston,Jay-Z,0
+Whitney Houston,Robbie Williams,0
+Whitney Houston,Britney Spears,0
+Whitney Houston,Christina Aguilera,0
+Whitney Houston,The Black Eyed Peas,0
+Whitney Houston,Ayumi Hamasaki,0
+Whitney Houston,Eminem,0
+Whitney Houston,Lil Wayne,0
+Whitney Houston,Coldplay,0
+Whitney Houston,Linkin Park,0
+Whitney Houston,Pink,0
+Whitney Houston,Alicia Keys,0
+Whitney Houston,Beyoncé,0
+Whitney Houston,Maroon 5,0
+Whitney Houston,Justin Timberlake,0
+Whitney Houston,Kanye West,0
+Whitney Houston,Rihanna,0
+Whitney Houston,Chris Brown,0
+Whitney Houston,Taylor Swift,0
+Whitney Houston,Flo Rida,0
+Whitney Houston,Luke Bryan,0
+Whitney Houston,Katy Perry,0
+Whitney Houston,Lady Gaga,0
+Whitney Houston,Adele,0
+Whitney Houston,Drake,0
+Whitney Houston,Justin Bieber,0
+Whitney Houston,Bruno Mars,0
+Whitney Houston,Nicki Minaj,0
+Whitney Houston,Ed Sheeran,0
+Whitney Houston,Imagine Dragons,0
+Whitney Houston,Ariana Grande,0
+Whitney Houston,The Weeknd,0
+Whitney Houston,Post Malone,0
+George Strait,George Michael,1
+George Strait,Gloria Estefan,1
+George Strait,Kenny G,1
+George Strait,Red Hot Chili Peppers,1
+George Strait,Guns N' Roses,1
+George Strait,Enya,1
+George Strait,B'z,1
+George Strait,Garth Brooks,1
+George Strait,Mariah Carey,0
+George Strait,Nirvana,0
+George Strait,Tupac Shakur,0
+George Strait,R. Kelly,0
+George Strait,Shania Twain,0
+George Strait,Tim McGraw,0
+George Strait,Usher,0
+George Strait,Green Day,0
+George Strait,Backstreet Boys,0
+George Strait,Shakira,0
+George Strait,Jay-Z,0
+George Strait,Robbie Williams,0
+George Strait,Britney Spears,0
+George Strait,Christina Aguilera,0
+George Strait,The Black Eyed Peas,0
+George Strait,Ayumi Hamasaki,0
+George Strait,Eminem,0
+George Strait,Lil Wayne,0
+George Strait,Coldplay,0
+George Strait,Linkin Park,0
+George Strait,Pink,0
+George Strait,Alicia Keys,0
+George Strait,Beyoncé,0
+George Strait,Maroon 5,0
+George Strait,Justin Timberlake,0
+George Strait,Kanye West,0
+George Strait,Rihanna,0
+George Strait,Chris Brown,0
+George Strait,Taylor Swift,0
+George Strait,Flo Rida,0
+George Strait,Luke Bryan,0
+George Strait,Katy Perry,0
+George Strait,Lady Gaga,0
+George Strait,Adele,0
+George Strait,Drake,0
+George Strait,Justin Bieber,0
+George Strait,Bruno Mars,0
+George Strait,Nicki Minaj,0
+George Strait,Ed Sheeran,0
+George Strait,Imagine Dragons,0
+George Strait,Ariana Grande,0
+George Strait,The Weeknd,0
+George Strait,Post Malone,0
+George Michael,Gloria Estefan,1
+George Michael,Kenny G,1
+George Michael,Red Hot Chili Peppers,1
+George Michael,Guns N' Roses,1
+George Michael,Enya,1
+George Michael,B'z,1
+George Michael,Garth Brooks,1
+George Michael,Mariah Carey,0
+George Michael,Nirvana,0
+George Michael,Tupac Shakur,0
+George Michael,R. Kelly,0
+George Michael,Shania Twain,0
+George Michael,Tim McGraw,0
+George Michael,Usher,0
+George Michael,Green Day,0
+George Michael,Backstreet Boys,0
+George Michael,Shakira,0
+George Michael,Jay-Z,0
+George Michael,Robbie Williams,0
+George Michael,Britney Spears,0
+George Michael,Christina Aguilera,0
+George Michael,The Black Eyed Peas,0
+George Michael,Ayumi Hamasaki,0
+George Michael,Eminem,0
+George Michael,Lil Wayne,0
+George Michael,Coldplay,0
+George Michael,Linkin Park,0
+George Michael,Pink,0
+George Michael,Alicia Keys,0
+George Michael,Beyoncé,0
+George Michael,Maroon 5,0
+George Michael,Justin Timberlake,0
+George Michael,Kanye West,0
+George Michael,Rihanna,0
+George Michael,Chris Brown,0
+George Michael,Taylor Swift,0
+George Michael,Flo Rida,0
+George Michael,Luke Bryan,0
+George Michael,Katy Perry,0
+George Michael,Lady Gaga,0
+George Michael,Adele,0
+George Michael,Drake,0
+George Michael,Justin Bieber,0
+George Michael,Bruno Mars,0
+George Michael,Nicki Minaj,0
+George Michael,Ed Sheeran,0
+George Michael,Imagine Dragons,0
+George Michael,Ariana Grande,0
+George Michael,The Weeknd,0
+George Michael,Post Malone,0
+Gloria Estefan,Kenny G,1
+Gloria Estefan,Red Hot Chili Peppers,1
+Gloria Estefan,Guns N' Roses,1
+Gloria Estefan,Enya,1
+Gloria Estefan,B'z,1
+Gloria Estefan,Garth Brooks,1
+Gloria Estefan,Mariah Carey,0
+Gloria Estefan,Nirvana,0
+Gloria Estefan,Tupac Shakur,0
+Gloria Estefan,R. Kelly,0
+Gloria Estefan,Shania Twain,0
+Gloria Estefan,Tim McGraw,0
+Gloria Estefan,Usher,0
+Gloria Estefan,Green Day,0
+Gloria Estefan,Backstreet Boys,0
+Gloria Estefan,Shakira,0
+Gloria Estefan,Jay-Z,0
+Gloria Estefan,Robbie Williams,0
+Gloria Estefan,Britney Spears,0
+Gloria Estefan,Christina Aguilera,0
+Gloria Estefan,The Black Eyed Peas,0
+Gloria Estefan,Ayumi Hamasaki,0
+Gloria Estefan,Eminem,0
+Gloria Estefan,Lil Wayne,0
+Gloria Estefan,Coldplay,0
+Gloria Estefan,Linkin Park,0
+Gloria Estefan,Pink,0
+Gloria Estefan,Alicia Keys,0
+Gloria Estefan,Beyoncé,0
+Gloria Estefan,Maroon 5,0
+Gloria Estefan,Justin Timberlake,0
+Gloria Estefan,Kanye West,0
+Gloria Estefan,Rihanna,0
+Gloria Estefan,Chris Brown,0
+Gloria Estefan,Taylor Swift,0
+Gloria Estefan,Flo Rida,0
+Gloria Estefan,Luke Bryan,0
+Gloria Estefan,Katy Perry,0
+Gloria Estefan,Lady Gaga,0
+Gloria Estefan,Adele,0
+Gloria Estefan,Drake,0
+Gloria Estefan,Justin Bieber,0
+Gloria Estefan,Bruno Mars,0
+Gloria Estefan,Nicki Minaj,0
+Gloria Estefan,Ed Sheeran,0
+Gloria Estefan,Imagine Dragons,0
+Gloria Estefan,Ariana Grande,0
+Gloria Estefan,The Weeknd,0
+Gloria Estefan,Post Malone,0
+Kenny G,Red Hot Chili Peppers,1
+Kenny G,Guns N' Roses,1
+Kenny G,Enya,1
+Kenny G,B'z,1
+Kenny G,Garth Brooks,1
+Kenny G,Mariah Carey,0
+Kenny G,Nirvana,0
+Kenny G,Tupac Shakur,0
+Kenny G,R. Kelly,0
+Kenny G,Shania Twain,0
+Kenny G,Tim McGraw,0
+Kenny G,Usher,0
+Kenny G,Green Day,0
+Kenny G,Backstreet Boys,0
+Kenny G,Shakira,0
+Kenny G,Jay-Z,0
+Kenny G,Robbie Williams,0
+Kenny G,Britney Spears,0
+Kenny G,Christina Aguilera,0
+Kenny G,The Black Eyed Peas,0
+Kenny G,Ayumi Hamasaki,0
+Kenny G,Eminem,0
+Kenny G,Lil Wayne,0
+Kenny G,Coldplay,0
+Kenny G,Linkin Park,0
+Kenny G,Pink,0
+Kenny G,Alicia Keys,0
+Kenny G,Beyoncé,0
+Kenny G,Maroon 5,0
+Kenny G,Justin Timberlake,0
+Kenny G,Kanye West,0
+Kenny G,Rihanna,0
+Kenny G,Chris Brown,0
+Kenny G,Taylor Swift,0
+Kenny G,Flo Rida,0
+Kenny G,Luke Bryan,0
+Kenny G,Katy Perry,0
+Kenny G,Lady Gaga,0
+Kenny G,Adele,0
+Kenny G,Drake,0
+Kenny G,Justin Bieber,0
+Kenny G,Bruno Mars,0
+Kenny G,Nicki Minaj,0
+Kenny G,Ed Sheeran,0
+Kenny G,Imagine Dragons,0
+Kenny G,Ariana Grande,0
+Kenny G,The Weeknd,0
+Kenny G,Post Malone,0
+Red Hot Chili Peppers,Guns N' Roses,1
+Red Hot Chili Peppers,Enya,1
+Red Hot Chili Peppers,B'z,1
+Red Hot Chili Peppers,Garth Brooks,1
+Red Hot Chili Peppers,Mariah Carey,0
+Red Hot Chili Peppers,Nirvana,0
+Red Hot Chili Peppers,Tupac Shakur,0
+Red Hot Chili Peppers,R. Kelly,0
+Red Hot Chili Peppers,Shania Twain,0
+Red Hot Chili Peppers,Tim McGraw,0
+Red Hot Chili Peppers,Usher,0
+Red Hot Chili Peppers,Green Day,0
+Red Hot Chili Peppers,Backstreet Boys,0
+Red Hot Chili Peppers,Shakira,0
+Red Hot Chili Peppers,Jay-Z,0
+Red Hot Chili Peppers,Robbie Williams,0
+Red Hot Chili Peppers,Britney Spears,0
+Red Hot Chili Peppers,Christina Aguilera,0
+Red Hot Chili Peppers,The Black Eyed Peas,0
+Red Hot Chili Peppers,Ayumi Hamasaki,0
+Red Hot Chili Peppers,Eminem,0
+Red Hot Chili Peppers,Lil Wayne,0
+Red Hot Chili Peppers,Coldplay,0
+Red Hot Chili Peppers,Linkin Park,0
+Red Hot Chili Peppers,Pink,0
+Red Hot Chili Peppers,Alicia Keys,0
+Red Hot Chili Peppers,Beyoncé,0
+Red Hot Chili Peppers,Maroon 5,0
+Red Hot Chili Peppers,Justin Timberlake,0
+Red Hot Chili Peppers,Kanye West,0
+Red Hot Chili Peppers,Rihanna,0
+Red Hot Chili Peppers,Chris Brown,0
+Red Hot Chili Peppers,Taylor Swift,0
+Red Hot Chili Peppers,Flo Rida,0
+Red Hot Chili Peppers,Luke Bryan,0
+Red Hot Chili Peppers,Katy Perry,0
+Red Hot Chili Peppers,Lady Gaga,0
+Red Hot Chili Peppers,Adele,0
+Red Hot Chili Peppers,Drake,0
+Red Hot Chili Peppers,Justin Bieber,0
+Red Hot Chili Peppers,Bruno Mars,0
+Red Hot Chili Peppers,Nicki Minaj,0
+Red Hot Chili Peppers,Ed Sheeran,0
+Red Hot Chili Peppers,Imagine Dragons,0
+Red Hot Chili Peppers,Ariana Grande,0
+Red Hot Chili Peppers,The Weeknd,0
+Red Hot Chili Peppers,Post Malone,0
+Guns N' Roses,Enya,1
+Guns N' Roses,B'z,1
+Guns N' Roses,Garth Brooks,1
+Guns N' Roses,Mariah Carey,0
+Guns N' Roses,Nirvana,0
+Guns N' Roses,Tupac Shakur,0
+Guns N' Roses,R. Kelly,0
+Guns N' Roses,Shania Twain,0
+Guns N' Roses,Tim McGraw,0
+Guns N' Roses,Usher,0
+Guns N' Roses,Green Day,0
+Guns N' Roses,Backstreet Boys,0
+Guns N' Roses,Shakira,0
+Guns N' Roses,Jay-Z,0
+Guns N' Roses,Robbie Williams,0
+Guns N' Roses,Britney Spears,0
+Guns N' Roses,Christina Aguilera,0
+Guns N' Roses,The Black Eyed Peas,0
+Guns N' Roses,Ayumi Hamasaki,0
+Guns N' Roses,Eminem,0
+Guns N' Roses,Lil Wayne,0
+Guns N' Roses,Coldplay,0
+Guns N' Roses,Linkin Park,0
+Guns N' Roses,Pink,0
+Guns N' Roses,Alicia Keys,0
+Guns N' Roses,Beyoncé,0
+Guns N' Roses,Maroon 5,0
+Guns N' Roses,Justin Timberlake,0
+Guns N' Roses,Kanye West,0
+Guns N' Roses,Rihanna,0
+Guns N' Roses,Chris Brown,0
+Guns N' Roses,Taylor Swift,0
+Guns N' Roses,Flo Rida,0
+Guns N' Roses,Luke Bryan,0
+Guns N' Roses,Katy Perry,0
+Guns N' Roses,Lady Gaga,0
+Guns N' Roses,Adele,0
+Guns N' Roses,Drake,0
+Guns N' Roses,Justin Bieber,0
+Guns N' Roses,Bruno Mars,0
+Guns N' Roses,Nicki Minaj,0
+Guns N' Roses,Ed Sheeran,0
+Guns N' Roses,Imagine Dragons,0
+Guns N' Roses,Ariana Grande,0
+Guns N' Roses,The Weeknd,0
+Guns N' Roses,Post Malone,0
+Enya,B'z,1
+Enya,Garth Brooks,1
+Enya,Mariah Carey,0
+Enya,Nirvana,0
+Enya,Tupac Shakur,0
+Enya,R. Kelly,0
+Enya,Shania Twain,0
+Enya,Tim McGraw,0
+Enya,Usher,0
+Enya,Green Day,0
+Enya,Backstreet Boys,0
+Enya,Shakira,0
+Enya,Jay-Z,0
+Enya,Robbie Williams,0
+Enya,Britney Spears,0
+Enya,Christina Aguilera,0
+Enya,The Black Eyed Peas,0
+Enya,Ayumi Hamasaki,0
+Enya,Eminem,0
+Enya,Lil Wayne,0
+Enya,Coldplay,0
+Enya,Linkin Park,0
+Enya,Pink,0
+Enya,Alicia Keys,0
+Enya,Beyoncé,0
+Enya,Maroon 5,0
+Enya,Justin Timberlake,0
+Enya,Kanye West,0
+Enya,Rihanna,0
+Enya,Chris Brown,0
+Enya,Taylor Swift,0
+Enya,Flo Rida,0
+Enya,Luke Bryan,0
+Enya,Katy Perry,0
+Enya,Lady Gaga,0
+Enya,Adele,0
+Enya,Drake,0
+Enya,Justin Bieber,0
+Enya,Bruno Mars,0
+Enya,Nicki Minaj,0
+Enya,Ed Sheeran,0
+Enya,Imagine Dragons,0
+Enya,Ariana Grande,0
+Enya,The Weeknd,0
+Enya,Post Malone,0
+B'z,Garth Brooks,1
+B'z,Mariah Carey,0
+B'z,Nirvana,0
+B'z,Tupac Shakur,0
+B'z,R. Kelly,0
+B'z,Shania Twain,0
+B'z,Tim McGraw,0
+B'z,Usher,0
+B'z,Green Day,0
+B'z,Backstreet Boys,0
+B'z,Shakira,0
+B'z,Jay-Z,0
+B'z,Robbie Williams,0
+B'z,Britney Spears,0
+B'z,Christina Aguilera,0
+B'z,The Black Eyed Peas,0
+B'z,Ayumi Hamasaki,0
+B'z,Eminem,0
+B'z,Lil Wayne,0
+B'z,Coldplay,0
+B'z,Linkin Park,0
+B'z,Pink,0
+B'z,Alicia Keys,0
+B'z,Beyoncé,0
+B'z,Maroon 5,0
+B'z,Justin Timberlake,0
+B'z,Kanye West,0
+B'z,Rihanna,0
+B'z,Chris Brown,0
+B'z,Taylor Swift,0
+B'z,Flo Rida,0
+B'z,Luke Bryan,0
+B'z,Katy Perry,0
+B'z,Lady Gaga,0
+B'z,Adele,0
+B'z,Drake,0
+B'z,Justin Bieber,0
+B'z,Bruno Mars,0
+B'z,Nicki Minaj,0
+B'z,Ed Sheeran,0
+B'z,Imagine Dragons,0
+B'z,Ariana Grande,0
+B'z,The Weeknd,0
+B'z,Post Malone,0
+Garth Brooks,Mariah Carey,0
+Garth Brooks,Nirvana,0
+Garth Brooks,Tupac Shakur,0
+Garth Brooks,R. Kelly,0
+Garth Brooks,Shania Twain,0
+Garth Brooks,Tim McGraw,0
+Garth Brooks,Usher,0
+Garth Brooks,Green Day,0
+Garth Brooks,Backstreet Boys,0
+Garth Brooks,Shakira,0
+Garth Brooks,Jay-Z,0
+Garth Brooks,Robbie Williams,0
+Garth Brooks,Britney Spears,0
+Garth Brooks,Christina Aguilera,0
+Garth Brooks,The Black Eyed Peas,0
+Garth Brooks,Ayumi Hamasaki,0
+Garth Brooks,Eminem,0
+Garth Brooks,Lil Wayne,0
+Garth Brooks,Coldplay,0
+Garth Brooks,Linkin Park,0
+Garth Brooks,Pink,0
+Garth Brooks,Alicia Keys,0
+Garth Brooks,Beyoncé,0
+Garth Brooks,Maroon 5,0
+Garth Brooks,Justin Timberlake,0
+Garth Brooks,Kanye West,0
+Garth Brooks,Rihanna,0
+Garth Brooks,Chris Brown,0
+Garth Brooks,Taylor Swift,0
+Garth Brooks,Flo Rida,0
+Garth Brooks,Luke Bryan,0
+Garth Brooks,Katy Perry,0
+Garth Brooks,Lady Gaga,0
+Garth Brooks,Adele,0
+Garth Brooks,Drake,0
+Garth Brooks,Justin Bieber,0
+Garth Brooks,Bruno Mars,0
+Garth Brooks,Nicki Minaj,0
+Garth Brooks,Ed Sheeran,0
+Garth Brooks,Imagine Dragons,0
+Garth Brooks,Ariana Grande,0
+Garth Brooks,The Weeknd,0
+Garth Brooks,Post Malone,0
+Mariah Carey,Nirvana,1
+Mariah Carey,Tupac Shakur,1
+Mariah Carey,R. Kelly,1
+Mariah Carey,Shania Twain,1
+Mariah Carey,Tim McGraw,1
+Mariah Carey,Usher,1
+Mariah Carey,Green Day,1
+Mariah Carey,Backstreet Boys,1
+Mariah Carey,Shakira,1
+Mariah Carey,Jay-Z,1
+Mariah Carey,Robbie Williams,1
+Mariah Carey,Britney Spears,1
+Mariah Carey,Christina Aguilera,1
+Mariah Carey,The Black Eyed Peas,1
+Mariah Carey,Ayumi Hamasaki,1
+Mariah Carey,Eminem,1
+Mariah Carey,Lil Wayne,1
+Mariah Carey,Coldplay,1
+Mariah Carey,Linkin Park,0
+Mariah Carey,Pink,0
+Mariah Carey,Alicia Keys,0
+Mariah Carey,Beyoncé,0
+Mariah Carey,Maroon 5,0
+Mariah Carey,Justin Timberlake,0
+Mariah Carey,Kanye West,0
+Mariah Carey,Rihanna,0
+Mariah Carey,Chris Brown,0
+Mariah Carey,Taylor Swift,0
+Mariah Carey,Flo Rida,0
+Mariah Carey,Luke Bryan,0
+Mariah Carey,Katy Perry,0
+Mariah Carey,Lady Gaga,0
+Mariah Carey,Adele,0
+Mariah Carey,Drake,0
+Mariah Carey,Justin Bieber,0
+Mariah Carey,Bruno Mars,0
+Mariah Carey,Nicki Minaj,0
+Mariah Carey,Ed Sheeran,0
+Mariah Carey,Imagine Dragons,0
+Mariah Carey,Ariana Grande,0
+Mariah Carey,The Weeknd,0
+Mariah Carey,Post Malone,0
+Nirvana,Tupac Shakur,1
+Nirvana,R. Kelly,1
+Nirvana,Shania Twain,1
+Nirvana,Tim McGraw,1
+Nirvana,Usher,1
+Nirvana,Green Day,1
+Nirvana,Backstreet Boys,1
+Nirvana,Shakira,1
+Nirvana,Jay-Z,1
+Nirvana,Robbie Williams,1
+Nirvana,Britney Spears,1
+Nirvana,Christina Aguilera,1
+Nirvana,The Black Eyed Peas,1
+Nirvana,Ayumi Hamasaki,1
+Nirvana,Eminem,1
+Nirvana,Lil Wayne,1
+Nirvana,Coldplay,1
+Nirvana,Linkin Park,0
+Nirvana,Pink,0
+Nirvana,Alicia Keys,0
+Nirvana,Beyoncé,0
+Nirvana,Maroon 5,0
+Nirvana,Justin Timberlake,0
+Nirvana,Kanye West,0
+Nirvana,Rihanna,0
+Nirvana,Chris Brown,0
+Nirvana,Taylor Swift,0
+Nirvana,Flo Rida,0
+Nirvana,Luke Bryan,0
+Nirvana,Katy Perry,0
+Nirvana,Lady Gaga,0
+Nirvana,Adele,0
+Nirvana,Drake,0
+Nirvana,Justin Bieber,0
+Nirvana,Bruno Mars,0
+Nirvana,Nicki Minaj,0
+Nirvana,Ed Sheeran,0
+Nirvana,Imagine Dragons,0
+Nirvana,Ariana Grande,0
+Nirvana,The Weeknd,0
+Nirvana,Post Malone,0
+Tupac Shakur,R. Kelly,1
+Tupac Shakur,Shania Twain,1
+Tupac Shakur,Tim McGraw,1
+Tupac Shakur,Usher,1
+Tupac Shakur,Green Day,1
+Tupac Shakur,Backstreet Boys,1
+Tupac Shakur,Shakira,1
+Tupac Shakur,Jay-Z,1
+Tupac Shakur,Robbie Williams,1
+Tupac Shakur,Britney Spears,1
+Tupac Shakur,Christina Aguilera,1
+Tupac Shakur,The Black Eyed Peas,1
+Tupac Shakur,Ayumi Hamasaki,1
+Tupac Shakur,Eminem,1
+Tupac Shakur,Lil Wayne,1
+Tupac Shakur,Coldplay,1
+Tupac Shakur,Linkin Park,0
+Tupac Shakur,Pink,0
+Tupac Shakur,Alicia Keys,0
+Tupac Shakur,Beyoncé,0
+Tupac Shakur,Maroon 5,0
+Tupac Shakur,Justin Timberlake,0
+Tupac Shakur,Kanye West,0
+Tupac Shakur,Rihanna,0
+Tupac Shakur,Chris Brown,0
+Tupac Shakur,Taylor Swift,0
+Tupac Shakur,Flo Rida,0
+Tupac Shakur,Luke Bryan,0
+Tupac Shakur,Katy Perry,0
+Tupac Shakur,Lady Gaga,0
+Tupac Shakur,Adele,0
+Tupac Shakur,Drake,0
+Tupac Shakur,Justin Bieber,0
+Tupac Shakur,Bruno Mars,0
+Tupac Shakur,Nicki Minaj,0
+Tupac Shakur,Ed Sheeran,0
+Tupac Shakur,Imagine Dragons,0
+Tupac Shakur,Ariana Grande,0
+Tupac Shakur,The Weeknd,0
+Tupac Shakur,Post Malone,0
+R. Kelly,Shania Twain,1
+R. Kelly,Tim McGraw,1
+R. Kelly,Usher,1
+R. Kelly,Green Day,1
+R. Kelly,Backstreet Boys,1
+R. Kelly,Shakira,1
+R. Kelly,Jay-Z,1
+R. Kelly,Robbie Williams,1
+R. Kelly,Britney Spears,1
+R. Kelly,Christina Aguilera,1
+R. Kelly,The Black Eyed Peas,1
+R. Kelly,Ayumi Hamasaki,1
+R. Kelly,Eminem,1
+R. Kelly,Lil Wayne,1
+R. Kelly,Coldplay,1
+R. Kelly,Linkin Park,0
+R. Kelly,Pink,0
+R. Kelly,Alicia Keys,0
+R. Kelly,Beyoncé,0
+R. Kelly,Maroon 5,0
+R. Kelly,Justin Timberlake,0
+R. Kelly,Kanye West,0
+R. Kelly,Rihanna,0
+R. Kelly,Chris Brown,0
+R. Kelly,Taylor Swift,0
+R. Kelly,Flo Rida,0
+R. Kelly,Luke Bryan,0
+R. Kelly,Katy Perry,0
+R. Kelly,Lady Gaga,0
+R. Kelly,Adele,0
+R. Kelly,Drake,0
+R. Kelly,Justin Bieber,0
+R. Kelly,Bruno Mars,0
+R. Kelly,Nicki Minaj,0
+R. Kelly,Ed Sheeran,0
+R. Kelly,Imagine Dragons,0
+R. Kelly,Ariana Grande,0
+R. Kelly,The Weeknd,0
+R. Kelly,Post Malone,0
+Shania Twain,Tim McGraw,1
+Shania Twain,Usher,1
+Shania Twain,Green Day,1
+Shania Twain,Backstreet Boys,1
+Shania Twain,Shakira,1
+Shania Twain,Jay-Z,1
+Shania Twain,Robbie Williams,1
+Shania Twain,Britney Spears,1
+Shania Twain,Christina Aguilera,1
+Shania Twain,The Black Eyed Peas,1
+Shania Twain,Ayumi Hamasaki,1
+Shania Twain,Eminem,1
+Shania Twain,Lil Wayne,1
+Shania Twain,Coldplay,1
+Shania Twain,Linkin Park,0
+Shania Twain,Pink,0
+Shania Twain,Alicia Keys,0
+Shania Twain,Beyoncé,0
+Shania Twain,Maroon 5,0
+Shania Twain,Justin Timberlake,0
+Shania Twain,Kanye West,0
+Shania Twain,Rihanna,0
+Shania Twain,Chris Brown,0
+Shania Twain,Taylor Swift,0
+Shania Twain,Flo Rida,0
+Shania Twain,Luke Bryan,0
+Shania Twain,Katy Perry,0
+Shania Twain,Lady Gaga,0
+Shania Twain,Adele,0
+Shania Twain,Drake,0
+Shania Twain,Justin Bieber,0
+Shania Twain,Bruno Mars,0
+Shania Twain,Nicki Minaj,0
+Shania Twain,Ed Sheeran,0
+Shania Twain,Imagine Dragons,0
+Shania Twain,Ariana Grande,0
+Shania Twain,The Weeknd,0
+Shania Twain,Post Malone,0
+Tim McGraw,Usher,1
+Tim McGraw,Green Day,1
+Tim McGraw,Backstreet Boys,1
+Tim McGraw,Shakira,1
+Tim McGraw,Jay-Z,1
+Tim McGraw,Robbie Williams,1
+Tim McGraw,Britney Spears,1
+Tim McGraw,Christina Aguilera,1
+Tim McGraw,The Black Eyed Peas,1
+Tim McGraw,Ayumi Hamasaki,1
+Tim McGraw,Eminem,1
+Tim McGraw,Lil Wayne,1
+Tim McGraw,Coldplay,1
+Tim McGraw,Linkin Park,0
+Tim McGraw,Pink,0
+Tim McGraw,Alicia Keys,0
+Tim McGraw,Beyoncé,0
+Tim McGraw,Maroon 5,0
+Tim McGraw,Justin Timberlake,0
+Tim McGraw,Kanye West,0
+Tim McGraw,Rihanna,0
+Tim McGraw,Chris Brown,0
+Tim McGraw,Taylor Swift,0
+Tim McGraw,Flo Rida,0
+Tim McGraw,Luke Bryan,0
+Tim McGraw,Katy Perry,0
+Tim McGraw,Lady Gaga,0
+Tim McGraw,Adele,0
+Tim McGraw,Drake,0
+Tim McGraw,Justin Bieber,0
+Tim McGraw,Bruno Mars,0
+Tim McGraw,Nicki Minaj,0
+Tim McGraw,Ed Sheeran,0
+Tim McGraw,Imagine Dragons,0
+Tim McGraw,Ariana Grande,0
+Tim McGraw,The Weeknd,0
+Tim McGraw,Post Malone,0
+Usher,Green Day,1
+Usher,Backstreet Boys,1
+Usher,Shakira,1
+Usher,Jay-Z,1
+Usher,Robbie Williams,1
+Usher,Britney Spears,1
+Usher,Christina Aguilera,1
+Usher,The Black Eyed Peas,1
+Usher,Ayumi Hamasaki,1
+Usher,Eminem,1
+Usher,Lil Wayne,1
+Usher,Coldplay,1
+Usher,Linkin Park,0
+Usher,Pink,0
+Usher,Alicia Keys,0
+Usher,Beyoncé,0
+Usher,Maroon 5,0
+Usher,Justin Timberlake,0
+Usher,Kanye West,0
+Usher,Rihanna,0
+Usher,Chris Brown,0
+Usher,Taylor Swift,0
+Usher,Flo Rida,0
+Usher,Luke Bryan,0
+Usher,Katy Perry,0
+Usher,Lady Gaga,0
+Usher,Adele,0
+Usher,Drake,0
+Usher,Justin Bieber,0
+Usher,Bruno Mars,0
+Usher,Nicki Minaj,0
+Usher,Ed Sheeran,0
+Usher,Imagine Dragons,0
+Usher,Ariana Grande,0
+Usher,The Weeknd,0
+Usher,Post Malone,0
+Green Day,Backstreet Boys,1
+Green Day,Shakira,1
+Green Day,Jay-Z,1
+Green Day,Robbie Williams,1
+Green Day,Britney Spears,1
+Green Day,Christina Aguilera,1
+Green Day,The Black Eyed Peas,1
+Green Day,Ayumi Hamasaki,1
+Green Day,Eminem,1
+Green Day,Lil Wayne,1
+Green Day,Coldplay,1
+Green Day,Linkin Park,0
+Green Day,Pink,0
+Green Day,Alicia Keys,0
+Green Day,Beyoncé,0
+Green Day,Maroon 5,0
+Green Day,Justin Timberlake,0
+Green Day,Kanye West,0
+Green Day,Rihanna,0
+Green Day,Chris Brown,0
+Green Day,Taylor Swift,0
+Green Day,Flo Rida,0
+Green Day,Luke Bryan,0
+Green Day,Katy Perry,0
+Green Day,Lady Gaga,0
+Green Day,Adele,0
+Green Day,Drake,0
+Green Day,Justin Bieber,0
+Green Day,Bruno Mars,0
+Green Day,Nicki Minaj,0
+Green Day,Ed Sheeran,0
+Green Day,Imagine Dragons,0
+Green Day,Ariana Grande,0
+Green Day,The Weeknd,0
+Green Day,Post Malone,0
+Backstreet Boys,Shakira,1
+Backstreet Boys,Jay-Z,1
+Backstreet Boys,Robbie Williams,1
+Backstreet Boys,Britney Spears,1
+Backstreet Boys,Christina Aguilera,1
+Backstreet Boys,The Black Eyed Peas,1
+Backstreet Boys,Ayumi Hamasaki,1
+Backstreet Boys,Eminem,1
+Backstreet Boys,Lil Wayne,1
+Backstreet Boys,Coldplay,1
+Backstreet Boys,Linkin Park,0
+Backstreet Boys,Pink,0
+Backstreet Boys,Alicia Keys,0
+Backstreet Boys,Beyoncé,0
+Backstreet Boys,Maroon 5,0
+Backstreet Boys,Justin Timberlake,0
+Backstreet Boys,Kanye West,0
+Backstreet Boys,Rihanna,0
+Backstreet Boys,Chris Brown,0
+Backstreet Boys,Taylor Swift,0
+Backstreet Boys,Flo Rida,0
+Backstreet Boys,Luke Bryan,0
+Backstreet Boys,Katy Perry,0
+Backstreet Boys,Lady Gaga,0
+Backstreet Boys,Adele,0
+Backstreet Boys,Drake,0
+Backstreet Boys,Justin Bieber,0
+Backstreet Boys,Bruno Mars,0
+Backstreet Boys,Nicki Minaj,0
+Backstreet Boys,Ed Sheeran,0
+Backstreet Boys,Imagine Dragons,0
+Backstreet Boys,Ariana Grande,0
+Backstreet Boys,The Weeknd,0
+Backstreet Boys,Post Malone,0
+Shakira,Jay-Z,1
+Shakira,Robbie Williams,1
+Shakira,Britney Spears,1
+Shakira,Christina Aguilera,1
+Shakira,The Black Eyed Peas,1
+Shakira,Ayumi Hamasaki,1
+Shakira,Eminem,1
+Shakira,Lil Wayne,1
+Shakira,Coldplay,1
+Shakira,Linkin Park,0
+Shakira,Pink,0
+Shakira,Alicia Keys,0
+Shakira,Beyoncé,0
+Shakira,Maroon 5,0
+Shakira,Justin Timberlake,0
+Shakira,Kanye West,0
+Shakira,Rihanna,0
+Shakira,Chris Brown,0
+Shakira,Taylor Swift,0
+Shakira,Flo Rida,0
+Shakira,Luke Bryan,0
+Shakira,Katy Perry,0
+Shakira,Lady Gaga,0
+Shakira,Adele,0
+Shakira,Drake,0
+Shakira,Justin Bieber,0
+Shakira,Bruno Mars,0
+Shakira,Nicki Minaj,0
+Shakira,Ed Sheeran,0
+Shakira,Imagine Dragons,0
+Shakira,Ariana Grande,0
+Shakira,The Weeknd,0
+Shakira,Post Malone,0
+Jay-Z,Robbie Williams,1
+Jay-Z,Britney Spears,1
+Jay-Z,Christina Aguilera,1
+Jay-Z,The Black Eyed Peas,1
+Jay-Z,Ayumi Hamasaki,1
+Jay-Z,Eminem,1
+Jay-Z,Lil Wayne,1
+Jay-Z,Coldplay,1
+Jay-Z,Linkin Park,0
+Jay-Z,Pink,0
+Jay-Z,Alicia Keys,0
+Jay-Z,Beyoncé,0
+Jay-Z,Maroon 5,0
+Jay-Z,Justin Timberlake,0
+Jay-Z,Kanye West,0
+Jay-Z,Rihanna,0
+Jay-Z,Chris Brown,0
+Jay-Z,Taylor Swift,0
+Jay-Z,Flo Rida,0
+Jay-Z,Luke Bryan,0
+Jay-Z,Katy Perry,0
+Jay-Z,Lady Gaga,0
+Jay-Z,Adele,0
+Jay-Z,Drake,0
+Jay-Z,Justin Bieber,0
+Jay-Z,Bruno Mars,0
+Jay-Z,Nicki Minaj,0
+Jay-Z,Ed Sheeran,0
+Jay-Z,Imagine Dragons,0
+Jay-Z,Ariana Grande,0
+Jay-Z,The Weeknd,0
+Jay-Z,Post Malone,0
+Robbie Williams,Britney Spears,1
+Robbie Williams,Christina Aguilera,1
+Robbie Williams,The Black Eyed Peas,1
+Robbie Williams,Ayumi Hamasaki,1
+Robbie Williams,Eminem,1
+Robbie Williams,Lil Wayne,1
+Robbie Williams,Coldplay,1
+Robbie Williams,Linkin Park,0
+Robbie Williams,Pink,0
+Robbie Williams,Alicia Keys,0
+Robbie Williams,Beyoncé,0
+Robbie Williams,Maroon 5,0
+Robbie Williams,Justin Timberlake,0
+Robbie Williams,Kanye West,0
+Robbie Williams,Rihanna,0
+Robbie Williams,Chris Brown,0
+Robbie Williams,Taylor Swift,0
+Robbie Williams,Flo Rida,0
+Robbie Williams,Luke Bryan,0
+Robbie Williams,Katy Perry,0
+Robbie Williams,Lady Gaga,0
+Robbie Williams,Adele,0
+Robbie Williams,Drake,0
+Robbie Williams,Justin Bieber,0
+Robbie Williams,Bruno Mars,0
+Robbie Williams,Nicki Minaj,0
+Robbie Williams,Ed Sheeran,0
+Robbie Williams,Imagine Dragons,0
+Robbie Williams,Ariana Grande,0
+Robbie Williams,The Weeknd,0
+Robbie Williams,Post Malone,0
+Britney Spears,Christina Aguilera,1
+Britney Spears,The Black Eyed Peas,1
+Britney Spears,Ayumi Hamasaki,1
+Britney Spears,Eminem,1
+Britney Spears,Lil Wayne,1
+Britney Spears,Coldplay,1
+Britney Spears,Linkin Park,0
+Britney Spears,Pink,0
+Britney Spears,Alicia Keys,0
+Britney Spears,Beyoncé,0
+Britney Spears,Maroon 5,0
+Britney Spears,Justin Timberlake,0
+Britney Spears,Kanye West,0
+Britney Spears,Rihanna,0
+Britney Spears,Chris Brown,0
+Britney Spears,Taylor Swift,0
+Britney Spears,Flo Rida,0
+Britney Spears,Luke Bryan,0
+Britney Spears,Katy Perry,0
+Britney Spears,Lady Gaga,0
+Britney Spears,Adele,0
+Britney Spears,Drake,0
+Britney Spears,Justin Bieber,0
+Britney Spears,Bruno Mars,0
+Britney Spears,Nicki Minaj,0
+Britney Spears,Ed Sheeran,0
+Britney Spears,Imagine Dragons,0
+Britney Spears,Ariana Grande,0
+Britney Spears,The Weeknd,0
+Britney Spears,Post Malone,0
+Christina Aguilera,The Black Eyed Peas,1
+Christina Aguilera,Ayumi Hamasaki,1
+Christina Aguilera,Eminem,1
+Christina Aguilera,Lil Wayne,1
+Christina Aguilera,Coldplay,1
+Christina Aguilera,Linkin Park,0
+Christina Aguilera,Pink,0
+Christina Aguilera,Alicia Keys,0
+Christina Aguilera,Beyoncé,0
+Christina Aguilera,Maroon 5,0
+Christina Aguilera,Justin Timberlake,0
+Christina Aguilera,Kanye West,0
+Christina Aguilera,Rihanna,0
+Christina Aguilera,Chris Brown,0
+Christina Aguilera,Taylor Swift,0
+Christina Aguilera,Flo Rida,0
+Christina Aguilera,Luke Bryan,0
+Christina Aguilera,Katy Perry,0
+Christina Aguilera,Lady Gaga,0
+Christina Aguilera,Adele,0
+Christina Aguilera,Drake,0
+Christina Aguilera,Justin Bieber,0
+Christina Aguilera,Bruno Mars,0
+Christina Aguilera,Nicki Minaj,0
+Christina Aguilera,Ed Sheeran,0
+Christina Aguilera,Imagine Dragons,0
+Christina Aguilera,Ariana Grande,0
+Christina Aguilera,The Weeknd,0
+Christina Aguilera,Post Malone,0
+The Black Eyed Peas,Ayumi Hamasaki,1
+The Black Eyed Peas,Eminem,1
+The Black Eyed Peas,Lil Wayne,1
+The Black Eyed Peas,Coldplay,1
+The Black Eyed Peas,Linkin Park,0
+The Black Eyed Peas,Pink,0
+The Black Eyed Peas,Alicia Keys,0
+The Black Eyed Peas,Beyoncé,0
+The Black Eyed Peas,Maroon 5,0
+The Black Eyed Peas,Justin Timberlake,0
+The Black Eyed Peas,Kanye West,0
+The Black Eyed Peas,Rihanna,0
+The Black Eyed Peas,Chris Brown,0
+The Black Eyed Peas,Taylor Swift,0
+The Black Eyed Peas,Flo Rida,0
+The Black Eyed Peas,Luke Bryan,0
+The Black Eyed Peas,Katy Perry,0
+The Black Eyed Peas,Lady Gaga,0
+The Black Eyed Peas,Adele,0
+The Black Eyed Peas,Drake,0
+The Black Eyed Peas,Justin Bieber,0
+The Black Eyed Peas,Bruno Mars,0
+The Black Eyed Peas,Nicki Minaj,0
+The Black Eyed Peas,Ed Sheeran,0
+The Black Eyed Peas,Imagine Dragons,0
+The Black Eyed Peas,Ariana Grande,0
+The Black Eyed Peas,The Weeknd,0
+The Black Eyed Peas,Post Malone,0
+Ayumi Hamasaki,Eminem,1
+Ayumi Hamasaki,Lil Wayne,1
+Ayumi Hamasaki,Coldplay,1
+Ayumi Hamasaki,Linkin Park,0
+Ayumi Hamasaki,Pink,0
+Ayumi Hamasaki,Alicia Keys,0
+Ayumi Hamasaki,Beyoncé,0
+Ayumi Hamasaki,Maroon 5,0
+Ayumi Hamasaki,Justin Timberlake,0
+Ayumi Hamasaki,Kanye West,0
+Ayumi Hamasaki,Rihanna,0
+Ayumi Hamasaki,Chris Brown,0
+Ayumi Hamasaki,Taylor Swift,0
+Ayumi Hamasaki,Flo Rida,0
+Ayumi Hamasaki,Luke Bryan,0
+Ayumi Hamasaki,Katy Perry,0
+Ayumi Hamasaki,Lady Gaga,0
+Ayumi Hamasaki,Adele,0
+Ayumi Hamasaki,Drake,0
+Ayumi Hamasaki,Justin Bieber,0
+Ayumi Hamasaki,Bruno Mars,0
+Ayumi Hamasaki,Nicki Minaj,0
+Ayumi Hamasaki,Ed Sheeran,0
+Ayumi Hamasaki,Imagine Dragons,0
+Ayumi Hamasaki,Ariana Grande,0
+Ayumi Hamasaki,The Weeknd,0
+Ayumi Hamasaki,Post Malone,0
+Eminem,Lil Wayne,1
+Eminem,Coldplay,1
+Eminem,Linkin Park,0
+Eminem,Pink,0
+Eminem,Alicia Keys,0
+Eminem,Beyoncé,0
+Eminem,Maroon 5,0
+Eminem,Justin Timberlake,0
+Eminem,Kanye West,0
+Eminem,Rihanna,0
+Eminem,Chris Brown,0
+Eminem,Taylor Swift,0
+Eminem,Flo Rida,0
+Eminem,Luke Bryan,0
+Eminem,Katy Perry,0
+Eminem,Lady Gaga,0
+Eminem,Adele,0
+Eminem,Drake,0
+Eminem,Justin Bieber,0
+Eminem,Bruno Mars,0
+Eminem,Nicki Minaj,0
+Eminem,Ed Sheeran,0
+Eminem,Imagine Dragons,0
+Eminem,Ariana Grande,0
+Eminem,The Weeknd,0
+Eminem,Post Malone,0
+Lil Wayne,Coldplay,1
+Lil Wayne,Linkin Park,0
+Lil Wayne,Pink,0
+Lil Wayne,Alicia Keys,0
+Lil Wayne,Beyoncé,0
+Lil Wayne,Maroon 5,0
+Lil Wayne,Justin Timberlake,0
+Lil Wayne,Kanye West,0
+Lil Wayne,Rihanna,0
+Lil Wayne,Chris Brown,0
+Lil Wayne,Taylor Swift,0
+Lil Wayne,Flo Rida,0
+Lil Wayne,Luke Bryan,0
+Lil Wayne,Katy Perry,0
+Lil Wayne,Lady Gaga,0
+Lil Wayne,Adele,0
+Lil Wayne,Drake,0
+Lil Wayne,Justin Bieber,0
+Lil Wayne,Bruno Mars,0
+Lil Wayne,Nicki Minaj,0
+Lil Wayne,Ed Sheeran,0
+Lil Wayne,Imagine Dragons,0
+Lil Wayne,Ariana Grande,0
+Lil Wayne,The Weeknd,0
+Lil Wayne,Post Malone,0
+Coldplay,Linkin Park,0
+Coldplay,Pink,0
+Coldplay,Alicia Keys,0
+Coldplay,Beyoncé,0
+Coldplay,Maroon 5,0
+Coldplay,Justin Timberlake,0
+Coldplay,Kanye West,0
+Coldplay,Rihanna,0
+Coldplay,Chris Brown,0
+Coldplay,Taylor Swift,0
+Coldplay,Flo Rida,0
+Coldplay,Luke Bryan,0
+Coldplay,Katy Perry,0
+Coldplay,Lady Gaga,0
+Coldplay,Adele,0
+Coldplay,Drake,0
+Coldplay,Justin Bieber,0
+Coldplay,Bruno Mars,0
+Coldplay,Nicki Minaj,0
+Coldplay,Ed Sheeran,0
+Coldplay,Imagine Dragons,0
+Coldplay,Ariana Grande,0
+Coldplay,The Weeknd,0
+Coldplay,Post Malone,0
+Linkin Park,Pink,1
+Linkin Park,Alicia Keys,1
+Linkin Park,Beyoncé,1
+Linkin Park,Maroon 5,1
+Linkin Park,Justin Timberlake,1
+Linkin Park,Kanye West,1
+Linkin Park,Rihanna,1
+Linkin Park,Chris Brown,1
+Linkin Park,Taylor Swift,1
+Linkin Park,Flo Rida,1
+Linkin Park,Luke Bryan,1
+Linkin Park,Katy Perry,1
+Linkin Park,Lady Gaga,1
+Linkin Park,Adele,1
+Linkin Park,Drake,1
+Linkin Park,Justin Bieber,1
+Linkin Park,Bruno Mars,0
+Linkin Park,Nicki Minaj,0
+Linkin Park,Ed Sheeran,0
+Linkin Park,Imagine Dragons,0
+Linkin Park,Ariana Grande,0
+Linkin Park,The Weeknd,0
+Linkin Park,Post Malone,0
+Pink,Alicia Keys,1
+Pink,Beyoncé,1
+Pink,Maroon 5,1
+Pink,Justin Timberlake,1
+Pink,Kanye West,1
+Pink,Rihanna,1
+Pink,Chris Brown,1
+Pink,Taylor Swift,1
+Pink,Flo Rida,1
+Pink,Luke Bryan,1
+Pink,Katy Perry,1
+Pink,Lady Gaga,1
+Pink,Adele,1
+Pink,Drake,1
+Pink,Justin Bieber,1
+Pink,Bruno Mars,0
+Pink,Nicki Minaj,0
+Pink,Ed Sheeran,0
+Pink,Imagine Dragons,0
+Pink,Ariana Grande,0
+Pink,The Weeknd,0
+Pink,Post Malone,0
+Alicia Keys,Beyoncé,1
+Alicia Keys,Maroon 5,1
+Alicia Keys,Justin Timberlake,1
+Alicia Keys,Kanye West,1
+Alicia Keys,Rihanna,1
+Alicia Keys,Chris Brown,1
+Alicia Keys,Taylor Swift,1
+Alicia Keys,Flo Rida,1
+Alicia Keys,Luke Bryan,1
+Alicia Keys,Katy Perry,1
+Alicia Keys,Lady Gaga,1
+Alicia Keys,Adele,1
+Alicia Keys,Drake,1
+Alicia Keys,Justin Bieber,1
+Alicia Keys,Bruno Mars,0
+Alicia Keys,Nicki Minaj,0
+Alicia Keys,Ed Sheeran,0
+Alicia Keys,Imagine Dragons,0
+Alicia Keys,Ariana Grande,0
+Alicia Keys,The Weeknd,0
+Alicia Keys,Post Malone,0
+Beyoncé,Maroon 5,1
+Beyoncé,Justin Timberlake,1
+Beyoncé,Kanye West,1
+Beyoncé,Rihanna,1
+Beyoncé,Chris Brown,1
+Beyoncé,Taylor Swift,1
+Beyoncé,Flo Rida,1
+Beyoncé,Luke Bryan,1
+Beyoncé,Katy Perry,1
+Beyoncé,Lady Gaga,1
+Beyoncé,Adele,1
+Beyoncé,Drake,1
+Beyoncé,Justin Bieber,1
+Beyoncé,Bruno Mars,0
+Beyoncé,Nicki Minaj,0
+Beyoncé,Ed Sheeran,0
+Beyoncé,Imagine Dragons,0
+Beyoncé,Ariana Grande,0
+Beyoncé,The Weeknd,0
+Beyoncé,Post Malone,0
+Maroon 5,Justin Timberlake,1
+Maroon 5,Kanye West,1
+Maroon 5,Rihanna,1
+Maroon 5,Chris Brown,1
+Maroon 5,Taylor Swift,1
+Maroon 5,Flo Rida,1
+Maroon 5,Luke Bryan,1
+Maroon 5,Katy Perry,1
+Maroon 5,Lady Gaga,1
+Maroon 5,Adele,1
+Maroon 5,Drake,1
+Maroon 5,Justin Bieber,1
+Maroon 5,Bruno Mars,0
+Maroon 5,Nicki Minaj,0
+Maroon 5,Ed Sheeran,0
+Maroon 5,Imagine Dragons,0
+Maroon 5,Ariana Grande,0
+Maroon 5,The Weeknd,0
+Maroon 5,Post Malone,0
+Justin Timberlake,Kanye West,1
+Justin Timberlake,Rihanna,1
+Justin Timberlake,Chris Brown,1
+Justin Timberlake,Taylor Swift,1
+Justin Timberlake,Flo Rida,1
+Justin Timberlake,Luke Bryan,1
+Justin Timberlake,Katy Perry,1
+Justin Timberlake,Lady Gaga,1
+Justin Timberlake,Adele,1
+Justin Timberlake,Drake,1
+Justin Timberlake,Justin Bieber,1
+Justin Timberlake,Bruno Mars,0
+Justin Timberlake,Nicki Minaj,0
+Justin Timberlake,Ed Sheeran,0
+Justin Timberlake,Imagine Dragons,0
+Justin Timberlake,Ariana Grande,0
+Justin Timberlake,The Weeknd,0
+Justin Timberlake,Post Malone,0
+Kanye West,Rihanna,1
+Kanye West,Chris Brown,1
+Kanye West,Taylor Swift,1
+Kanye West,Flo Rida,1
+Kanye West,Luke Bryan,1
+Kanye West,Katy Perry,1
+Kanye West,Lady Gaga,1
+Kanye West,Adele,1
+Kanye West,Drake,1
+Kanye West,Justin Bieber,1
+Kanye West,Bruno Mars,0
+Kanye West,Nicki Minaj,0
+Kanye West,Ed Sheeran,0
+Kanye West,Imagine Dragons,0
+Kanye West,Ariana Grande,0
+Kanye West,The Weeknd,0
+Kanye West,Post Malone,0
+Rihanna,Chris Brown,1
+Rihanna,Taylor Swift,1
+Rihanna,Flo Rida,1
+Rihanna,Luke Bryan,1
+Rihanna,Katy Perry,1
+Rihanna,Lady Gaga,1
+Rihanna,Adele,1
+Rihanna,Drake,1
+Rihanna,Justin Bieber,1
+Rihanna,Bruno Mars,0
+Rihanna,Nicki Minaj,0
+Rihanna,Ed Sheeran,0
+Rihanna,Imagine Dragons,0
+Rihanna,Ariana Grande,0
+Rihanna,The Weeknd,0
+Rihanna,Post Malone,0
+Chris Brown,Taylor Swift,1
+Chris Brown,Flo Rida,1
+Chris Brown,Luke Bryan,1
+Chris Brown,Katy Perry,1
+Chris Brown,Lady Gaga,1
+Chris Brown,Adele,1
+Chris Brown,Drake,1
+Chris Brown,Justin Bieber,1
+Chris Brown,Bruno Mars,0
+Chris Brown,Nicki Minaj,0
+Chris Brown,Ed Sheeran,0
+Chris Brown,Imagine Dragons,0
+Chris Brown,Ariana Grande,0
+Chris Brown,The Weeknd,0
+Chris Brown,Post Malone,0
+Taylor Swift,Flo Rida,1
+Taylor Swift,Luke Bryan,1
+Taylor Swift,Katy Perry,1
+Taylor Swift,Lady Gaga,1
+Taylor Swift,Adele,1
+Taylor Swift,Drake,1
+Taylor Swift,Justin Bieber,1
+Taylor Swift,Bruno Mars,0
+Taylor Swift,Nicki Minaj,0
+Taylor Swift,Ed Sheeran,0
+Taylor Swift,Imagine Dragons,0
+Taylor Swift,Ariana Grande,0
+Taylor Swift,The Weeknd,0
+Taylor Swift,Post Malone,0
+Flo Rida,Luke Bryan,1
+Flo Rida,Katy Perry,1
+Flo Rida,Lady Gaga,1
+Flo Rida,Adele,1
+Flo Rida,Drake,1
+Flo Rida,Justin Bieber,1
+Flo Rida,Bruno Mars,0
+Flo Rida,Nicki Minaj,0
+Flo Rida,Ed Sheeran,0
+Flo Rida,Imagine Dragons,0
+Flo Rida,Ariana Grande,0
+Flo Rida,The Weeknd,0
+Flo Rida,Post Malone,0
+Luke Bryan,Katy Perry,1
+Luke Bryan,Lady Gaga,1
+Luke Bryan,Adele,1
+Luke Bryan,Drake,1
+Luke Bryan,Justin Bieber,1
+Luke Bryan,Bruno Mars,0
+Luke Bryan,Nicki Minaj,0
+Luke Bryan,Ed Sheeran,0
+Luke Bryan,Imagine Dragons,0
+Luke Bryan,Ariana Grande,0
+Luke Bryan,The Weeknd,0
+Luke Bryan,Post Malone,0
+Katy Perry,Lady Gaga,1
+Katy Perry,Adele,1
+Katy Perry,Drake,1
+Katy Perry,Justin Bieber,1
+Katy Perry,Bruno Mars,0
+Katy Perry,Nicki Minaj,0
+Katy Perry,Ed Sheeran,0
+Katy Perry,Imagine Dragons,0
+Katy Perry,Ariana Grande,0
+Katy Perry,The Weeknd,0
+Katy Perry,Post Malone,0
+Lady Gaga,Adele,1
+Lady Gaga,Drake,1
+Lady Gaga,Justin Bieber,1
+Lady Gaga,Bruno Mars,0
+Lady Gaga,Nicki Minaj,0
+Lady Gaga,Ed Sheeran,0
+Lady Gaga,Imagine Dragons,0
+Lady Gaga,Ariana Grande,0
+Lady Gaga,The Weeknd,0
+Lady Gaga,Post Malone,0
+Adele,Drake,1
+Adele,Justin Bieber,1
+Adele,Bruno Mars,0
+Adele,Nicki Minaj,0
+Adele,Ed Sheeran,0
+Adele,Imagine Dragons,0
+Adele,Ariana Grande,0
+Adele,The Weeknd,0
+Adele,Post Malone,0
+Drake,Justin Bieber,1
+Drake,Bruno Mars,0
+Drake,Nicki Minaj,0
+Drake,Ed Sheeran,0
+Drake,Imagine Dragons,0
+Drake,Ariana Grande,0
+Drake,The Weeknd,0
+Drake,Post Malone,0
+Justin Bieber,Bruno Mars,0
+Justin Bieber,Nicki Minaj,0
+Justin Bieber,Ed Sheeran,0
+Justin Bieber,Imagine Dragons,0
+Justin Bieber,Ariana Grande,0
+Justin Bieber,The Weeknd,0
+Justin Bieber,Post Malone,0
+Bruno Mars,Nicki Minaj,1
+Bruno Mars,Ed Sheeran,1
+Bruno Mars,Imagine Dragons,1
+Bruno Mars,Ariana Grande,1
+Bruno Mars,The Weeknd,1
+Bruno Mars,Post Malone,1
+Nicki Minaj,Ed Sheeran,1
+Nicki Minaj,Imagine Dragons,1
+Nicki Minaj,Ariana Grande,1
+Nicki Minaj,The Weeknd,1
+Nicki Minaj,Post Malone,1
+Ed Sheeran,Imagine Dragons,1
+Ed Sheeran,Ariana Grande,1
+Ed Sheeran,The Weeknd,1
+Ed Sheeran,Post Malone,1
+Imagine Dragons,Ariana Grande,1
+Imagine Dragons,The Weeknd,1
+Imagine Dragons,Post Malone,1
+Ariana Grande,The Weeknd,1
+Ariana Grande,Post Malone,1
+The Weeknd,Post Malone,1

@@ -1,0 +1,22 @@
+Source,Target,Weight,Decada,Pais,Genero
+Bruno Mars,Nicki Minaj,1,2010,Nenhum,Nenhum
+Bruno Mars,Ed Sheeran,1,2010,Nenhum,Nenhum
+Bruno Mars,Imagine Dragons,3,2010,United States,Pop Rock
+Bruno Mars,Ariana Grande,3,2010,United States,R&B
+Bruno Mars,The Weeknd,2,2010,Nenhum,R&B
+Bruno Mars,Post Malone,3,2010,United States,R&B
+Nicki Minaj,Ed Sheeran,2,2010,Nenhum,Pop
+Nicki Minaj,Imagine Dragons,2,2010,Nenhum,Pop
+Nicki Minaj,Ariana Grande,2,2010,Nenhum,Pop
+Nicki Minaj,The Weeknd,2,2010,Nenhum,Pop
+Nicki Minaj,Post Malone,2,2010,Nenhum,"Pop, Hip-Hop"
+Ed Sheeran,Imagine Dragons,2,2010,Nenhum,Pop
+Ed Sheeran,Ariana Grande,2,2010,Nenhum,Pop
+Ed Sheeran,The Weeknd,2,2010,Nenhum,Pop
+Ed Sheeran,Post Malone,2,2010,Nenhum,Pop
+Imagine Dragons,Ariana Grande,3,2010,United States,Pop
+Imagine Dragons,The Weeknd,2,2010,Nenhum,Pop
+Imagine Dragons,Post Malone,3,2010,United States,Pop
+Ariana Grande,The Weeknd,2,2010,Nenhum,"R&B, Pop"
+Ariana Grande,Post Malone,3,2010,United States,"R&B, Pop"
+The Weeknd,Post Malone,2,2010,Nenhum,"R&B, Pop"

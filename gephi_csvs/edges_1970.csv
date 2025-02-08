@@ -1,0 +1,379 @@
+Source,Target,Weight,Decada,Pais,Genero
+Elton John,Eric Clapton,3,1970,United Kingdom,Rock
+Elton John,Paul McCartney,3,1970,United Kingdom,Rock
+Elton John,James Taylor,2,1970,Nenhum,"Pop, Rock"
+Elton John,Michael Jackson,2,1970,Nenhum,"Pop, Rock"
+Elton John,Billy Joel,2,1970,Nenhum,"Pop, Rock"
+Elton John,"Earth, Wind & Fire",1,1970,Nenhum,Nenhum
+Elton John,Eagles,2,1970,Nenhum,Rock
+Elton John,ABBA,2,1970,Nenhum,Pop
+Elton John,Queen,3,1970,United Kingdom,Rock
+Elton John,Bruce Springsteen,2,1970,Nenhum,Rock
+Elton John,Aerosmith,1,1970,Nenhum,Nenhum
+Elton John,Barry Manilow,2,1970,Nenhum,Pop
+Elton John,Donna Summer,2,1970,Nenhum,Pop
+Elton John,Kiss,1,1970,Nenhum,Nenhum
+Elton John,AC/DC,1,1970,Nenhum,Nenhum
+Elton John,Journey,2,1970,Nenhum,Rock
+Elton John,Kenny Rogers,2,1970,Nenhum,Pop
+Elton John,Bob Marley,1,1970,Nenhum,Nenhum
+Elton John,Foreigner,3,1970,United Kingdom,Rock
+Elton John,Meat Loaf,2,1970,Nenhum,Rock
+Elton John,Tom Petty,2,1970,Nenhum,Rock
+Elton John,Prince,2,1970,Nenhum,"Pop, Rock"
+Elton John,Dire Straits,3,1970,United Kingdom,Rock
+Elton John,Van Halen,1,1970,Nenhum,Nenhum
+Elton John,The Police,3,1970,United Kingdom,"Pop, Rock"
+Elton John,Def Leppard,2,1970,United Kingdom,Nenhum
+Elton John,Bryan Adams,2,1970,Nenhum,Rock
+Eric Clapton,Paul McCartney,3,1970,United Kingdom,Rock
+Eric Clapton,James Taylor,2,1970,Nenhum,Rock
+Eric Clapton,Michael Jackson,2,1970,Nenhum,Rock
+Eric Clapton,Billy Joel,2,1970,Nenhum,Rock
+Eric Clapton,"Earth, Wind & Fire",1,1970,Nenhum,Nenhum
+Eric Clapton,Eagles,2,1970,Nenhum,Rock
+Eric Clapton,ABBA,1,1970,Nenhum,Nenhum
+Eric Clapton,Queen,3,1970,United Kingdom,Rock
+Eric Clapton,Bruce Springsteen,2,1970,Nenhum,Rock
+Eric Clapton,Aerosmith,1,1970,Nenhum,Nenhum
+Eric Clapton,Barry Manilow,1,1970,Nenhum,Nenhum
+Eric Clapton,Donna Summer,1,1970,Nenhum,Nenhum
+Eric Clapton,Kiss,1,1970,Nenhum,Nenhum
+Eric Clapton,AC/DC,1,1970,Nenhum,Nenhum
+Eric Clapton,Journey,2,1970,Nenhum,Rock
+Eric Clapton,Kenny Rogers,1,1970,Nenhum,Nenhum
+Eric Clapton,Bob Marley,1,1970,Nenhum,Nenhum
+Eric Clapton,Foreigner,3,1970,United Kingdom,Rock
+Eric Clapton,Meat Loaf,2,1970,Nenhum,Rock
+Eric Clapton,Tom Petty,2,1970,Nenhum,Rock
+Eric Clapton,Prince,2,1970,Nenhum,Rock
+Eric Clapton,Dire Straits,3,1970,United Kingdom,Rock
+Eric Clapton,Van Halen,1,1970,Nenhum,Nenhum
+Eric Clapton,The Police,3,1970,United Kingdom,Rock
+Eric Clapton,Def Leppard,2,1970,United Kingdom,Nenhum
+Eric Clapton,Bryan Adams,2,1970,Nenhum,Rock
+Paul McCartney,James Taylor,2,1970,Nenhum,Rock
+Paul McCartney,Michael Jackson,2,1970,Nenhum,Rock
+Paul McCartney,Billy Joel,2,1970,Nenhum,Rock
+Paul McCartney,"Earth, Wind & Fire",1,1970,Nenhum,Nenhum
+Paul McCartney,Eagles,2,1970,Nenhum,Rock
+Paul McCartney,ABBA,1,1970,Nenhum,Nenhum
+Paul McCartney,Queen,3,1970,United Kingdom,Rock
+Paul McCartney,Bruce Springsteen,2,1970,Nenhum,Rock
+Paul McCartney,Aerosmith,1,1970,Nenhum,Nenhum
+Paul McCartney,Barry Manilow,1,1970,Nenhum,Nenhum
+Paul McCartney,Donna Summer,1,1970,Nenhum,Nenhum
+Paul McCartney,Kiss,1,1970,Nenhum,Nenhum
+Paul McCartney,AC/DC,1,1970,Nenhum,Nenhum
+Paul McCartney,Journey,2,1970,Nenhum,Rock
+Paul McCartney,Kenny Rogers,1,1970,Nenhum,Nenhum
+Paul McCartney,Bob Marley,1,1970,Nenhum,Nenhum
+Paul McCartney,Foreigner,3,1970,United Kingdom,Rock
+Paul McCartney,Meat Loaf,2,1970,Nenhum,Rock
+Paul McCartney,Tom Petty,2,1970,Nenhum,Rock
+Paul McCartney,Prince,2,1970,Nenhum,Rock
+Paul McCartney,Dire Straits,3,1970,United Kingdom,Rock
+Paul McCartney,Van Halen,1,1970,Nenhum,Nenhum
+Paul McCartney,The Police,3,1970,United Kingdom,Rock
+Paul McCartney,Def Leppard,2,1970,United Kingdom,Nenhum
+Paul McCartney,Bryan Adams,2,1970,Nenhum,Rock
+James Taylor,Michael Jackson,3,1970,United States,"Pop, Rock"
+James Taylor,Billy Joel,3,1970,United States,"Pop, Rock"
+James Taylor,"Earth, Wind & Fire",2,1970,United States,Nenhum
+James Taylor,Eagles,3,1970,United States,Rock
+James Taylor,ABBA,2,1970,Nenhum,Pop
+James Taylor,Queen,2,1970,Nenhum,Rock
+James Taylor,Bruce Springsteen,3,1970,United States,Rock
+James Taylor,Aerosmith,2,1970,United States,Nenhum
+James Taylor,Barry Manilow,3,1970,United States,Pop
+James Taylor,Donna Summer,3,1970,United States,Pop
+James Taylor,Kiss,2,1970,United States,Nenhum
+James Taylor,AC/DC,1,1970,Nenhum,Nenhum
+James Taylor,Journey,3,1970,United States,Rock
+James Taylor,Kenny Rogers,3,1970,United States,Pop
+James Taylor,Bob Marley,1,1970,Nenhum,Nenhum
+James Taylor,Foreigner,3,1970,United States,Rock
+James Taylor,Meat Loaf,3,1970,United States,Rock
+James Taylor,Tom Petty,3,1970,United States,Rock
+James Taylor,Prince,3,1970,United States,"Pop, Rock"
+James Taylor,Dire Straits,2,1970,Nenhum,Rock
+James Taylor,Van Halen,2,1970,United States,Nenhum
+James Taylor,The Police,2,1970,Nenhum,"Pop, Rock"
+James Taylor,Def Leppard,1,1970,Nenhum,Nenhum
+James Taylor,Bryan Adams,2,1970,Nenhum,Rock
+Michael Jackson,Billy Joel,3,1970,United States,"Pop, Rock"
+Michael Jackson,"Earth, Wind & Fire",3,1970,United States,"R&B, Soul"
+Michael Jackson,Eagles,3,1970,United States,Rock
+Michael Jackson,ABBA,2,1970,Nenhum,Pop
+Michael Jackson,Queen,2,1970,Nenhum,Rock
+Michael Jackson,Bruce Springsteen,3,1970,United States,Rock
+Michael Jackson,Aerosmith,2,1970,United States,Nenhum
+Michael Jackson,Barry Manilow,3,1970,United States,Pop
+Michael Jackson,Donna Summer,3,1970,United States,"R&B, Pop"
+Michael Jackson,Kiss,2,1970,United States,Nenhum
+Michael Jackson,AC/DC,1,1970,Nenhum,Nenhum
+Michael Jackson,Journey,3,1970,United States,Rock
+Michael Jackson,Kenny Rogers,3,1970,United States,Pop
+Michael Jackson,Bob Marley,1,1970,Nenhum,Nenhum
+Michael Jackson,Foreigner,3,1970,United States,Rock
+Michael Jackson,Meat Loaf,3,1970,United States,Rock
+Michael Jackson,Tom Petty,3,1970,United States,Rock
+Michael Jackson,Prince,3,1970,United States,"R&B, Pop, Soul, Rock"
+Michael Jackson,Dire Straits,2,1970,Nenhum,Rock
+Michael Jackson,Van Halen,2,1970,United States,Nenhum
+Michael Jackson,The Police,2,1970,Nenhum,"Pop, Rock"
+Michael Jackson,Def Leppard,1,1970,Nenhum,Nenhum
+Michael Jackson,Bryan Adams,2,1970,Nenhum,Rock
+Billy Joel,"Earth, Wind & Fire",2,1970,United States,Nenhum
+Billy Joel,Eagles,3,1970,United States,Rock
+Billy Joel,ABBA,2,1970,Nenhum,Pop
+Billy Joel,Queen,2,1970,Nenhum,Rock
+Billy Joel,Bruce Springsteen,3,1970,United States,Rock
+Billy Joel,Aerosmith,2,1970,United States,Nenhum
+Billy Joel,Barry Manilow,3,1970,United States,Pop
+Billy Joel,Donna Summer,3,1970,United States,Pop
+Billy Joel,Kiss,2,1970,United States,Nenhum
+Billy Joel,AC/DC,1,1970,Nenhum,Nenhum
+Billy Joel,Journey,3,1970,United States,Rock
+Billy Joel,Kenny Rogers,3,1970,United States,Pop
+Billy Joel,Bob Marley,1,1970,Nenhum,Nenhum
+Billy Joel,Foreigner,3,1970,United States,Rock
+Billy Joel,Meat Loaf,3,1970,United States,Rock
+Billy Joel,Tom Petty,3,1970,United States,Rock
+Billy Joel,Prince,3,1970,United States,"Pop, Rock"
+Billy Joel,Dire Straits,2,1970,Nenhum,Rock
+Billy Joel,Van Halen,2,1970,United States,Nenhum
+Billy Joel,The Police,2,1970,Nenhum,"Pop, Rock"
+Billy Joel,Def Leppard,1,1970,Nenhum,Nenhum
+Billy Joel,Bryan Adams,2,1970,Nenhum,Rock
+"Earth, Wind & Fire",Eagles,2,1970,United States,Nenhum
+"Earth, Wind & Fire",ABBA,1,1970,Nenhum,Nenhum
+"Earth, Wind & Fire",Queen,1,1970,Nenhum,Nenhum
+"Earth, Wind & Fire",Bruce Springsteen,2,1970,United States,Nenhum
+"Earth, Wind & Fire",Aerosmith,2,1970,United States,Nenhum
+"Earth, Wind & Fire",Barry Manilow,2,1970,United States,Nenhum
+"Earth, Wind & Fire",Donna Summer,3,1970,United States,R&B
+"Earth, Wind & Fire",Kiss,2,1970,United States,Nenhum
+"Earth, Wind & Fire",AC/DC,1,1970,Nenhum,Nenhum
+"Earth, Wind & Fire",Journey,2,1970,United States,Nenhum
+"Earth, Wind & Fire",Kenny Rogers,2,1970,United States,Nenhum
+"Earth, Wind & Fire",Bob Marley,1,1970,Nenhum,Nenhum
+"Earth, Wind & Fire",Foreigner,2,1970,United States,Nenhum
+"Earth, Wind & Fire",Meat Loaf,2,1970,United States,Nenhum
+"Earth, Wind & Fire",Tom Petty,2,1970,United States,Nenhum
+"Earth, Wind & Fire",Prince,3,1970,United States,"R&B, Soul, Funk"
+"Earth, Wind & Fire",Dire Straits,1,1970,Nenhum,Nenhum
+"Earth, Wind & Fire",Van Halen,2,1970,United States,Nenhum
+"Earth, Wind & Fire",The Police,1,1970,Nenhum,Nenhum
+"Earth, Wind & Fire",Def Leppard,1,1970,Nenhum,Nenhum
+"Earth, Wind & Fire",Bryan Adams,1,1970,Nenhum,Nenhum
+Eagles,ABBA,1,1970,Nenhum,Nenhum
+Eagles,Queen,2,1970,Nenhum,Rock
+Eagles,Bruce Springsteen,3,1970,United States,Rock
+Eagles,Aerosmith,2,1970,United States,Nenhum
+Eagles,Barry Manilow,2,1970,United States,Nenhum
+Eagles,Donna Summer,2,1970,United States,Nenhum
+Eagles,Kiss,2,1970,United States,Nenhum
+Eagles,AC/DC,1,1970,Nenhum,Nenhum
+Eagles,Journey,3,1970,United States,Rock
+Eagles,Kenny Rogers,2,1970,United States,Nenhum
+Eagles,Bob Marley,1,1970,Nenhum,Nenhum
+Eagles,Foreigner,3,1970,United States,Rock
+Eagles,Meat Loaf,3,1970,United States,Rock
+Eagles,Tom Petty,3,1970,United States,Rock
+Eagles,Prince,3,1970,United States,Rock
+Eagles,Dire Straits,2,1970,Nenhum,Rock
+Eagles,Van Halen,2,1970,United States,Nenhum
+Eagles,The Police,2,1970,Nenhum,Rock
+Eagles,Def Leppard,1,1970,Nenhum,Nenhum
+Eagles,Bryan Adams,2,1970,Nenhum,Rock
+ABBA,Queen,1,1970,Nenhum,Nenhum
+ABBA,Bruce Springsteen,1,1970,Nenhum,Nenhum
+ABBA,Aerosmith,1,1970,Nenhum,Nenhum
+ABBA,Barry Manilow,2,1970,Nenhum,Pop
+ABBA,Donna Summer,2,1970,Nenhum,"Disco, Pop"
+ABBA,Kiss,1,1970,Nenhum,Nenhum
+ABBA,AC/DC,1,1970,Nenhum,Nenhum
+ABBA,Journey,1,1970,Nenhum,Nenhum
+ABBA,Kenny Rogers,2,1970,Nenhum,Pop
+ABBA,Bob Marley,1,1970,Nenhum,Nenhum
+ABBA,Foreigner,1,1970,Nenhum,Nenhum
+ABBA,Meat Loaf,1,1970,Nenhum,Nenhum
+ABBA,Tom Petty,1,1970,Nenhum,Nenhum
+ABBA,Prince,2,1970,Nenhum,Pop
+ABBA,Dire Straits,1,1970,Nenhum,Nenhum
+ABBA,Van Halen,1,1970,Nenhum,Nenhum
+ABBA,The Police,2,1970,Nenhum,Pop
+ABBA,Def Leppard,1,1970,Nenhum,Nenhum
+ABBA,Bryan Adams,1,1970,Nenhum,Nenhum
+Queen,Bruce Springsteen,2,1970,Nenhum,Rock
+Queen,Aerosmith,1,1970,Nenhum,Nenhum
+Queen,Barry Manilow,1,1970,Nenhum,Nenhum
+Queen,Donna Summer,1,1970,Nenhum,Nenhum
+Queen,Kiss,1,1970,Nenhum,Nenhum
+Queen,AC/DC,1,1970,Nenhum,Nenhum
+Queen,Journey,2,1970,Nenhum,Rock
+Queen,Kenny Rogers,1,1970,Nenhum,Nenhum
+Queen,Bob Marley,1,1970,Nenhum,Nenhum
+Queen,Foreigner,3,1970,United Kingdom,Rock
+Queen,Meat Loaf,2,1970,Nenhum,Rock
+Queen,Tom Petty,2,1970,Nenhum,Rock
+Queen,Prince,2,1970,Nenhum,Rock
+Queen,Dire Straits,3,1970,United Kingdom,Rock
+Queen,Van Halen,1,1970,Nenhum,Nenhum
+Queen,The Police,3,1970,United Kingdom,Rock
+Queen,Def Leppard,2,1970,United Kingdom,Nenhum
+Queen,Bryan Adams,2,1970,Nenhum,Rock
+Bruce Springsteen,Aerosmith,2,1970,United States,Nenhum
+Bruce Springsteen,Barry Manilow,2,1970,United States,Nenhum
+Bruce Springsteen,Donna Summer,2,1970,United States,Nenhum
+Bruce Springsteen,Kiss,2,1970,United States,Nenhum
+Bruce Springsteen,AC/DC,1,1970,Nenhum,Nenhum
+Bruce Springsteen,Journey,3,1970,United States,Rock
+Bruce Springsteen,Kenny Rogers,2,1970,United States,Nenhum
+Bruce Springsteen,Bob Marley,1,1970,Nenhum,Nenhum
+Bruce Springsteen,Foreigner,3,1970,United States,Rock
+Bruce Springsteen,Meat Loaf,3,1970,United States,Rock
+Bruce Springsteen,Tom Petty,3,1970,United States,Rock
+Bruce Springsteen,Prince,3,1970,United States,Rock
+Bruce Springsteen,Dire Straits,2,1970,Nenhum,Rock
+Bruce Springsteen,Van Halen,2,1970,United States,Nenhum
+Bruce Springsteen,The Police,2,1970,Nenhum,Rock
+Bruce Springsteen,Def Leppard,1,1970,Nenhum,Nenhum
+Bruce Springsteen,Bryan Adams,2,1970,Nenhum,Rock
+Aerosmith,Barry Manilow,2,1970,United States,Nenhum
+Aerosmith,Donna Summer,2,1970,United States,Nenhum
+Aerosmith,Kiss,3,1970,United States,Hard Rock
+Aerosmith,AC/DC,2,1970,Nenhum,Hard Rock
+Aerosmith,Journey,2,1970,United States,Nenhum
+Aerosmith,Kenny Rogers,2,1970,United States,Nenhum
+Aerosmith,Bob Marley,1,1970,Nenhum,Nenhum
+Aerosmith,Foreigner,3,1970,United States,Hard Rock
+Aerosmith,Meat Loaf,3,1970,United States,Hard Rock
+Aerosmith,Tom Petty,2,1970,United States,Nenhum
+Aerosmith,Prince,2,1970,United States,Nenhum
+Aerosmith,Dire Straits,1,1970,Nenhum,Nenhum
+Aerosmith,Van Halen,3,1970,United States,Hard Rock
+Aerosmith,The Police,1,1970,Nenhum,Nenhum
+Aerosmith,Def Leppard,2,1970,Nenhum,Hard Rock
+Aerosmith,Bryan Adams,1,1970,Nenhum,Nenhum
+Barry Manilow,Donna Summer,3,1970,United States,Pop
+Barry Manilow,Kiss,2,1970,United States,Nenhum
+Barry Manilow,AC/DC,1,1970,Nenhum,Nenhum
+Barry Manilow,Journey,3,1970,United States,Soft Rock
+Barry Manilow,Kenny Rogers,3,1970,United States,Pop
+Barry Manilow,Bob Marley,1,1970,Nenhum,Nenhum
+Barry Manilow,Foreigner,2,1970,United States,Nenhum
+Barry Manilow,Meat Loaf,2,1970,United States,Nenhum
+Barry Manilow,Tom Petty,2,1970,United States,Nenhum
+Barry Manilow,Prince,3,1970,United States,Pop
+Barry Manilow,Dire Straits,1,1970,Nenhum,Nenhum
+Barry Manilow,Van Halen,2,1970,United States,Nenhum
+Barry Manilow,The Police,2,1970,Nenhum,Pop
+Barry Manilow,Def Leppard,1,1970,Nenhum,Nenhum
+Barry Manilow,Bryan Adams,1,1970,Nenhum,Nenhum
+Donna Summer,Kiss,2,1970,United States,Nenhum
+Donna Summer,AC/DC,1,1970,Nenhum,Nenhum
+Donna Summer,Journey,2,1970,United States,Nenhum
+Donna Summer,Kenny Rogers,3,1970,United States,Pop
+Donna Summer,Bob Marley,1,1970,Nenhum,Nenhum
+Donna Summer,Foreigner,2,1970,United States,Nenhum
+Donna Summer,Meat Loaf,2,1970,United States,Nenhum
+Donna Summer,Tom Petty,2,1970,United States,Nenhum
+Donna Summer,Prince,3,1970,United States,"R&B, Pop"
+Donna Summer,Dire Straits,1,1970,Nenhum,Nenhum
+Donna Summer,Van Halen,2,1970,United States,Nenhum
+Donna Summer,The Police,2,1970,Nenhum,Pop
+Donna Summer,Def Leppard,1,1970,Nenhum,Nenhum
+Donna Summer,Bryan Adams,1,1970,Nenhum,Nenhum
+Kiss,AC/DC,2,1970,Nenhum,Hard Rock
+Kiss,Journey,2,1970,United States,Nenhum
+Kiss,Kenny Rogers,2,1970,United States,Nenhum
+Kiss,Bob Marley,1,1970,Nenhum,Nenhum
+Kiss,Foreigner,3,1970,United States,Hard Rock
+Kiss,Meat Loaf,3,1970,United States,Hard Rock
+Kiss,Tom Petty,2,1970,United States,Nenhum
+Kiss,Prince,2,1970,United States,Nenhum
+Kiss,Dire Straits,1,1970,Nenhum,Nenhum
+Kiss,Van Halen,3,1970,United States,"Heavy Metal, Hard Rock"
+Kiss,The Police,1,1970,Nenhum,Nenhum
+Kiss,Def Leppard,2,1970,Nenhum,"Heavy Metal, Hard Rock"
+Kiss,Bryan Adams,1,1970,Nenhum,Nenhum
+AC/DC,Journey,1,1970,Nenhum,Nenhum
+AC/DC,Kenny Rogers,1,1970,Nenhum,Nenhum
+AC/DC,Bob Marley,1,1970,Nenhum,Nenhum
+AC/DC,Foreigner,2,1970,Nenhum,Hard Rock
+AC/DC,Meat Loaf,2,1970,Nenhum,Hard Rock
+AC/DC,Tom Petty,1,1970,Nenhum,Nenhum
+AC/DC,Prince,1,1970,Nenhum,Nenhum
+AC/DC,Dire Straits,1,1970,Nenhum,Nenhum
+AC/DC,Van Halen,2,1970,Nenhum,Hard Rock
+AC/DC,The Police,1,1970,Nenhum,Nenhum
+AC/DC,Def Leppard,2,1970,Nenhum,Hard Rock
+AC/DC,Bryan Adams,1,1970,Nenhum,Nenhum
+Journey,Kenny Rogers,2,1970,United States,Nenhum
+Journey,Bob Marley,1,1970,Nenhum,Nenhum
+Journey,Foreigner,3,1970,United States,Rock
+Journey,Meat Loaf,3,1970,United States,Rock
+Journey,Tom Petty,3,1970,United States,Rock
+Journey,Prince,3,1970,United States,Rock
+Journey,Dire Straits,2,1970,Nenhum,Rock
+Journey,Van Halen,2,1970,United States,Nenhum
+Journey,The Police,2,1970,Nenhum,Rock
+Journey,Def Leppard,1,1970,Nenhum,Nenhum
+Journey,Bryan Adams,2,1970,Nenhum,Rock
+Kenny Rogers,Bob Marley,1,1970,Nenhum,Nenhum
+Kenny Rogers,Foreigner,2,1970,United States,Nenhum
+Kenny Rogers,Meat Loaf,2,1970,United States,Nenhum
+Kenny Rogers,Tom Petty,2,1970,United States,Nenhum
+Kenny Rogers,Prince,3,1970,United States,Pop
+Kenny Rogers,Dire Straits,1,1970,Nenhum,Nenhum
+Kenny Rogers,Van Halen,2,1970,United States,Nenhum
+Kenny Rogers,The Police,2,1970,Nenhum,Pop
+Kenny Rogers,Def Leppard,1,1970,Nenhum,Nenhum
+Kenny Rogers,Bryan Adams,1,1970,Nenhum,Nenhum
+Bob Marley,Foreigner,1,1970,Nenhum,Nenhum
+Bob Marley,Meat Loaf,1,1970,Nenhum,Nenhum
+Bob Marley,Tom Petty,1,1970,Nenhum,Nenhum
+Bob Marley,Prince,1,1970,Nenhum,Nenhum
+Bob Marley,Dire Straits,1,1970,Nenhum,Nenhum
+Bob Marley,Van Halen,1,1970,Nenhum,Nenhum
+Bob Marley,The Police,1,1970,Nenhum,Nenhum
+Bob Marley,Def Leppard,1,1970,Nenhum,Nenhum
+Bob Marley,Bryan Adams,1,1970,Nenhum,Nenhum
+Foreigner,Meat Loaf,3,1970,United States,"Rock, Hard Rock"
+Foreigner,Tom Petty,3,1970,United States,Rock
+Foreigner,Prince,3,1970,United States,Rock
+Foreigner,Dire Straits,3,1970,United Kingdom,Rock
+Foreigner,Van Halen,3,1970,United States,Hard Rock
+Foreigner,The Police,3,1970,United Kingdom,Rock
+Foreigner,Def Leppard,3,1970,United Kingdom,Hard Rock
+Foreigner,Bryan Adams,2,1970,Nenhum,Rock
+Meat Loaf,Tom Petty,3,1970,United States,Rock
+Meat Loaf,Prince,3,1970,United States,Rock
+Meat Loaf,Dire Straits,2,1970,Nenhum,Rock
+Meat Loaf,Van Halen,3,1970,United States,Hard Rock
+Meat Loaf,The Police,2,1970,Nenhum,Rock
+Meat Loaf,Def Leppard,2,1970,Nenhum,Hard Rock
+Meat Loaf,Bryan Adams,2,1970,Nenhum,Rock
+Tom Petty,Prince,3,1970,United States,Rock
+Tom Petty,Dire Straits,2,1970,Nenhum,Rock
+Tom Petty,Van Halen,2,1970,United States,Nenhum
+Tom Petty,The Police,2,1970,Nenhum,Rock
+Tom Petty,Def Leppard,1,1970,Nenhum,Nenhum
+Tom Petty,Bryan Adams,2,1970,Nenhum,Rock
+Prince,Dire Straits,2,1970,Nenhum,Rock
+Prince,Van Halen,2,1970,United States,Nenhum
+Prince,The Police,2,1970,Nenhum,"Pop, Rock"
+Prince,Def Leppard,1,1970,Nenhum,Nenhum
+Prince,Bryan Adams,2,1970,Nenhum,Rock
+Dire Straits,Van Halen,1,1970,Nenhum,Nenhum
+Dire Straits,The Police,3,1970,United Kingdom,Rock
+Dire Straits,Def Leppard,2,1970,United Kingdom,Nenhum
+Dire Straits,Bryan Adams,2,1970,Nenhum,Rock
+Van Halen,The Police,1,1970,Nenhum,Nenhum
+Van Halen,Def Leppard,2,1970,Nenhum,"Heavy Metal, Hard Rock"
+Van Halen,Bryan Adams,1,1970,Nenhum,Nenhum
+The Police,Def Leppard,2,1970,United Kingdom,Nenhum
+The Police,Bryan Adams,2,1970,Nenhum,Rock
+Def Leppard,Bryan Adams,1,1970,Nenhum,Nenhum
