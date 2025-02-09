@@ -102,14 +102,14 @@ James Taylor,The Police,2,1970,Nenhum,"Pop, Rock"
 James Taylor,Def Leppard,1,1970,Nenhum,Nenhum
 James Taylor,Bryan Adams,2,1970,Nenhum,Rock
 Michael Jackson,Billy Joel,3,1970,United States,"Pop, Rock"
-Michael Jackson,"Earth, Wind & Fire",3,1970,United States,"R&B, Soul"
+Michael Jackson,"Earth, Wind & Fire",3,1970,United States,"Soul, R&B"
 Michael Jackson,Eagles,3,1970,United States,Rock
 Michael Jackson,ABBA,2,1970,Nenhum,Pop
 Michael Jackson,Queen,2,1970,Nenhum,Rock
 Michael Jackson,Bruce Springsteen,3,1970,United States,Rock
 Michael Jackson,Aerosmith,2,1970,United States,Nenhum
 Michael Jackson,Barry Manilow,3,1970,United States,Pop
-Michael Jackson,Donna Summer,3,1970,United States,"R&B, Pop"
+Michael Jackson,Donna Summer,3,1970,United States,"Pop, R&B"
 Michael Jackson,Kiss,2,1970,United States,Nenhum
 Michael Jackson,AC/DC,1,1970,Nenhum,Nenhum
 Michael Jackson,Journey,3,1970,United States,Rock
@@ -118,7 +118,7 @@ Michael Jackson,Bob Marley,1,1970,Nenhum,Nenhum
 Michael Jackson,Foreigner,3,1970,United States,Rock
 Michael Jackson,Meat Loaf,3,1970,United States,Rock
 Michael Jackson,Tom Petty,3,1970,United States,Rock
-Michael Jackson,Prince,3,1970,United States,"R&B, Pop, Soul, Rock"
+Michael Jackson,Prince,3,1970,United States,"Rock, Pop, Soul, R&B"
 Michael Jackson,Dire Straits,2,1970,Nenhum,Rock
 Michael Jackson,Van Halen,2,1970,United States,Nenhum
 Michael Jackson,The Police,2,1970,Nenhum,"Pop, Rock"
@@ -161,7 +161,7 @@ Billy Joel,Bryan Adams,2,1970,Nenhum,Rock
 "Earth, Wind & Fire",Foreigner,2,1970,United States,Nenhum
 "Earth, Wind & Fire",Meat Loaf,2,1970,United States,Nenhum
 "Earth, Wind & Fire",Tom Petty,2,1970,United States,Nenhum
-"Earth, Wind & Fire",Prince,3,1970,United States,"R&B, Soul, Funk"
+"Earth, Wind & Fire",Prince,3,1970,United States,"Funk, R&B, Soul"
 "Earth, Wind & Fire",Dire Straits,1,1970,Nenhum,Nenhum
 "Earth, Wind & Fire",Van Halen,2,1970,United States,Nenhum
 "Earth, Wind & Fire",The Police,1,1970,Nenhum,Nenhum
@@ -280,7 +280,7 @@ Donna Summer,Bob Marley,1,1970,Nenhum,Nenhum
 Donna Summer,Foreigner,2,1970,United States,Nenhum
 Donna Summer,Meat Loaf,2,1970,United States,Nenhum
 Donna Summer,Tom Petty,2,1970,United States,Nenhum
-Donna Summer,Prince,3,1970,United States,"R&B, Pop"
+Donna Summer,Prince,3,1970,United States,"Pop, R&B"
 Donna Summer,Dire Straits,1,1970,Nenhum,Nenhum
 Donna Summer,Van Halen,2,1970,United States,Nenhum
 Donna Summer,The Police,2,1970,Nenhum,Pop
@@ -295,9 +295,9 @@ Kiss,Meat Loaf,3,1970,United States,Hard Rock
 Kiss,Tom Petty,2,1970,United States,Nenhum
 Kiss,Prince,2,1970,United States,Nenhum
 Kiss,Dire Straits,1,1970,Nenhum,Nenhum
-Kiss,Van Halen,3,1970,United States,"Heavy Metal, Hard Rock"
+Kiss,Van Halen,3,1970,United States,"Hard Rock, Heavy Metal"
 Kiss,The Police,1,1970,Nenhum,Nenhum
-Kiss,Def Leppard,2,1970,Nenhum,"Heavy Metal, Hard Rock"
+Kiss,Def Leppard,2,1970,Nenhum,"Hard Rock, Heavy Metal"
 Kiss,Bryan Adams,1,1970,Nenhum,Nenhum
 AC/DC,Journey,1,1970,Nenhum,Nenhum
 AC/DC,Kenny Rogers,1,1970,Nenhum,Nenhum
@@ -372,7 +372,7 @@ Dire Straits,The Police,3,1970,United Kingdom,Rock
 Dire Straits,Def Leppard,2,1970,United Kingdom,Nenhum
 Dire Straits,Bryan Adams,2,1970,Nenhum,Rock
 Van Halen,The Police,1,1970,Nenhum,Nenhum
-Van Halen,Def Leppard,2,1970,Nenhum,"Heavy Metal, Hard Rock"
+Van Halen,Def Leppard,2,1970,Nenhum,"Hard Rock, Heavy Metal"
 Van Halen,Bryan Adams,1,1970,Nenhum,Nenhum
 The Police,Def Leppard,2,1970,United Kingdom,Nenhum
 The Police,Bryan Adams,2,1970,Nenhum,Rock

@@ -189,7 +189,7 @@ def modelar_grafo_h(H, artistas):
             peso = comparacao_decada(artistas[i], artistas[j])
             H.add_edge(artistas[i].artista, artistas[j].artista, weight=peso)
 
-def salvar_resultados_txt(resultados, file='resutados.txt'):
+def salvar_resultados_txt(resultados, file='resultados.txt'):
     with open(file, "w") as file:
         for decada, top_5 in resultados.items():
             file.write(f"Década: {decada}\n")
@@ -197,4 +197,4 @@ def salvar_resultados_txt(resultados, file='resutados.txt'):
                 file.write(f"  {i}. Conteúdo de aresta com weight 3: {data_mais_comum} ({frequencia} aparições)\n")
             file.write("\n")  # Adiciona uma linha em branco entre as décadas
 
-    print(f"Resultados salvos em '{file}' com sucesso!")
+    print(f"Resultados salvos com sucesso!")

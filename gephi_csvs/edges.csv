@@ -137,7 +137,7 @@ Elvis Presley,Donna Summer,2,,United States,Pop
 Elvis Presley,Kiss,1,,United States,Nenhum
 Elvis Presley,AC/DC,1,,Nenhum,Rock And Roll
 Elvis Presley,Journey,1,,United States,Nenhum
-Elvis Presley,Kenny Rogers,2,,United States,"Pop, Country"
+Elvis Presley,Kenny Rogers,2,,United States,"Country, Pop"
 Elvis Presley,Foreigner,1,,United States,Nenhum
 Elvis Presley,Meat Loaf,1,,United States,Nenhum
 Elvis Presley,Tom Petty,1,,United States,Nenhum
@@ -186,7 +186,7 @@ Elvis Presley,Justin Timberlake,2,,United States,Pop
 Elvis Presley,Kanye West,2,,United States,Pop
 Elvis Presley,Rihanna,1,,Nenhum,Pop
 Elvis Presley,Chris Brown,2,,United States,Pop
-Elvis Presley,Taylor Swift,2,,United States,"Pop, Country"
+Elvis Presley,Taylor Swift,2,,United States,"Country, Pop"
 Elvis Presley,Flo Rida,1,,United States,Nenhum
 Elvis Presley,Luke Bryan,2,,United States,Country
 Elvis Presley,Katy Perry,2,,United States,Pop
@@ -474,7 +474,7 @@ Johnny Hallyday,Ariana Grande,1,,Nenhum,Pop
 Johnny Hallyday,The Weeknd,1,,Nenhum,Pop
 Johnny Hallyday,Post Malone,1,,Nenhum,Pop
 Aretha Franklin,The Beatles,1,1960,Nenhum,Nenhum
-Aretha Franklin,Stevie Wonder,3,1960,United States,"R&B, Soul"
+Aretha Franklin,Stevie Wonder,3,1960,United States,"Soul, R&B"
 Aretha Franklin,The Beach Boys,2,1960,United States,Nenhum
 Aretha Franklin,The Rolling Stones,1,1960,Nenhum,Nenhum
 Aretha Franklin,Barbra Streisand,2,1960,United States,Nenhum
@@ -499,9 +499,9 @@ Aretha Franklin,The Carpenters,2,1960,United States,Nenhum
 Aretha Franklin,Genesis,1,1960,Nenhum,Nenhum
 Aretha Franklin,Eric Clapton,1,,Nenhum,Blues
 Aretha Franklin,James Taylor,1,,United States,Nenhum
-Aretha Franklin,Michael Jackson,2,,United States,"R&B, Soul"
+Aretha Franklin,Michael Jackson,2,,United States,"Soul, R&B"
 Aretha Franklin,Billy Joel,1,,United States,Nenhum
-Aretha Franklin,"Earth, Wind & Fire",2,,United States,"R&B, Soul"
+Aretha Franklin,"Earth, Wind & Fire",2,,United States,"Soul, R&B"
 Aretha Franklin,Eagles,1,,United States,Nenhum
 Aretha Franklin,Bruce Springsteen,1,,United States,Nenhum
 Aretha Franklin,Aerosmith,1,,United States,Nenhum
@@ -513,7 +513,7 @@ Aretha Franklin,Kenny Rogers,1,,United States,Nenhum
 Aretha Franklin,Foreigner,1,,United States,Nenhum
 Aretha Franklin,Meat Loaf,1,,United States,Nenhum
 Aretha Franklin,Tom Petty,1,,United States,Nenhum
-Aretha Franklin,Prince,2,,United States,"R&B, Soul"
+Aretha Franklin,Prince,2,,United States,"Soul, R&B"
 Aretha Franklin,Van Halen,1,,United States,Nenhum
 Aretha Franklin,Alabama,1,,United States,Nenhum
 Aretha Franklin,Lionel Richie,2,,United States,R&B
@@ -522,17 +522,17 @@ Aretha Franklin,Madonna,1,,United States,Nenhum
 Aretha Franklin,Metallica,1,,United States,Nenhum
 Aretha Franklin,Bon Jovi,1,,United States,Nenhum
 Aretha Franklin,R.E.M.,1,,United States,Nenhum
-Aretha Franklin,Whitney Houston,2,,United States,"R&B, Soul"
+Aretha Franklin,Whitney Houston,2,,United States,"Soul, R&B"
 Aretha Franklin,George Strait,1,,United States,Nenhum
 Aretha Franklin,Gloria Estefan,1,,United States,Nenhum
 Aretha Franklin,Kenny G,1,,United States,Nenhum
 Aretha Franklin,Red Hot Chili Peppers,1,,United States,Nenhum
 Aretha Franklin,Guns N' Roses,1,,United States,Nenhum
 Aretha Franklin,Garth Brooks,1,,United States,Nenhum
-Aretha Franklin,Mariah Carey,2,,United States,"R&B, Soul"
+Aretha Franklin,Mariah Carey,2,,United States,"Soul, R&B"
 Aretha Franklin,Nirvana,1,,United States,Nenhum
 Aretha Franklin,Tupac Shakur,1,,United States,Nenhum
-Aretha Franklin,R. Kelly,2,,United States,"R&B, Soul"
+Aretha Franklin,R. Kelly,2,,United States,"Soul, R&B"
 Aretha Franklin,Tim McGraw,1,,United States,Nenhum
 Aretha Franklin,Usher,2,,United States,R&B
 Aretha Franklin,Green Day,1,,United States,Nenhum
@@ -669,9 +669,9 @@ Stevie Wonder,Chicago,2,1960,United States,Nenhum
 Stevie Wonder,The Carpenters,2,1960,United States,Nenhum
 Stevie Wonder,Genesis,1,1960,Nenhum,Nenhum
 Stevie Wonder,James Taylor,1,,United States,Nenhum
-Stevie Wonder,Michael Jackson,2,,United States,"R&B, Soul"
+Stevie Wonder,Michael Jackson,2,,United States,"Soul, R&B"
 Stevie Wonder,Billy Joel,1,,United States,Nenhum
-Stevie Wonder,"Earth, Wind & Fire",2,,United States,"R&B, Soul, Funk"
+Stevie Wonder,"Earth, Wind & Fire",2,,United States,"Funk, R&B, Soul"
 Stevie Wonder,Eagles,1,,United States,Nenhum
 Stevie Wonder,Bruce Springsteen,1,,United States,Nenhum
 Stevie Wonder,Aerosmith,1,,United States,Nenhum
@@ -683,7 +683,7 @@ Stevie Wonder,Kenny Rogers,1,,United States,Nenhum
 Stevie Wonder,Foreigner,1,,United States,Nenhum
 Stevie Wonder,Meat Loaf,1,,United States,Nenhum
 Stevie Wonder,Tom Petty,1,,United States,Nenhum
-Stevie Wonder,Prince,2,,United States,"R&B, Soul, Funk"
+Stevie Wonder,Prince,2,,United States,"Funk, R&B, Soul"
 Stevie Wonder,Van Halen,1,,United States,Nenhum
 Stevie Wonder,Alabama,1,,United States,Nenhum
 Stevie Wonder,Lionel Richie,2,,United States,R&B
@@ -692,17 +692,17 @@ Stevie Wonder,Madonna,1,,United States,Nenhum
 Stevie Wonder,Metallica,1,,United States,Nenhum
 Stevie Wonder,Bon Jovi,1,,United States,Nenhum
 Stevie Wonder,R.E.M.,1,,United States,Nenhum
-Stevie Wonder,Whitney Houston,2,,United States,"R&B, Soul"
+Stevie Wonder,Whitney Houston,2,,United States,"Soul, R&B"
 Stevie Wonder,George Strait,1,,United States,Nenhum
 Stevie Wonder,Gloria Estefan,1,,United States,Nenhum
 Stevie Wonder,Kenny G,1,,United States,Nenhum
 Stevie Wonder,Red Hot Chili Peppers,1,,United States,Nenhum
 Stevie Wonder,Guns N' Roses,1,,United States,Nenhum
 Stevie Wonder,Garth Brooks,1,,United States,Nenhum
-Stevie Wonder,Mariah Carey,2,,United States,"R&B, Soul"
+Stevie Wonder,Mariah Carey,2,,United States,"Soul, R&B"
 Stevie Wonder,Nirvana,1,,United States,Nenhum
 Stevie Wonder,Tupac Shakur,1,,United States,Nenhum
-Stevie Wonder,R. Kelly,2,,United States,"R&B, Soul"
+Stevie Wonder,R. Kelly,2,,United States,"Soul, R&B"
 Stevie Wonder,Tim McGraw,1,,United States,Nenhum
 Stevie Wonder,Usher,2,,United States,R&B
 Stevie Wonder,Green Day,1,,United States,Nenhum
@@ -1199,7 +1199,7 @@ Cher,Elton John,1,,Nenhum,"Pop, Rock"
 Cher,Eric Clapton,1,,Nenhum,Rock
 Cher,Paul McCartney,1,,Nenhum,Rock
 Cher,James Taylor,2,,United States,"Pop, Rock"
-Cher,Michael Jackson,2,,United States,"Pop, Rock, Dance"
+Cher,Michael Jackson,2,,United States,"Dance, Pop, Rock"
 Cher,Billy Joel,2,,United States,"Pop, Rock"
 Cher,"Earth, Wind & Fire",1,,United States,Nenhum
 Cher,Eagles,2,,United States,Rock
@@ -1226,7 +1226,7 @@ Cher,Celine Dion,1,,Nenhum,"Pop, Rock"
 Cher,Phil Collins,1,,Nenhum,Rock
 Cher,Lionel Richie,2,,United States,Pop
 Cher,Janet Jackson,2,,United States,Pop
-Cher,Madonna,2,,United States,"Pop, Dance"
+Cher,Madonna,2,,United States,"Dance, Pop"
 Cher,Metallica,1,,United States,Nenhum
 Cher,Bon Jovi,1,,United States,Nenhum
 Cher,R.E.M.,1,,United States,Nenhum
@@ -1249,10 +1249,10 @@ Cher,Green Day,1,,United States,Nenhum
 Cher,Backstreet Boys,2,,United States,Pop
 Cher,Shakira,1,,Nenhum,Pop
 Cher,Jay-Z,1,,United States,Nenhum
-Cher,Britney Spears,2,,United States,"Pop, Dance"
+Cher,Britney Spears,2,,United States,"Dance, Pop"
 Cher,Christina Aguilera,2,,United States,"Pop, Rock"
 Cher,The Black Eyed Peas,2,,United States,Dance
-Cher,Ayumi Hamasaki,1,,Nenhum,"Pop, Dance"
+Cher,Ayumi Hamasaki,1,,Nenhum,"Dance, Pop"
 Cher,Eminem,1,,United States,Nenhum
 Cher,Lil Wayne,1,,United States,Nenhum
 Cher,Coldplay,1,,Nenhum,Pop
@@ -1263,13 +1263,13 @@ Cher,Beyoncé,2,,United States,Pop
 Cher,Maroon 5,1,,United States,Nenhum
 Cher,Justin Timberlake,2,,United States,Pop
 Cher,Kanye West,2,,United States,Pop
-Cher,Rihanna,1,,Nenhum,"Pop, Dance"
+Cher,Rihanna,1,,Nenhum,"Dance, Pop"
 Cher,Chris Brown,2,,United States,Pop
 Cher,Taylor Swift,2,,United States,"Pop, Rock, Folk"
 Cher,Flo Rida,1,,United States,Nenhum
 Cher,Luke Bryan,1,,United States,Nenhum
 Cher,Katy Perry,2,,United States,Pop
-Cher,Lady Gaga,2,,United States,"Pop, Dance"
+Cher,Lady Gaga,2,,United States,"Dance, Pop"
 Cher,Adele,1,,Nenhum,Pop
 Cher,Drake,1,,Nenhum,Pop
 Cher,Justin Bieber,1,,Nenhum,Pop
@@ -1835,7 +1835,7 @@ Linda Ronstadt,Maroon 5,1,,United States,Nenhum
 Linda Ronstadt,Justin Timberlake,1,,United States,Nenhum
 Linda Ronstadt,Kanye West,1,,United States,Nenhum
 Linda Ronstadt,Chris Brown,1,,United States,Nenhum
-Linda Ronstadt,Taylor Swift,2,,United States,"Rock, Country, Folk"
+Linda Ronstadt,Taylor Swift,2,,United States,"Country, Rock, Folk"
 Linda Ronstadt,Flo Rida,1,,United States,Nenhum
 Linda Ronstadt,Luke Bryan,2,,United States,Country
 Linda Ronstadt,Katy Perry,1,,United States,Nenhum
@@ -2323,14 +2323,14 @@ Michael Jackson,The Rolling Stones,1,,Nenhum,Rock
 Michael Jackson,Eric Clapton,2,1970,Nenhum,Rock
 Michael Jackson,Paul McCartney,2,1970,Nenhum,Rock
 Michael Jackson,Billy Joel,3,1970,United States,"Pop, Rock"
-Michael Jackson,"Earth, Wind & Fire",3,1970,United States,"R&B, Soul"
+Michael Jackson,"Earth, Wind & Fire",3,1970,United States,"Soul, R&B"
 Michael Jackson,Eagles,3,1970,United States,Rock
 Michael Jackson,ABBA,2,1970,Nenhum,Pop
 Michael Jackson,Queen,2,1970,Nenhum,Rock
 Michael Jackson,Bruce Springsteen,3,1970,United States,Rock
 Michael Jackson,Aerosmith,2,1970,United States,Nenhum
 Michael Jackson,Barry Manilow,3,1970,United States,Pop
-Michael Jackson,Donna Summer,3,1970,United States,"R&B, Pop"
+Michael Jackson,Donna Summer,3,1970,United States,"Pop, R&B"
 Michael Jackson,Kiss,2,1970,United States,Nenhum
 Michael Jackson,AC/DC,1,1970,Nenhum,Nenhum
 Michael Jackson,Journey,3,1970,United States,Rock
@@ -2339,7 +2339,7 @@ Michael Jackson,Bob Marley,1,1970,Nenhum,Nenhum
 Michael Jackson,Foreigner,3,1970,United States,Rock
 Michael Jackson,Meat Loaf,3,1970,United States,Rock
 Michael Jackson,Tom Petty,3,1970,United States,Rock
-Michael Jackson,Prince,3,1970,United States,"R&B, Pop, Soul, Rock"
+Michael Jackson,Prince,3,1970,United States,"Rock, Pop, Soul, R&B"
 Michael Jackson,Dire Straits,2,1970,Nenhum,Rock
 Michael Jackson,Van Halen,2,1970,United States,Nenhum
 Michael Jackson,The Police,2,1970,Nenhum,"Pop, Rock"
@@ -2349,13 +2349,13 @@ Michael Jackson,U2,1,,Nenhum,Rock
 Michael Jackson,Alabama,1,,United States,Nenhum
 Michael Jackson,Celine Dion,1,,Nenhum,"Pop, Rock"
 Michael Jackson,Phil Collins,1,,Nenhum,Rock
-Michael Jackson,Lionel Richie,2,,United States,"R&B, Pop"
-Michael Jackson,Janet Jackson,2,,United States,"R&B, Pop"
-Michael Jackson,Madonna,2,,United States,"Pop, Dance"
+Michael Jackson,Lionel Richie,2,,United States,"Pop, R&B"
+Michael Jackson,Janet Jackson,2,,United States,"Pop, R&B"
+Michael Jackson,Madonna,2,,United States,"Dance, Pop"
 Michael Jackson,Metallica,1,,United States,Nenhum
 Michael Jackson,Bon Jovi,1,,United States,Nenhum
 Michael Jackson,R.E.M.,1,,United States,Nenhum
-Michael Jackson,Whitney Houston,2,,United States,"R&B, Pop, Soul"
+Michael Jackson,Whitney Houston,2,,United States,"Pop, Soul, R&B"
 Michael Jackson,George Strait,1,,United States,Nenhum
 Michael Jackson,George Michael,1,,Nenhum,Pop
 Michael Jackson,Gloria Estefan,1,,United States,Nenhum
@@ -2364,47 +2364,47 @@ Michael Jackson,Red Hot Chili Peppers,1,,United States,Nenhum
 Michael Jackson,Guns N' Roses,1,,United States,Nenhum
 Michael Jackson,B'z,1,,Nenhum,Rock
 Michael Jackson,Garth Brooks,1,,United States,Nenhum
-Michael Jackson,Mariah Carey,2,,United States,"R&B, Pop, Soul"
+Michael Jackson,Mariah Carey,2,,United States,"Pop, Soul, R&B"
 Michael Jackson,Nirvana,1,,United States,Nenhum
 Michael Jackson,Tupac Shakur,1,,United States,Nenhum
-Michael Jackson,R. Kelly,2,,United States,"R&B, Soul"
+Michael Jackson,R. Kelly,2,,United States,"Soul, R&B"
 Michael Jackson,Tim McGraw,1,,United States,Nenhum
-Michael Jackson,Usher,2,,United States,"R&B, Pop"
+Michael Jackson,Usher,2,,United States,"Pop, R&B"
 Michael Jackson,Green Day,1,,United States,Nenhum
 Michael Jackson,Backstreet Boys,2,,United States,Pop
 Michael Jackson,Shakira,1,,Nenhum,Pop
 Michael Jackson,Jay-Z,1,,United States,Nenhum
-Michael Jackson,Britney Spears,2,,United States,"Pop, Dance"
-Michael Jackson,Christina Aguilera,2,,United States,"R&B, Pop, Rock"
-Michael Jackson,The Black Eyed Peas,2,,United States,"R&B, Dance"
-Michael Jackson,Ayumi Hamasaki,1,,Nenhum,"Pop, Dance"
+Michael Jackson,Britney Spears,2,,United States,"Dance, Pop"
+Michael Jackson,Christina Aguilera,2,,United States,"Pop, Rock, R&B"
+Michael Jackson,The Black Eyed Peas,2,,United States,"Dance, R&B"
+Michael Jackson,Ayumi Hamasaki,1,,Nenhum,"Dance, Pop"
 Michael Jackson,Eminem,1,,United States,Nenhum
 Michael Jackson,Lil Wayne,1,,United States,Nenhum
 Michael Jackson,Coldplay,1,,Nenhum,Pop
 Michael Jackson,Linkin Park,1,,United States,Nenhum
-Michael Jackson,Pink,2,,United States,"R&B, Pop"
-Michael Jackson,Alicia Keys,2,,United States,"R&B, Pop"
-Michael Jackson,Beyoncé,2,,United States,"R&B, Pop"
+Michael Jackson,Pink,2,,United States,"Pop, R&B"
+Michael Jackson,Alicia Keys,2,,United States,"Pop, R&B"
+Michael Jackson,Beyoncé,2,,United States,"Pop, R&B"
 Michael Jackson,Maroon 5,1,,United States,Nenhum
-Michael Jackson,Justin Timberlake,2,,United States,"R&B, Pop"
+Michael Jackson,Justin Timberlake,2,,United States,"Pop, R&B"
 Michael Jackson,Kanye West,2,,United States,Pop
-Michael Jackson,Rihanna,1,,Nenhum,"R&B, Pop, Dance"
-Michael Jackson,Chris Brown,2,,United States,"R&B, Pop"
+Michael Jackson,Rihanna,1,,Nenhum,"Dance, Pop, R&B"
+Michael Jackson,Chris Brown,2,,United States,"Pop, R&B"
 Michael Jackson,Taylor Swift,2,,United States,"Pop, Rock"
 Michael Jackson,Flo Rida,1,,United States,Nenhum
 Michael Jackson,Luke Bryan,1,,United States,Nenhum
 Michael Jackson,Katy Perry,2,,United States,Pop
-Michael Jackson,Lady Gaga,2,,United States,"Pop, Dance"
+Michael Jackson,Lady Gaga,2,,United States,"Dance, Pop"
 Michael Jackson,Adele,1,,Nenhum,"Pop, Soul"
-Michael Jackson,Drake,1,,Nenhum,"R&B, Pop"
+Michael Jackson,Drake,1,,Nenhum,"Pop, R&B"
 Michael Jackson,Justin Bieber,1,,Nenhum,Pop
 Michael Jackson,Bruno Mars,2,,United States,R&B
 Michael Jackson,Nicki Minaj,1,,Nenhum,Pop
 Michael Jackson,Ed Sheeran,1,,Nenhum,Pop
 Michael Jackson,Imagine Dragons,2,,United States,Pop
-Michael Jackson,Ariana Grande,2,,United States,"R&B, Pop"
-Michael Jackson,The Weeknd,1,,Nenhum,"R&B, Pop"
-Michael Jackson,Post Malone,2,,United States,"R&B, Pop"
+Michael Jackson,Ariana Grande,2,,United States,"Pop, R&B"
+Michael Jackson,The Weeknd,1,,Nenhum,"Pop, R&B"
+Michael Jackson,Post Malone,2,,United States,"Pop, R&B"
 Billy Joel,The Rolling Stones,1,,Nenhum,Rock
 Billy Joel,Eric Clapton,2,1970,Nenhum,Rock
 Billy Joel,Paul McCartney,2,1970,Nenhum,Rock
@@ -2507,7 +2507,7 @@ Billy Joel,Post Malone,2,,United States,Pop
 "Earth, Wind & Fire",Foreigner,2,1970,United States,Nenhum
 "Earth, Wind & Fire",Meat Loaf,2,1970,United States,Nenhum
 "Earth, Wind & Fire",Tom Petty,2,1970,United States,Nenhum
-"Earth, Wind & Fire",Prince,3,1970,United States,"R&B, Soul, Funk"
+"Earth, Wind & Fire",Prince,3,1970,United States,"Funk, R&B, Soul"
 "Earth, Wind & Fire",Dire Straits,1,1970,Nenhum,Nenhum
 "Earth, Wind & Fire",Van Halen,2,1970,United States,Nenhum
 "Earth, Wind & Fire",The Police,1,1970,Nenhum,Nenhum
@@ -2520,17 +2520,17 @@ Billy Joel,Post Malone,2,,United States,Pop
 "Earth, Wind & Fire",Metallica,1,,United States,Nenhum
 "Earth, Wind & Fire",Bon Jovi,1,,United States,Nenhum
 "Earth, Wind & Fire",R.E.M.,1,,United States,Nenhum
-"Earth, Wind & Fire",Whitney Houston,2,,United States,"R&B, Soul"
+"Earth, Wind & Fire",Whitney Houston,2,,United States,"Soul, R&B"
 "Earth, Wind & Fire",George Strait,1,,United States,Nenhum
 "Earth, Wind & Fire",Gloria Estefan,1,,United States,Nenhum
 "Earth, Wind & Fire",Kenny G,1,,United States,Nenhum
 "Earth, Wind & Fire",Red Hot Chili Peppers,1,,United States,Nenhum
 "Earth, Wind & Fire",Guns N' Roses,1,,United States,Nenhum
 "Earth, Wind & Fire",Garth Brooks,1,,United States,Nenhum
-"Earth, Wind & Fire",Mariah Carey,2,,United States,"R&B, Soul"
+"Earth, Wind & Fire",Mariah Carey,2,,United States,"Soul, R&B"
 "Earth, Wind & Fire",Nirvana,1,,United States,Nenhum
 "Earth, Wind & Fire",Tupac Shakur,1,,United States,Nenhum
-"Earth, Wind & Fire",R. Kelly,2,,United States,"R&B, Soul"
+"Earth, Wind & Fire",R. Kelly,2,,United States,"Soul, R&B"
 "Earth, Wind & Fire",Tim McGraw,1,,United States,Nenhum
 "Earth, Wind & Fire",Usher,2,,United States,R&B
 "Earth, Wind & Fire",Green Day,1,,United States,Nenhum
@@ -2910,7 +2910,7 @@ Donna Summer,Bob Marley,1,1970,Nenhum,Nenhum
 Donna Summer,Foreigner,2,1970,United States,Nenhum
 Donna Summer,Meat Loaf,2,1970,United States,Nenhum
 Donna Summer,Tom Petty,2,1970,United States,Nenhum
-Donna Summer,Prince,3,1970,United States,"R&B, Pop"
+Donna Summer,Prince,3,1970,United States,"Pop, R&B"
 Donna Summer,Dire Straits,1,1970,Nenhum,Nenhum
 Donna Summer,Van Halen,2,1970,United States,Nenhum
 Donna Summer,The Police,2,1970,Nenhum,Pop
@@ -2918,13 +2918,13 @@ Donna Summer,Def Leppard,1,1970,Nenhum,Nenhum
 Donna Summer,Bryan Adams,1,1970,Nenhum,Nenhum
 Donna Summer,Alabama,1,,United States,Nenhum
 Donna Summer,Celine Dion,1,,Nenhum,Pop
-Donna Summer,Lionel Richie,2,,United States,"R&B, Pop"
-Donna Summer,Janet Jackson,2,,United States,"R&B, Pop"
+Donna Summer,Lionel Richie,2,,United States,"Pop, R&B"
+Donna Summer,Janet Jackson,2,,United States,"Pop, R&B"
 Donna Summer,Madonna,2,,United States,Pop
 Donna Summer,Metallica,1,,United States,Nenhum
 Donna Summer,Bon Jovi,1,,United States,Nenhum
 Donna Summer,R.E.M.,1,,United States,Nenhum
-Donna Summer,Whitney Houston,2,,United States,"R&B, Pop"
+Donna Summer,Whitney Houston,2,,United States,"Pop, R&B"
 Donna Summer,George Strait,1,,United States,Nenhum
 Donna Summer,George Michael,1,,Nenhum,Pop
 Donna Summer,Gloria Estefan,1,,United States,Nenhum
@@ -2932,47 +2932,47 @@ Donna Summer,Kenny G,1,,United States,Nenhum
 Donna Summer,Red Hot Chili Peppers,1,,United States,Nenhum
 Donna Summer,Guns N' Roses,1,,United States,Nenhum
 Donna Summer,Garth Brooks,1,,United States,Nenhum
-Donna Summer,Mariah Carey,2,,United States,"R&B, Pop"
+Donna Summer,Mariah Carey,2,,United States,"Pop, R&B"
 Donna Summer,Nirvana,1,,United States,Nenhum
 Donna Summer,Tupac Shakur,1,,United States,Nenhum
 Donna Summer,R. Kelly,2,,United States,R&B
 Donna Summer,Tim McGraw,1,,United States,Nenhum
-Donna Summer,Usher,2,,United States,"R&B, Pop"
+Donna Summer,Usher,2,,United States,"Pop, R&B"
 Donna Summer,Green Day,1,,United States,Nenhum
 Donna Summer,Backstreet Boys,2,,United States,Pop
 Donna Summer,Shakira,1,,Nenhum,Pop
 Donna Summer,Jay-Z,1,,United States,Nenhum
 Donna Summer,Britney Spears,2,,United States,Pop
-Donna Summer,Christina Aguilera,2,,United States,"R&B, Pop"
+Donna Summer,Christina Aguilera,2,,United States,"Pop, R&B"
 Donna Summer,The Black Eyed Peas,2,,United States,R&B
 Donna Summer,Ayumi Hamasaki,1,,Nenhum,Pop
 Donna Summer,Eminem,1,,United States,Nenhum
 Donna Summer,Lil Wayne,1,,United States,Nenhum
 Donna Summer,Coldplay,1,,Nenhum,Pop
 Donna Summer,Linkin Park,1,,United States,Nenhum
-Donna Summer,Pink,2,,United States,"R&B, Pop"
-Donna Summer,Alicia Keys,2,,United States,"R&B, Pop"
-Donna Summer,Beyoncé,2,,United States,"R&B, Pop"
+Donna Summer,Pink,2,,United States,"Pop, R&B"
+Donna Summer,Alicia Keys,2,,United States,"Pop, R&B"
+Donna Summer,Beyoncé,2,,United States,"Pop, R&B"
 Donna Summer,Maroon 5,1,,United States,Nenhum
-Donna Summer,Justin Timberlake,2,,United States,"R&B, Pop"
+Donna Summer,Justin Timberlake,2,,United States,"Pop, R&B"
 Donna Summer,Kanye West,2,,United States,Pop
-Donna Summer,Rihanna,1,,Nenhum,"R&B, Pop"
-Donna Summer,Chris Brown,2,,United States,"R&B, Pop"
+Donna Summer,Rihanna,1,,Nenhum,"Pop, R&B"
+Donna Summer,Chris Brown,2,,United States,"Pop, R&B"
 Donna Summer,Taylor Swift,2,,United States,Pop
 Donna Summer,Flo Rida,1,,United States,Nenhum
 Donna Summer,Luke Bryan,1,,United States,Nenhum
 Donna Summer,Katy Perry,2,,United States,Pop
 Donna Summer,Lady Gaga,2,,United States,Pop
 Donna Summer,Adele,1,,Nenhum,Pop
-Donna Summer,Drake,1,,Nenhum,"R&B, Pop"
+Donna Summer,Drake,1,,Nenhum,"Pop, R&B"
 Donna Summer,Justin Bieber,1,,Nenhum,Pop
 Donna Summer,Bruno Mars,2,,United States,R&B
 Donna Summer,Nicki Minaj,1,,Nenhum,Pop
 Donna Summer,Ed Sheeran,1,,Nenhum,Pop
 Donna Summer,Imagine Dragons,2,,United States,Pop
-Donna Summer,Ariana Grande,2,,United States,"R&B, Pop"
-Donna Summer,The Weeknd,1,,Nenhum,"R&B, Pop"
-Donna Summer,Post Malone,2,,United States,"R&B, Pop"
+Donna Summer,Ariana Grande,2,,United States,"Pop, R&B"
+Donna Summer,The Weeknd,1,,Nenhum,"Pop, R&B"
+Donna Summer,Post Malone,2,,United States,"Pop, R&B"
 Kiss,Led Zeppelin,1,,Nenhum,Hard Rock
 Kiss,Eric Clapton,1,1970,Nenhum,Nenhum
 Kiss,Paul McCartney,1,1970,Nenhum,Nenhum
@@ -2986,9 +2986,9 @@ Kiss,Meat Loaf,3,1970,United States,Hard Rock
 Kiss,Tom Petty,2,1970,United States,Nenhum
 Kiss,Prince,2,1970,United States,Nenhum
 Kiss,Dire Straits,1,1970,Nenhum,Nenhum
-Kiss,Van Halen,3,1970,United States,"Heavy Metal, Hard Rock"
+Kiss,Van Halen,3,1970,United States,"Hard Rock, Heavy Metal"
 Kiss,The Police,1,1970,Nenhum,Nenhum
-Kiss,Def Leppard,2,1970,Nenhum,"Heavy Metal, Hard Rock"
+Kiss,Def Leppard,2,1970,Nenhum,"Hard Rock, Heavy Metal"
 Kiss,Bryan Adams,1,1970,Nenhum,Nenhum
 Kiss,Alabama,1,,United States,Nenhum
 Kiss,Lionel Richie,1,,United States,Nenhum
@@ -3002,7 +3002,7 @@ Kiss,George Strait,1,,United States,Nenhum
 Kiss,Gloria Estefan,1,,United States,Nenhum
 Kiss,Kenny G,1,,United States,Nenhum
 Kiss,Red Hot Chili Peppers,1,,United States,Nenhum
-Kiss,Guns N' Roses,2,,United States,"Heavy Metal, Hard Rock"
+Kiss,Guns N' Roses,2,,United States,"Hard Rock, Heavy Metal"
 Kiss,B'z,1,,Nenhum,Hard Rock
 Kiss,Garth Brooks,1,,United States,Nenhum
 Kiss,Mariah Carey,1,,United States,Nenhum
@@ -3157,7 +3157,7 @@ Kenny Rogers,Justin Timberlake,2,,United States,Pop
 Kenny Rogers,Kanye West,2,,United States,Pop
 Kenny Rogers,Rihanna,1,,Nenhum,Pop
 Kenny Rogers,Chris Brown,2,,United States,Pop
-Kenny Rogers,Taylor Swift,2,,United States,"Pop, Country"
+Kenny Rogers,Taylor Swift,2,,United States,"Country, Pop"
 Kenny Rogers,Flo Rida,1,,United States,Nenhum
 Kenny Rogers,Luke Bryan,2,,United States,Country
 Kenny Rogers,Katy Perry,2,,United States,Pop
@@ -3382,13 +3382,13 @@ Prince,U2,1,,Nenhum,Rock
 Prince,Alabama,1,,United States,Nenhum
 Prince,Celine Dion,1,,Nenhum,"Pop, Rock"
 Prince,Phil Collins,1,,Nenhum,Rock
-Prince,Lionel Richie,2,,United States,"R&B, Pop"
-Prince,Janet Jackson,2,,United States,"R&B, Pop"
+Prince,Lionel Richie,2,,United States,"Pop, R&B"
+Prince,Janet Jackson,2,,United States,"Pop, R&B"
 Prince,Madonna,2,,United States,Pop
 Prince,Metallica,1,,United States,Nenhum
 Prince,Bon Jovi,1,,United States,Nenhum
 Prince,R.E.M.,1,,United States,Nenhum
-Prince,Whitney Houston,2,,United States,"R&B, Pop, Soul"
+Prince,Whitney Houston,2,,United States,"Pop, Soul, R&B"
 Prince,George Strait,1,,United States,Nenhum
 Prince,George Michael,1,,Nenhum,Pop
 Prince,Gloria Estefan,1,,United States,Nenhum
@@ -3397,47 +3397,47 @@ Prince,Red Hot Chili Peppers,1,,United States,Nenhum
 Prince,Guns N' Roses,1,,United States,Nenhum
 Prince,B'z,1,,Nenhum,Rock
 Prince,Garth Brooks,1,,United States,Nenhum
-Prince,Mariah Carey,2,,United States,"R&B, Pop, Soul"
+Prince,Mariah Carey,2,,United States,"Pop, Soul, R&B"
 Prince,Nirvana,1,,United States,Nenhum
 Prince,Tupac Shakur,1,,United States,Nenhum
-Prince,R. Kelly,2,,United States,"R&B, Soul"
+Prince,R. Kelly,2,,United States,"Soul, R&B"
 Prince,Tim McGraw,1,,United States,Nenhum
-Prince,Usher,2,,United States,"R&B, Pop"
+Prince,Usher,2,,United States,"Pop, R&B"
 Prince,Green Day,1,,United States,Nenhum
 Prince,Backstreet Boys,2,,United States,Pop
 Prince,Shakira,1,,Nenhum,Pop
 Prince,Jay-Z,1,,United States,Nenhum
 Prince,Britney Spears,2,,United States,Pop
-Prince,Christina Aguilera,2,,United States,"R&B, Pop, Rock"
+Prince,Christina Aguilera,2,,United States,"Pop, Rock, R&B"
 Prince,The Black Eyed Peas,2,,United States,R&B
 Prince,Ayumi Hamasaki,1,,Nenhum,Pop
 Prince,Eminem,1,,United States,Nenhum
 Prince,Lil Wayne,1,,United States,Nenhum
 Prince,Coldplay,1,,Nenhum,Pop
 Prince,Linkin Park,1,,United States,Nenhum
-Prince,Pink,2,,United States,"R&B, Pop"
-Prince,Alicia Keys,2,,United States,"R&B, Pop"
-Prince,Beyoncé,2,,United States,"R&B, Pop"
+Prince,Pink,2,,United States,"Pop, R&B"
+Prince,Alicia Keys,2,,United States,"Pop, R&B"
+Prince,Beyoncé,2,,United States,"Pop, R&B"
 Prince,Maroon 5,1,,United States,Nenhum
-Prince,Justin Timberlake,2,,United States,"R&B, Pop"
+Prince,Justin Timberlake,2,,United States,"Pop, R&B"
 Prince,Kanye West,2,,United States,Pop
-Prince,Rihanna,1,,Nenhum,"R&B, Pop"
-Prince,Chris Brown,2,,United States,"R&B, Pop"
+Prince,Rihanna,1,,Nenhum,"Pop, R&B"
+Prince,Chris Brown,2,,United States,"Pop, R&B"
 Prince,Taylor Swift,2,,United States,"Pop, Rock"
 Prince,Flo Rida,1,,United States,Nenhum
 Prince,Luke Bryan,1,,United States,Nenhum
 Prince,Katy Perry,2,,United States,Pop
 Prince,Lady Gaga,2,,United States,Pop
 Prince,Adele,1,,Nenhum,"Pop, Soul"
-Prince,Drake,1,,Nenhum,"R&B, Pop"
+Prince,Drake,1,,Nenhum,"Pop, R&B"
 Prince,Justin Bieber,1,,Nenhum,Pop
 Prince,Bruno Mars,2,,United States,R&B
 Prince,Nicki Minaj,1,,Nenhum,Pop
 Prince,Ed Sheeran,1,,Nenhum,Pop
 Prince,Imagine Dragons,2,,United States,Pop
-Prince,Ariana Grande,2,,United States,"R&B, Pop"
-Prince,The Weeknd,1,,Nenhum,"R&B, Pop"
-Prince,Post Malone,2,,United States,"R&B, Pop"
+Prince,Ariana Grande,2,,United States,"Pop, R&B"
+Prince,The Weeknd,1,,Nenhum,"Pop, R&B"
+Prince,Post Malone,2,,United States,"Pop, R&B"
 Van Halen,Led Zeppelin,1,,Nenhum,Hard Rock
 Van Halen,Eric Clapton,1,1970,Nenhum,Nenhum
 Van Halen,Paul McCartney,1,1970,Nenhum,Nenhum
@@ -3446,7 +3446,7 @@ Van Halen,AC/DC,2,1970,Nenhum,Hard Rock
 Van Halen,Bob Marley,1,1970,Nenhum,Nenhum
 Van Halen,Dire Straits,1,1970,Nenhum,Nenhum
 Van Halen,The Police,1,1970,Nenhum,Nenhum
-Van Halen,Def Leppard,2,1970,Nenhum,"Heavy Metal, Hard Rock"
+Van Halen,Def Leppard,2,1970,Nenhum,"Hard Rock, Heavy Metal"
 Van Halen,Bryan Adams,1,1970,Nenhum,Nenhum
 Van Halen,Alabama,1,,United States,Nenhum
 Van Halen,Lionel Richie,1,,United States,Nenhum
@@ -3460,7 +3460,7 @@ Van Halen,George Strait,1,,United States,Nenhum
 Van Halen,Gloria Estefan,1,,United States,Nenhum
 Van Halen,Kenny G,1,,United States,Nenhum
 Van Halen,Red Hot Chili Peppers,1,,United States,Nenhum
-Van Halen,Guns N' Roses,2,,United States,"Heavy Metal, Hard Rock"
+Van Halen,Guns N' Roses,2,,United States,"Hard Rock, Heavy Metal"
 Van Halen,B'z,1,,Nenhum,Hard Rock
 Van Halen,Garth Brooks,1,,United States,Nenhum
 Van Halen,Mariah Carey,1,,United States,Nenhum
@@ -3651,12 +3651,12 @@ Celine Dion,The Weeknd,2,,Canada,Pop
 Celine Dion,Post Malone,1,,Nenhum,Pop
 Lionel Richie,U2,1,1980,Nenhum,Nenhum
 Lionel Richie,Phil Collins,1,1980,Nenhum,Nenhum
-Lionel Richie,Janet Jackson,3,1980,United States,"R&B, Pop"
+Lionel Richie,Janet Jackson,3,1980,United States,"Pop, R&B"
 Lionel Richie,Madonna,3,1980,United States,Pop
 Lionel Richie,Metallica,2,1980,United States,Nenhum
 Lionel Richie,Bon Jovi,2,1980,United States,Nenhum
 Lionel Richie,R.E.M.,2,1980,United States,Nenhum
-Lionel Richie,Whitney Houston,3,1980,United States,"R&B, Pop"
+Lionel Richie,Whitney Houston,3,1980,United States,"Pop, R&B"
 Lionel Richie,George Strait,2,1980,United States,Nenhum
 Lionel Richie,George Michael,2,1980,Nenhum,Pop
 Lionel Richie,Gloria Estefan,2,1980,United States,Nenhum
@@ -3666,54 +3666,54 @@ Lionel Richie,Guns N' Roses,2,1980,United States,Nenhum
 Lionel Richie,Enya,1,1980,Nenhum,Nenhum
 Lionel Richie,B'z,1,1980,Nenhum,Nenhum
 Lionel Richie,Garth Brooks,2,1980,United States,Nenhum
-Lionel Richie,Mariah Carey,2,,United States,"R&B, Pop"
+Lionel Richie,Mariah Carey,2,,United States,"Pop, R&B"
 Lionel Richie,Nirvana,1,,United States,Nenhum
 Lionel Richie,Tupac Shakur,1,,United States,Nenhum
 Lionel Richie,R. Kelly,2,,United States,R&B
 Lionel Richie,Tim McGraw,1,,United States,Nenhum
-Lionel Richie,Usher,2,,United States,"R&B, Pop"
+Lionel Richie,Usher,2,,United States,"Pop, R&B"
 Lionel Richie,Green Day,1,,United States,Nenhum
 Lionel Richie,Backstreet Boys,2,,United States,Pop
 Lionel Richie,Shakira,1,,Nenhum,Pop
 Lionel Richie,Jay-Z,1,,United States,Nenhum
 Lionel Richie,Britney Spears,2,,United States,Pop
-Lionel Richie,Christina Aguilera,2,,United States,"R&B, Pop"
+Lionel Richie,Christina Aguilera,2,,United States,"Pop, R&B"
 Lionel Richie,The Black Eyed Peas,2,,United States,R&B
 Lionel Richie,Ayumi Hamasaki,1,,Nenhum,Pop
 Lionel Richie,Eminem,1,,United States,Nenhum
 Lionel Richie,Lil Wayne,1,,United States,Nenhum
 Lionel Richie,Coldplay,1,,Nenhum,Pop
 Lionel Richie,Linkin Park,1,,United States,Nenhum
-Lionel Richie,Pink,2,,United States,"R&B, Pop"
-Lionel Richie,Alicia Keys,2,,United States,"R&B, Pop"
-Lionel Richie,Beyoncé,2,,United States,"R&B, Pop"
+Lionel Richie,Pink,2,,United States,"Pop, R&B"
+Lionel Richie,Alicia Keys,2,,United States,"Pop, R&B"
+Lionel Richie,Beyoncé,2,,United States,"Pop, R&B"
 Lionel Richie,Maroon 5,1,,United States,Nenhum
-Lionel Richie,Justin Timberlake,2,,United States,"R&B, Pop"
+Lionel Richie,Justin Timberlake,2,,United States,"Pop, R&B"
 Lionel Richie,Kanye West,2,,United States,Pop
-Lionel Richie,Rihanna,1,,Nenhum,"R&B, Pop"
-Lionel Richie,Chris Brown,2,,United States,"R&B, Pop"
+Lionel Richie,Rihanna,1,,Nenhum,"Pop, R&B"
+Lionel Richie,Chris Brown,2,,United States,"Pop, R&B"
 Lionel Richie,Taylor Swift,2,,United States,Pop
 Lionel Richie,Flo Rida,1,,United States,Nenhum
 Lionel Richie,Luke Bryan,1,,United States,Nenhum
 Lionel Richie,Katy Perry,2,,United States,Pop
 Lionel Richie,Lady Gaga,2,,United States,Pop
 Lionel Richie,Adele,1,,Nenhum,Pop
-Lionel Richie,Drake,1,,Nenhum,"R&B, Pop"
+Lionel Richie,Drake,1,,Nenhum,"Pop, R&B"
 Lionel Richie,Justin Bieber,1,,Nenhum,Pop
 Lionel Richie,Bruno Mars,2,,United States,R&B
 Lionel Richie,Nicki Minaj,1,,Nenhum,Pop
 Lionel Richie,Ed Sheeran,1,,Nenhum,Pop
 Lionel Richie,Imagine Dragons,2,,United States,Pop
-Lionel Richie,Ariana Grande,2,,United States,"R&B, Pop"
-Lionel Richie,The Weeknd,1,,Nenhum,"R&B, Pop"
-Lionel Richie,Post Malone,2,,United States,"R&B, Pop"
+Lionel Richie,Ariana Grande,2,,United States,"Pop, R&B"
+Lionel Richie,The Weeknd,1,,Nenhum,"Pop, R&B"
+Lionel Richie,Post Malone,2,,United States,"Pop, R&B"
 Janet Jackson,U2,1,1980,Nenhum,Nenhum
 Janet Jackson,Phil Collins,1,1980,Nenhum,Nenhum
 Janet Jackson,Madonna,3,1980,United States,Pop
 Janet Jackson,Metallica,2,1980,United States,Nenhum
 Janet Jackson,Bon Jovi,2,1980,United States,Nenhum
 Janet Jackson,R.E.M.,2,1980,United States,Nenhum
-Janet Jackson,Whitney Houston,3,1980,United States,"R&B, Pop"
+Janet Jackson,Whitney Houston,3,1980,United States,"Pop, R&B"
 Janet Jackson,George Strait,2,1980,United States,Nenhum
 Janet Jackson,George Michael,2,1980,Nenhum,Pop
 Janet Jackson,Gloria Estefan,2,1980,United States,Nenhum
@@ -3723,47 +3723,47 @@ Janet Jackson,Guns N' Roses,2,1980,United States,Nenhum
 Janet Jackson,Enya,1,1980,Nenhum,Nenhum
 Janet Jackson,B'z,1,1980,Nenhum,Nenhum
 Janet Jackson,Garth Brooks,2,1980,United States,Nenhum
-Janet Jackson,Mariah Carey,2,,United States,"R&B, Pop"
+Janet Jackson,Mariah Carey,2,,United States,"Pop, R&B"
 Janet Jackson,Nirvana,1,,United States,Nenhum
 Janet Jackson,Tupac Shakur,1,,United States,Nenhum
 Janet Jackson,R. Kelly,2,,United States,R&B
 Janet Jackson,Tim McGraw,1,,United States,Nenhum
-Janet Jackson,Usher,2,,United States,"R&B, Pop"
+Janet Jackson,Usher,2,,United States,"Pop, R&B"
 Janet Jackson,Green Day,1,,United States,Nenhum
 Janet Jackson,Backstreet Boys,2,,United States,Pop
 Janet Jackson,Shakira,1,,Nenhum,Pop
 Janet Jackson,Jay-Z,1,,United States,Nenhum
 Janet Jackson,Britney Spears,2,,United States,Pop
-Janet Jackson,Christina Aguilera,2,,United States,"R&B, Pop"
+Janet Jackson,Christina Aguilera,2,,United States,"Pop, R&B"
 Janet Jackson,The Black Eyed Peas,2,,United States,R&B
 Janet Jackson,Ayumi Hamasaki,1,,Nenhum,Pop
 Janet Jackson,Eminem,1,,United States,Nenhum
 Janet Jackson,Lil Wayne,1,,United States,Nenhum
 Janet Jackson,Coldplay,1,,Nenhum,Pop
 Janet Jackson,Linkin Park,1,,United States,Nenhum
-Janet Jackson,Pink,2,,United States,"R&B, Pop"
-Janet Jackson,Alicia Keys,2,,United States,"R&B, Pop"
-Janet Jackson,Beyoncé,2,,United States,"R&B, Pop"
+Janet Jackson,Pink,2,,United States,"Pop, R&B"
+Janet Jackson,Alicia Keys,2,,United States,"Pop, R&B"
+Janet Jackson,Beyoncé,2,,United States,"Pop, R&B"
 Janet Jackson,Maroon 5,1,,United States,Nenhum
-Janet Jackson,Justin Timberlake,2,,United States,"R&B, Pop"
+Janet Jackson,Justin Timberlake,2,,United States,"Pop, R&B"
 Janet Jackson,Kanye West,2,,United States,Pop
-Janet Jackson,Rihanna,1,,Nenhum,"R&B, Pop"
-Janet Jackson,Chris Brown,2,,United States,"R&B, Pop"
+Janet Jackson,Rihanna,1,,Nenhum,"Pop, R&B"
+Janet Jackson,Chris Brown,2,,United States,"Pop, R&B"
 Janet Jackson,Taylor Swift,2,,United States,Pop
 Janet Jackson,Flo Rida,1,,United States,Nenhum
 Janet Jackson,Luke Bryan,1,,United States,Nenhum
 Janet Jackson,Katy Perry,2,,United States,Pop
 Janet Jackson,Lady Gaga,2,,United States,Pop
 Janet Jackson,Adele,1,,Nenhum,Pop
-Janet Jackson,Drake,1,,Nenhum,"R&B, Pop"
+Janet Jackson,Drake,1,,Nenhum,"Pop, R&B"
 Janet Jackson,Justin Bieber,1,,Nenhum,Pop
 Janet Jackson,Bruno Mars,2,,United States,R&B
 Janet Jackson,Nicki Minaj,1,,Nenhum,Pop
 Janet Jackson,Ed Sheeran,1,,Nenhum,Pop
 Janet Jackson,Imagine Dragons,2,,United States,Pop
-Janet Jackson,Ariana Grande,2,,United States,"R&B, Pop"
-Janet Jackson,The Weeknd,1,,Nenhum,"R&B, Pop"
-Janet Jackson,Post Malone,2,,United States,"R&B, Pop"
+Janet Jackson,Ariana Grande,2,,United States,"Pop, R&B"
+Janet Jackson,The Weeknd,1,,Nenhum,"Pop, R&B"
+Janet Jackson,Post Malone,2,,United States,"Pop, R&B"
 Madonna,U2,1,1980,Nenhum,Nenhum
 Madonna,Phil Collins,1,1980,Nenhum,Nenhum
 Madonna,Metallica,2,1980,United States,Nenhum
@@ -3789,10 +3789,10 @@ Madonna,Green Day,1,,United States,Nenhum
 Madonna,Backstreet Boys,2,,United States,Pop
 Madonna,Shakira,1,,Nenhum,Pop
 Madonna,Jay-Z,1,,United States,Nenhum
-Madonna,Britney Spears,2,,United States,"Pop, Dance"
+Madonna,Britney Spears,2,,United States,"Dance, Pop"
 Madonna,Christina Aguilera,2,,United States,Pop
 Madonna,The Black Eyed Peas,2,,United States,Dance
-Madonna,Ayumi Hamasaki,1,,Nenhum,"Pop, Dance"
+Madonna,Ayumi Hamasaki,1,,Nenhum,"Dance, Pop"
 Madonna,Eminem,1,,United States,Nenhum
 Madonna,Lil Wayne,1,,United States,Nenhum
 Madonna,Coldplay,1,,Nenhum,Pop
@@ -3803,13 +3803,13 @@ Madonna,Beyoncé,2,,United States,Pop
 Madonna,Maroon 5,1,,United States,Nenhum
 Madonna,Justin Timberlake,2,,United States,Pop
 Madonna,Kanye West,2,,United States,Pop
-Madonna,Rihanna,1,,Nenhum,"Pop, Dance"
+Madonna,Rihanna,1,,Nenhum,"Dance, Pop"
 Madonna,Chris Brown,2,,United States,Pop
 Madonna,Taylor Swift,2,,United States,Pop
 Madonna,Flo Rida,1,,United States,Nenhum
 Madonna,Luke Bryan,1,,United States,Nenhum
 Madonna,Katy Perry,2,,United States,Pop
-Madonna,Lady Gaga,2,,United States,"Pop, Dance"
+Madonna,Lady Gaga,2,,United States,"Dance, Pop"
 Madonna,Adele,1,,Nenhum,Pop
 Madonna,Drake,1,,Nenhum,Pop
 Madonna,Justin Bieber,1,,Nenhum,Pop
@@ -3968,47 +3968,47 @@ Whitney Houston,Guns N' Roses,2,1980,United States,Nenhum
 Whitney Houston,Enya,1,1980,Nenhum,Nenhum
 Whitney Houston,B'z,1,1980,Nenhum,Nenhum
 Whitney Houston,Garth Brooks,2,1980,United States,Nenhum
-Whitney Houston,Mariah Carey,2,,United States,"R&B, Pop, Soul"
+Whitney Houston,Mariah Carey,2,,United States,"Pop, Soul, R&B"
 Whitney Houston,Nirvana,1,,United States,Nenhum
 Whitney Houston,Tupac Shakur,1,,United States,Nenhum
-Whitney Houston,R. Kelly,2,,United States,"R&B, Soul"
+Whitney Houston,R. Kelly,2,,United States,"Soul, R&B"
 Whitney Houston,Tim McGraw,1,,United States,Nenhum
-Whitney Houston,Usher,2,,United States,"R&B, Pop"
+Whitney Houston,Usher,2,,United States,"Pop, R&B"
 Whitney Houston,Green Day,1,,United States,Nenhum
 Whitney Houston,Backstreet Boys,2,,United States,Pop
 Whitney Houston,Shakira,1,,Nenhum,Pop
 Whitney Houston,Jay-Z,1,,United States,Nenhum
 Whitney Houston,Britney Spears,2,,United States,Pop
-Whitney Houston,Christina Aguilera,2,,United States,"R&B, Pop"
+Whitney Houston,Christina Aguilera,2,,United States,"Pop, R&B"
 Whitney Houston,The Black Eyed Peas,2,,United States,R&B
 Whitney Houston,Ayumi Hamasaki,1,,Nenhum,Pop
 Whitney Houston,Eminem,1,,United States,Nenhum
 Whitney Houston,Lil Wayne,1,,United States,Nenhum
 Whitney Houston,Coldplay,1,,Nenhum,Pop
 Whitney Houston,Linkin Park,1,,United States,Nenhum
-Whitney Houston,Pink,2,,United States,"R&B, Pop"
-Whitney Houston,Alicia Keys,2,,United States,"R&B, Pop"
-Whitney Houston,Beyoncé,2,,United States,"R&B, Pop"
+Whitney Houston,Pink,2,,United States,"Pop, R&B"
+Whitney Houston,Alicia Keys,2,,United States,"Pop, R&B"
+Whitney Houston,Beyoncé,2,,United States,"Pop, R&B"
 Whitney Houston,Maroon 5,1,,United States,Nenhum
-Whitney Houston,Justin Timberlake,2,,United States,"R&B, Pop"
+Whitney Houston,Justin Timberlake,2,,United States,"Pop, R&B"
 Whitney Houston,Kanye West,2,,United States,Pop
-Whitney Houston,Rihanna,1,,Nenhum,"R&B, Pop"
-Whitney Houston,Chris Brown,2,,United States,"R&B, Pop"
+Whitney Houston,Rihanna,1,,Nenhum,"Pop, R&B"
+Whitney Houston,Chris Brown,2,,United States,"Pop, R&B"
 Whitney Houston,Taylor Swift,2,,United States,Pop
 Whitney Houston,Flo Rida,1,,United States,Nenhum
 Whitney Houston,Luke Bryan,1,,United States,Nenhum
 Whitney Houston,Katy Perry,2,,United States,Pop
 Whitney Houston,Lady Gaga,2,,United States,Pop
 Whitney Houston,Adele,1,,Nenhum,"Pop, Soul"
-Whitney Houston,Drake,1,,Nenhum,"R&B, Pop"
+Whitney Houston,Drake,1,,Nenhum,"Pop, R&B"
 Whitney Houston,Justin Bieber,1,,Nenhum,Pop
 Whitney Houston,Bruno Mars,2,,United States,R&B
 Whitney Houston,Nicki Minaj,1,,Nenhum,Pop
 Whitney Houston,Ed Sheeran,1,,Nenhum,Pop
 Whitney Houston,Imagine Dragons,2,,United States,Pop
-Whitney Houston,Ariana Grande,2,,United States,"R&B, Pop"
-Whitney Houston,The Weeknd,1,,Nenhum,"R&B, Pop"
-Whitney Houston,Post Malone,2,,United States,"R&B, Pop"
+Whitney Houston,Ariana Grande,2,,United States,"Pop, R&B"
+Whitney Houston,The Weeknd,1,,Nenhum,"Pop, R&B"
+Whitney Houston,Post Malone,2,,United States,"Pop, R&B"
 George Strait,U2,1,1980,Nenhum,Nenhum
 George Strait,Phil Collins,1,1980,Nenhum,Nenhum
 George Strait,George Michael,1,1980,Nenhum,Nenhum
@@ -4214,7 +4214,7 @@ Red Hot Chili Peppers,Ariana Grande,1,,United States,Nenhum
 Red Hot Chili Peppers,Post Malone,1,,United States,Nenhum
 Guns N' Roses,Led Zeppelin,1,,Nenhum,Hard Rock
 Guns N' Roses,AC/DC,1,,Nenhum,Hard Rock
-Guns N' Roses,Def Leppard,1,,Nenhum,"Heavy Metal, Hard Rock"
+Guns N' Roses,Def Leppard,1,,Nenhum,"Hard Rock, Heavy Metal"
 Guns N' Roses,U2,1,1980,Nenhum,Nenhum
 Guns N' Roses,Phil Collins,1,1980,Nenhum,Nenhum
 Guns N' Roses,Enya,1,1980,Nenhum,Nenhum
@@ -4288,46 +4288,46 @@ Garth Brooks,Ariana Grande,1,,United States,Nenhum
 Garth Brooks,Post Malone,1,,United States,Nenhum
 Mariah Carey,Nirvana,2,1990,United States,Nenhum
 Mariah Carey,Tupac Shakur,3,1990,United States,Hip-Hop
-Mariah Carey,R. Kelly,3,1990,United States,"R&B, Soul, Hip-Hop"
+Mariah Carey,R. Kelly,3,1990,United States,"Hip-Hop, R&B, Soul"
 Mariah Carey,Shania Twain,1,1990,Nenhum,Nenhum
 Mariah Carey,Tim McGraw,2,1990,United States,Nenhum
-Mariah Carey,Usher,3,1990,United States,"R&B, Pop"
+Mariah Carey,Usher,3,1990,United States,"Pop, R&B"
 Mariah Carey,Green Day,2,1990,United States,Nenhum
 Mariah Carey,Backstreet Boys,3,1990,United States,Pop
 Mariah Carey,Shakira,2,1990,Nenhum,Pop
 Mariah Carey,Jay-Z,3,1990,United States,Hip-Hop
 Mariah Carey,Robbie Williams,1,1990,Nenhum,Nenhum
 Mariah Carey,Britney Spears,3,1990,United States,Pop
-Mariah Carey,Christina Aguilera,3,1990,United States,"R&B, Pop"
-Mariah Carey,The Black Eyed Peas,3,1990,United States,"R&B, Hip-Hop"
+Mariah Carey,Christina Aguilera,3,1990,United States,"Pop, R&B"
+Mariah Carey,The Black Eyed Peas,3,1990,United States,"Hip-Hop, R&B"
 Mariah Carey,Ayumi Hamasaki,2,1990,Nenhum,Pop
 Mariah Carey,Eminem,3,1990,United States,Hip-Hop
 Mariah Carey,Lil Wayne,3,1990,United States,Hip-Hop
 Mariah Carey,Coldplay,2,1990,Nenhum,Pop
 Mariah Carey,Linkin Park,1,,United States,Nenhum
-Mariah Carey,Pink,2,,United States,"R&B, Pop"
-Mariah Carey,Alicia Keys,2,,United States,"R&B, Pop, Hip-Hop"
-Mariah Carey,Beyoncé,2,,United States,"R&B, Pop, Hip-Hop"
+Mariah Carey,Pink,2,,United States,"Pop, R&B"
+Mariah Carey,Alicia Keys,2,,United States,"Pop, Hip-Hop, R&B"
+Mariah Carey,Beyoncé,2,,United States,"Pop, Hip-Hop, R&B"
 Mariah Carey,Maroon 5,1,,United States,Nenhum
-Mariah Carey,Justin Timberlake,2,,United States,"R&B, Pop"
+Mariah Carey,Justin Timberlake,2,,United States,"Pop, R&B"
 Mariah Carey,Kanye West,2,,United States,"Pop, Hip-Hop"
-Mariah Carey,Rihanna,1,,Nenhum,"R&B, Pop, Hip-Hop"
-Mariah Carey,Chris Brown,2,,United States,"R&B, Pop, Hip-Hop"
+Mariah Carey,Rihanna,1,,Nenhum,"Pop, Hip-Hop, R&B"
+Mariah Carey,Chris Brown,2,,United States,"Pop, Hip-Hop, R&B"
 Mariah Carey,Taylor Swift,2,,United States,Pop
 Mariah Carey,Flo Rida,2,,United States,Hip-Hop
 Mariah Carey,Luke Bryan,1,,United States,Nenhum
 Mariah Carey,Katy Perry,2,,United States,Pop
 Mariah Carey,Lady Gaga,2,,United States,Pop
 Mariah Carey,Adele,1,,Nenhum,"Pop, Soul"
-Mariah Carey,Drake,1,,Nenhum,"R&B, Pop, Hip-Hop"
+Mariah Carey,Drake,1,,Nenhum,"Pop, Hip-Hop, R&B"
 Mariah Carey,Justin Bieber,1,,Nenhum,Pop
 Mariah Carey,Bruno Mars,2,,United States,R&B
 Mariah Carey,Nicki Minaj,1,,Nenhum,"Pop, Hip-Hop"
 Mariah Carey,Ed Sheeran,1,,Nenhum,Pop
 Mariah Carey,Imagine Dragons,2,,United States,Pop
-Mariah Carey,Ariana Grande,2,,United States,"R&B, Pop"
-Mariah Carey,The Weeknd,1,,Nenhum,"R&B, Pop"
-Mariah Carey,Post Malone,2,,United States,"R&B, Pop, Hip-Hop"
+Mariah Carey,Ariana Grande,2,,United States,"Pop, R&B"
+Mariah Carey,The Weeknd,1,,Nenhum,"Pop, R&B"
+Mariah Carey,Post Malone,2,,United States,"Pop, Hip-Hop, R&B"
 Nirvana,Tupac Shakur,2,1990,United States,Nenhum
 Nirvana,R. Kelly,2,1990,United States,Nenhum
 Nirvana,Shania Twain,1,1990,Nenhum,Nenhum
@@ -4408,33 +4408,33 @@ R. Kelly,Jay-Z,3,1990,United States,Hip-Hop
 R. Kelly,Robbie Williams,1,1990,Nenhum,Nenhum
 R. Kelly,Britney Spears,2,1990,United States,Nenhum
 R. Kelly,Christina Aguilera,3,1990,United States,R&B
-R. Kelly,The Black Eyed Peas,3,1990,United States,"R&B, Hip-Hop"
+R. Kelly,The Black Eyed Peas,3,1990,United States,"Hip-Hop, R&B"
 R. Kelly,Ayumi Hamasaki,1,1990,Nenhum,Nenhum
 R. Kelly,Eminem,3,1990,United States,Hip-Hop
 R. Kelly,Lil Wayne,3,1990,United States,Hip-Hop
 R. Kelly,Coldplay,1,1990,Nenhum,Nenhum
 R. Kelly,Linkin Park,1,,United States,Nenhum
 R. Kelly,Pink,2,,United States,R&B
-R. Kelly,Alicia Keys,2,,United States,"R&B, Hip-Hop"
-R. Kelly,Beyoncé,2,,United States,"R&B, Hip-Hop"
+R. Kelly,Alicia Keys,2,,United States,"Hip-Hop, R&B"
+R. Kelly,Beyoncé,2,,United States,"Hip-Hop, R&B"
 R. Kelly,Maroon 5,1,,United States,Nenhum
 R. Kelly,Justin Timberlake,2,,United States,R&B
 R. Kelly,Kanye West,2,,United States,Hip-Hop
-R. Kelly,Rihanna,1,,Nenhum,"R&B, Hip-Hop"
-R. Kelly,Chris Brown,2,,United States,"R&B, Hip-Hop"
+R. Kelly,Rihanna,1,,Nenhum,"Hip-Hop, R&B"
+R. Kelly,Chris Brown,2,,United States,"Hip-Hop, R&B"
 R. Kelly,Taylor Swift,1,,United States,Nenhum
 R. Kelly,Flo Rida,2,,United States,Hip-Hop
 R. Kelly,Luke Bryan,1,,United States,Nenhum
 R. Kelly,Katy Perry,1,,United States,Nenhum
 R. Kelly,Lady Gaga,1,,United States,Nenhum
 R. Kelly,Adele,1,,Nenhum,Soul
-R. Kelly,Drake,1,,Nenhum,"R&B, Hip-Hop"
+R. Kelly,Drake,1,,Nenhum,"Hip-Hop, R&B"
 R. Kelly,Bruno Mars,2,,United States,R&B
 R. Kelly,Nicki Minaj,1,,Nenhum,Hip-Hop
 R. Kelly,Imagine Dragons,1,,United States,Nenhum
 R. Kelly,Ariana Grande,2,,United States,R&B
 R. Kelly,The Weeknd,1,,Nenhum,R&B
-R. Kelly,Post Malone,2,,United States,"R&B, Hip-Hop"
+R. Kelly,Post Malone,2,,United States,"Hip-Hop, R&B"
 Tim McGraw,Shania Twain,1,1990,Nenhum,Nenhum
 Tim McGraw,Usher,2,1990,United States,Nenhum
 Tim McGraw,Green Day,2,1990,United States,Nenhum
@@ -4473,36 +4473,36 @@ Usher,Shakira,2,1990,Nenhum,Pop
 Usher,Jay-Z,2,1990,United States,Nenhum
 Usher,Robbie Williams,1,1990,Nenhum,Nenhum
 Usher,Britney Spears,3,1990,United States,Pop
-Usher,Christina Aguilera,3,1990,United States,"R&B, Pop"
+Usher,Christina Aguilera,3,1990,United States,"Pop, R&B"
 Usher,The Black Eyed Peas,3,1990,United States,R&B
 Usher,Ayumi Hamasaki,2,1990,Nenhum,Pop
 Usher,Eminem,2,1990,United States,Nenhum
 Usher,Lil Wayne,2,1990,United States,Nenhum
 Usher,Coldplay,2,1990,Nenhum,Pop
 Usher,Linkin Park,1,,United States,Nenhum
-Usher,Pink,2,,United States,"R&B, Pop"
-Usher,Alicia Keys,2,,United States,"R&B, Pop"
-Usher,Beyoncé,2,,United States,"R&B, Pop"
+Usher,Pink,2,,United States,"Pop, R&B"
+Usher,Alicia Keys,2,,United States,"Pop, R&B"
+Usher,Beyoncé,2,,United States,"Pop, R&B"
 Usher,Maroon 5,1,,United States,Nenhum
-Usher,Justin Timberlake,2,,United States,"R&B, Pop"
+Usher,Justin Timberlake,2,,United States,"Pop, R&B"
 Usher,Kanye West,2,,United States,Pop
-Usher,Rihanna,1,,Nenhum,"R&B, Pop"
-Usher,Chris Brown,2,,United States,"R&B, Pop"
+Usher,Rihanna,1,,Nenhum,"Pop, R&B"
+Usher,Chris Brown,2,,United States,"Pop, R&B"
 Usher,Taylor Swift,2,,United States,Pop
 Usher,Flo Rida,1,,United States,Nenhum
 Usher,Luke Bryan,1,,United States,Nenhum
 Usher,Katy Perry,2,,United States,Pop
 Usher,Lady Gaga,2,,United States,Pop
 Usher,Adele,1,,Nenhum,Pop
-Usher,Drake,1,,Nenhum,"R&B, Pop"
+Usher,Drake,1,,Nenhum,"Pop, R&B"
 Usher,Justin Bieber,1,,Nenhum,Pop
 Usher,Bruno Mars,2,,United States,R&B
 Usher,Nicki Minaj,1,,Nenhum,Pop
 Usher,Ed Sheeran,1,,Nenhum,Pop
 Usher,Imagine Dragons,2,,United States,Pop
-Usher,Ariana Grande,2,,United States,"R&B, Pop"
-Usher,The Weeknd,1,,Nenhum,"R&B, Pop"
-Usher,Post Malone,2,,United States,"R&B, Pop"
+Usher,Ariana Grande,2,,United States,"Pop, R&B"
+Usher,The Weeknd,1,,Nenhum,"Pop, R&B"
+Usher,Post Malone,2,,United States,"Pop, R&B"
 Green Day,Shania Twain,1,1990,Nenhum,Nenhum
 Green Day,Backstreet Boys,2,1990,United States,Nenhum
 Green Day,Shakira,1,1990,Nenhum,Nenhum
@@ -4579,7 +4579,7 @@ Shakira,Ayumi Hamasaki,2,1990,Nenhum,Pop
 Shakira,Eminem,1,1990,Nenhum,Nenhum
 Shakira,Lil Wayne,1,1990,Nenhum,Nenhum
 Shakira,Coldplay,2,1990,Nenhum,"Pop Rock, Pop"
-Shakira,Pink,1,,Nenhum,"Pop, Pop Rock"
+Shakira,Pink,1,,Nenhum,"Pop Rock, Pop"
 Shakira,Alicia Keys,1,,Nenhum,Pop
 Shakira,Beyoncé,1,,Nenhum,Pop
 Shakira,Maroon 5,1,,Nenhum,Pop Rock
@@ -4633,7 +4633,7 @@ Britney Spears,Shania Twain,1,1990,Nenhum,Nenhum
 Britney Spears,Robbie Williams,1,1990,Nenhum,Nenhum
 Britney Spears,Christina Aguilera,3,1990,United States,Pop
 Britney Spears,The Black Eyed Peas,3,1990,United States,Dance
-Britney Spears,Ayumi Hamasaki,2,1990,Nenhum,"Pop, Dance"
+Britney Spears,Ayumi Hamasaki,2,1990,Nenhum,"Dance, Pop"
 Britney Spears,Eminem,2,1990,United States,Nenhum
 Britney Spears,Lil Wayne,2,1990,United States,Nenhum
 Britney Spears,Coldplay,2,1990,Nenhum,Pop
@@ -4644,16 +4644,16 @@ Britney Spears,Beyoncé,2,,United States,Pop
 Britney Spears,Maroon 5,2,,United States,Dance-Pop
 Britney Spears,Justin Timberlake,2,,United States,Pop
 Britney Spears,Kanye West,2,,United States,Pop
-Britney Spears,Rihanna,1,,Nenhum,"Pop, Dance"
+Britney Spears,Rihanna,1,,Nenhum,"Dance, Pop"
 Britney Spears,Chris Brown,2,,United States,Pop
 Britney Spears,Taylor Swift,2,,United States,Pop
 Britney Spears,Flo Rida,1,,United States,Nenhum
 Britney Spears,Luke Bryan,1,,United States,Nenhum
 Britney Spears,Katy Perry,2,,United States,Pop
-Britney Spears,Lady Gaga,2,,United States,"Pop, Dance"
+Britney Spears,Lady Gaga,2,,United States,"Dance, Pop"
 Britney Spears,Adele,1,,Nenhum,Pop
 Britney Spears,Drake,1,,Nenhum,Pop
-Britney Spears,Justin Bieber,1,,Nenhum,"Pop, Dance-Pop"
+Britney Spears,Justin Bieber,1,,Nenhum,"Dance-Pop, Pop"
 Britney Spears,Bruno Mars,1,,United States,Nenhum
 Britney Spears,Nicki Minaj,1,,Nenhum,Pop
 Britney Spears,Ed Sheeran,1,,Nenhum,Pop
@@ -4678,29 +4678,29 @@ Christina Aguilera,Eminem,2,1990,United States,Nenhum
 Christina Aguilera,Lil Wayne,2,1990,United States,Nenhum
 Christina Aguilera,Coldplay,2,1990,Nenhum,Pop
 Christina Aguilera,Linkin Park,1,,United States,Nenhum
-Christina Aguilera,Pink,2,,United States,"R&B, Pop"
-Christina Aguilera,Alicia Keys,2,,United States,"R&B, Pop"
-Christina Aguilera,Beyoncé,2,,United States,"R&B, Pop"
+Christina Aguilera,Pink,2,,United States,"Pop, R&B"
+Christina Aguilera,Alicia Keys,2,,United States,"Pop, R&B"
+Christina Aguilera,Beyoncé,2,,United States,"Pop, R&B"
 Christina Aguilera,Maroon 5,1,,United States,Nenhum
-Christina Aguilera,Justin Timberlake,2,,United States,"R&B, Pop"
+Christina Aguilera,Justin Timberlake,2,,United States,"Pop, R&B"
 Christina Aguilera,Kanye West,2,,United States,Pop
-Christina Aguilera,Rihanna,1,,Nenhum,"R&B, Pop"
-Christina Aguilera,Chris Brown,2,,United States,"R&B, Pop"
+Christina Aguilera,Rihanna,1,,Nenhum,"Pop, R&B"
+Christina Aguilera,Chris Brown,2,,United States,"Pop, R&B"
 Christina Aguilera,Taylor Swift,2,,United States,"Pop, Rock"
 Christina Aguilera,Flo Rida,1,,United States,Nenhum
 Christina Aguilera,Luke Bryan,1,,United States,Nenhum
 Christina Aguilera,Katy Perry,2,,United States,Pop
 Christina Aguilera,Lady Gaga,2,,United States,Pop
 Christina Aguilera,Adele,1,,Nenhum,Pop
-Christina Aguilera,Drake,1,,Nenhum,"R&B, Pop"
+Christina Aguilera,Drake,1,,Nenhum,"Pop, R&B"
 Christina Aguilera,Justin Bieber,1,,Nenhum,Pop
 Christina Aguilera,Bruno Mars,2,,United States,R&B
 Christina Aguilera,Nicki Minaj,1,,Nenhum,Pop
 Christina Aguilera,Ed Sheeran,1,,Nenhum,Pop
 Christina Aguilera,Imagine Dragons,2,,United States,Pop
-Christina Aguilera,Ariana Grande,2,,United States,"R&B, Pop"
-Christina Aguilera,The Weeknd,1,,Nenhum,"R&B, Pop"
-Christina Aguilera,Post Malone,2,,United States,"R&B, Pop"
+Christina Aguilera,Ariana Grande,2,,United States,"Pop, R&B"
+Christina Aguilera,The Weeknd,1,,Nenhum,"Pop, R&B"
+Christina Aguilera,Post Malone,2,,United States,"Pop, R&B"
 The Black Eyed Peas,Shania Twain,1,1990,Nenhum,Nenhum
 The Black Eyed Peas,Robbie Williams,1,1990,Nenhum,Nenhum
 The Black Eyed Peas,Ayumi Hamasaki,2,1990,Nenhum,Dance
@@ -4709,25 +4709,25 @@ The Black Eyed Peas,Lil Wayne,3,1990,United States,Hip-Hop
 The Black Eyed Peas,Coldplay,1,1990,Nenhum,Nenhum
 The Black Eyed Peas,Linkin Park,1,,United States,Nenhum
 The Black Eyed Peas,Pink,2,,United States,R&B
-The Black Eyed Peas,Alicia Keys,2,,United States,"R&B, Hip-Hop"
-The Black Eyed Peas,Beyoncé,2,,United States,"R&B, Hip-Hop"
+The Black Eyed Peas,Alicia Keys,2,,United States,"Hip-Hop, R&B"
+The Black Eyed Peas,Beyoncé,2,,United States,"Hip-Hop, R&B"
 The Black Eyed Peas,Maroon 5,1,,United States,Nenhum
 The Black Eyed Peas,Justin Timberlake,2,,United States,R&B
 The Black Eyed Peas,Kanye West,2,,United States,Hip-Hop
-The Black Eyed Peas,Rihanna,1,,Nenhum,"R&B, Hip-Hop, Dance"
-The Black Eyed Peas,Chris Brown,2,,United States,"R&B, Hip-Hop"
+The Black Eyed Peas,Rihanna,1,,Nenhum,"Dance, Hip-Hop, R&B"
+The Black Eyed Peas,Chris Brown,2,,United States,"Hip-Hop, R&B"
 The Black Eyed Peas,Taylor Swift,1,,United States,Nenhum
 The Black Eyed Peas,Flo Rida,2,,United States,Hip-Hop
 The Black Eyed Peas,Luke Bryan,1,,United States,Nenhum
 The Black Eyed Peas,Katy Perry,1,,United States,Nenhum
 The Black Eyed Peas,Lady Gaga,2,,United States,Dance
-The Black Eyed Peas,Drake,1,,Nenhum,"R&B, Hip-Hop"
+The Black Eyed Peas,Drake,1,,Nenhum,"Hip-Hop, R&B"
 The Black Eyed Peas,Bruno Mars,2,,United States,R&B
 The Black Eyed Peas,Nicki Minaj,1,,Nenhum,Hip-Hop
 The Black Eyed Peas,Imagine Dragons,1,,United States,Nenhum
 The Black Eyed Peas,Ariana Grande,2,,United States,R&B
 The Black Eyed Peas,The Weeknd,1,,Nenhum,R&B
-The Black Eyed Peas,Post Malone,2,,United States,"R&B, Hip-Hop"
+The Black Eyed Peas,Post Malone,2,,United States,"Hip-Hop, R&B"
 Ayumi Hamasaki,B'z,1,,Japan,Nenhum
 Ayumi Hamasaki,Shania Twain,1,1990,Nenhum,Nenhum
 Ayumi Hamasaki,Robbie Williams,1,1990,Nenhum,Nenhum
@@ -4739,11 +4739,11 @@ Ayumi Hamasaki,Alicia Keys,1,,Nenhum,Pop
 Ayumi Hamasaki,Beyoncé,1,,Nenhum,Pop
 Ayumi Hamasaki,Justin Timberlake,1,,Nenhum,Pop
 Ayumi Hamasaki,Kanye West,1,,Nenhum,"Electronic, Pop"
-Ayumi Hamasaki,Rihanna,1,,Nenhum,"Pop, Dance"
+Ayumi Hamasaki,Rihanna,1,,Nenhum,"Dance, Pop"
 Ayumi Hamasaki,Chris Brown,1,,Nenhum,Pop
 Ayumi Hamasaki,Taylor Swift,1,,Nenhum,Pop
 Ayumi Hamasaki,Katy Perry,1,,Nenhum,Pop
-Ayumi Hamasaki,Lady Gaga,1,,Nenhum,"Electronic, Pop, Dance"
+Ayumi Hamasaki,Lady Gaga,1,,Nenhum,"Dance, Pop, Electronic"
 Ayumi Hamasaki,Adele,1,,Nenhum,Pop
 Ayumi Hamasaki,Drake,1,,Nenhum,Pop
 Ayumi Hamasaki,Justin Bieber,1,,Nenhum,Pop
@@ -4814,7 +4814,7 @@ Coldplay,B'z,1,,Nenhum,Pop Rock
 Coldplay,Shania Twain,1,1990,Nenhum,Nenhum
 Coldplay,Robbie Williams,3,1990,United Kingdom,Pop Rock
 Coldplay,Linkin Park,1,,Nenhum,Alternative Rock
-Coldplay,Pink,1,,Nenhum,"Pop, Pop Rock"
+Coldplay,Pink,1,,Nenhum,"Pop Rock, Pop"
 Coldplay,Alicia Keys,1,,Nenhum,Pop
 Coldplay,Beyoncé,1,,Nenhum,Pop
 Coldplay,Maroon 5,1,,Nenhum,Pop Rock
@@ -4858,69 +4858,69 @@ Linkin Park,Post Malone,1,,United States,Nenhum
 Pink,Genesis,1,,Nenhum,Pop Rock
 Pink,B'z,1,,Nenhum,Pop Rock
 Pink,Robbie Williams,1,,Nenhum,Pop Rock
-Pink,Alicia Keys,3,2000,United States,"R&B, Pop"
-Pink,Beyoncé,3,2000,United States,"R&B, Pop"
+Pink,Alicia Keys,3,2000,United States,"Pop, R&B"
+Pink,Beyoncé,3,2000,United States,"Pop, R&B"
 Pink,Maroon 5,3,2000,United States,Pop Rock
-Pink,Justin Timberlake,3,2000,United States,"R&B, Pop"
+Pink,Justin Timberlake,3,2000,United States,"Pop, R&B"
 Pink,Kanye West,3,2000,United States,Pop
-Pink,Rihanna,2,2000,Nenhum,"R&B, Pop"
-Pink,Chris Brown,3,2000,United States,"R&B, Pop"
+Pink,Rihanna,2,2000,Nenhum,"Pop, R&B"
+Pink,Chris Brown,3,2000,United States,"Pop, R&B"
 Pink,Taylor Swift,3,2000,United States,Pop
 Pink,Flo Rida,2,2000,United States,Nenhum
 Pink,Luke Bryan,2,2000,United States,Nenhum
 Pink,Katy Perry,3,2000,United States,Pop
 Pink,Lady Gaga,3,2000,United States,Pop
 Pink,Adele,2,2000,Nenhum,Pop
-Pink,Drake,2,2000,Nenhum,"R&B, Pop"
+Pink,Drake,2,2000,Nenhum,"Pop, R&B"
 Pink,Justin Bieber,2,2000,Nenhum,Pop
-Pink,Bruno Mars,2,,United States,"R&B, Pop Rock"
+Pink,Bruno Mars,2,,United States,"Pop Rock, R&B"
 Pink,Nicki Minaj,1,,Nenhum,Pop
 Pink,Ed Sheeran,1,,Nenhum,Pop
 Pink,Imagine Dragons,2,,United States,"Pop Rock, Pop"
-Pink,Ariana Grande,2,,United States,"R&B, Pop"
-Pink,The Weeknd,1,,Nenhum,"R&B, Pop"
-Pink,Post Malone,2,,United States,"R&B, Pop"
-Alicia Keys,Beyoncé,3,2000,United States,"R&B, Pop, Hip-Hop"
+Pink,Ariana Grande,2,,United States,"Pop, R&B"
+Pink,The Weeknd,1,,Nenhum,"Pop, R&B"
+Pink,Post Malone,2,,United States,"Pop, R&B"
+Alicia Keys,Beyoncé,3,2000,United States,"Pop, Hip-Hop, R&B"
 Alicia Keys,Maroon 5,2,2000,United States,Nenhum
-Alicia Keys,Justin Timberlake,3,2000,United States,"R&B, Pop"
+Alicia Keys,Justin Timberlake,3,2000,United States,"Pop, R&B"
 Alicia Keys,Kanye West,3,2000,United States,"Pop, Hip-Hop"
-Alicia Keys,Rihanna,2,2000,Nenhum,"R&B, Pop, Hip-Hop"
-Alicia Keys,Chris Brown,3,2000,United States,"R&B, Pop, Hip-Hop"
+Alicia Keys,Rihanna,2,2000,Nenhum,"Pop, Hip-Hop, R&B"
+Alicia Keys,Chris Brown,3,2000,United States,"Pop, Hip-Hop, R&B"
 Alicia Keys,Taylor Swift,3,2000,United States,Pop
 Alicia Keys,Flo Rida,3,2000,United States,Hip-Hop
 Alicia Keys,Luke Bryan,2,2000,United States,Nenhum
 Alicia Keys,Katy Perry,3,2000,United States,Pop
 Alicia Keys,Lady Gaga,3,2000,United States,Pop
 Alicia Keys,Adele,2,2000,Nenhum,Pop
-Alicia Keys,Drake,2,2000,Nenhum,"R&B, Pop, Hip-Hop"
+Alicia Keys,Drake,2,2000,Nenhum,"Pop, Hip-Hop, R&B"
 Alicia Keys,Justin Bieber,2,2000,Nenhum,Pop
 Alicia Keys,Bruno Mars,2,,United States,R&B
 Alicia Keys,Nicki Minaj,1,,Nenhum,"Pop, Hip-Hop"
 Alicia Keys,Ed Sheeran,1,,Nenhum,Pop
 Alicia Keys,Imagine Dragons,2,,United States,Pop
-Alicia Keys,Ariana Grande,2,,United States,"R&B, Pop"
-Alicia Keys,The Weeknd,1,,Nenhum,"R&B, Pop"
-Alicia Keys,Post Malone,2,,United States,"R&B, Pop, Hip-Hop"
+Alicia Keys,Ariana Grande,2,,United States,"Pop, R&B"
+Alicia Keys,The Weeknd,1,,Nenhum,"Pop, R&B"
+Alicia Keys,Post Malone,2,,United States,"Pop, Hip-Hop, R&B"
 Beyoncé,Maroon 5,2,2000,United States,Nenhum
-Beyoncé,Justin Timberlake,3,2000,United States,"R&B, Pop"
+Beyoncé,Justin Timberlake,3,2000,United States,"Pop, R&B"
 Beyoncé,Kanye West,3,2000,United States,"Pop, Hip-Hop"
-Beyoncé,Rihanna,2,2000,Nenhum,"R&B, Pop, Hip-Hop"
-Beyoncé,Chris Brown,3,2000,United States,"R&B, Pop, Hip-Hop"
+Beyoncé,Rihanna,2,2000,Nenhum,"Pop, Hip-Hop, R&B"
+Beyoncé,Chris Brown,3,2000,United States,"Pop, Hip-Hop, R&B"
 Beyoncé,Taylor Swift,3,2000,United States,Pop
 Beyoncé,Flo Rida,3,2000,United States,Hip-Hop
 Beyoncé,Luke Bryan,2,2000,United States,Nenhum
 Beyoncé,Katy Perry,3,2000,United States,Pop
 Beyoncé,Lady Gaga,3,2000,United States,Pop
 Beyoncé,Adele,2,2000,Nenhum,Pop
-Beyoncé,Drake,2,2000,Nenhum,"R&B, Pop, Hip-Hop"
+Beyoncé,Drake,2,2000,Nenhum,"Pop, Hip-Hop, R&B"
 Beyoncé,Justin Bieber,2,2000,Nenhum,Pop
 Beyoncé,Bruno Mars,2,,United States,R&B
 Beyoncé,Nicki Minaj,1,,Nenhum,"Pop, Hip-Hop"
 Beyoncé,Ed Sheeran,1,,Nenhum,Pop
 Beyoncé,Imagine Dragons,2,,United States,Pop
-Beyoncé,Ariana Grande,2,,United States,"R&B, Pop"
-Beyoncé,The Weeknd,1,,Nenhum,"R&B, Pop"
-Beyoncé,Post Malone,2,,United States,"R&B, Pop, Hip-Hop"
+Beyoncé,Ariana Grande,2,,United States,"Pop, R&B"
+Beyoncé,The Weeknd,1,,Nenhum,"Pop, R&B"
+Beyoncé,Post Malone,2,,United States,"Pop, Hip-Hop, R&B"
 Maroon 5,Genesis,1,,Nenhum,Pop Rock
 Maroon 5,B'z,1,,Nenhum,Pop Rock
 Maroon 5,Robbie Williams,1,,Nenhum,Pop Rock
@@ -4941,30 +4941,30 @@ Maroon 5,Imagine Dragons,2,,United States,Pop Rock
 Maroon 5,Ariana Grande,1,,United States,Nenhum
 Maroon 5,Post Malone,1,,United States,Nenhum
 Justin Timberlake,Kanye West,3,2000,United States,Pop
-Justin Timberlake,Rihanna,2,2000,Nenhum,"R&B, Pop"
-Justin Timberlake,Chris Brown,3,2000,United States,"R&B, Pop"
+Justin Timberlake,Rihanna,2,2000,Nenhum,"Pop, R&B"
+Justin Timberlake,Chris Brown,3,2000,United States,"Pop, R&B"
 Justin Timberlake,Taylor Swift,3,2000,United States,Pop
 Justin Timberlake,Flo Rida,2,2000,United States,Nenhum
 Justin Timberlake,Luke Bryan,2,2000,United States,Nenhum
 Justin Timberlake,Katy Perry,3,2000,United States,Pop
 Justin Timberlake,Lady Gaga,3,2000,United States,Pop
 Justin Timberlake,Adele,2,2000,Nenhum,Pop
-Justin Timberlake,Drake,2,2000,Nenhum,"R&B, Pop"
+Justin Timberlake,Drake,2,2000,Nenhum,"Pop, R&B"
 Justin Timberlake,Justin Bieber,2,2000,Nenhum,Pop
 Justin Timberlake,Bruno Mars,2,,United States,R&B
 Justin Timberlake,Nicki Minaj,1,,Nenhum,Pop
 Justin Timberlake,Ed Sheeran,1,,Nenhum,Pop
 Justin Timberlake,Imagine Dragons,2,,United States,Pop
-Justin Timberlake,Ariana Grande,2,,United States,"R&B, Pop"
-Justin Timberlake,The Weeknd,1,,Nenhum,"R&B, Pop"
-Justin Timberlake,Post Malone,2,,United States,"R&B, Pop"
+Justin Timberlake,Ariana Grande,2,,United States,"Pop, R&B"
+Justin Timberlake,The Weeknd,1,,Nenhum,"Pop, R&B"
+Justin Timberlake,Post Malone,2,,United States,"Pop, R&B"
 Kanye West,Rihanna,2,2000,Nenhum,"Pop, Hip-Hop"
 Kanye West,Chris Brown,3,2000,United States,"Pop, Hip-Hop"
 Kanye West,Taylor Swift,3,2000,United States,Pop
 Kanye West,Flo Rida,3,2000,United States,Hip-Hop
 Kanye West,Luke Bryan,2,2000,United States,Nenhum
 Kanye West,Katy Perry,3,2000,United States,Pop
-Kanye West,Lady Gaga,3,2000,United States,"Electronic, Pop"
+Kanye West,Lady Gaga,3,2000,United States,"Pop, Electronic"
 Kanye West,Adele,2,2000,Nenhum,Pop
 Kanye West,Drake,2,2000,Nenhum,"Pop, Hip-Hop"
 Kanye West,Justin Bieber,2,2000,Nenhum,Pop
@@ -4975,37 +4975,37 @@ Kanye West,Imagine Dragons,2,,United States,Pop
 Kanye West,Ariana Grande,2,,United States,Pop
 Kanye West,The Weeknd,1,,Nenhum,Pop
 Kanye West,Post Malone,2,,United States,"Pop, Hip-Hop"
-Rihanna,Chris Brown,2,2000,Nenhum,"R&B, Pop, Hip-Hop"
+Rihanna,Chris Brown,2,2000,Nenhum,"Pop, Hip-Hop, R&B"
 Rihanna,Taylor Swift,2,2000,Nenhum,Pop
 Rihanna,Flo Rida,2,2000,Nenhum,Hip-Hop
 Rihanna,Luke Bryan,1,2000,Nenhum,Nenhum
 Rihanna,Katy Perry,2,2000,Nenhum,Pop
-Rihanna,Lady Gaga,2,2000,Nenhum,"Pop, Dance"
+Rihanna,Lady Gaga,2,2000,Nenhum,"Dance, Pop"
 Rihanna,Adele,2,2000,Nenhum,Pop
-Rihanna,Drake,2,2000,Nenhum,"R&B, Pop, Hip-Hop"
+Rihanna,Drake,2,2000,Nenhum,"Pop, Hip-Hop, R&B"
 Rihanna,Justin Bieber,2,2000,Nenhum,Pop
 Rihanna,Bruno Mars,1,,Nenhum,R&B
 Rihanna,Nicki Minaj,1,,Nenhum,"Pop, Hip-Hop"
 Rihanna,Ed Sheeran,1,,Nenhum,Pop
 Rihanna,Imagine Dragons,1,,Nenhum,Pop
-Rihanna,Ariana Grande,1,,Nenhum,"R&B, Pop"
-Rihanna,The Weeknd,1,,Nenhum,"R&B, Pop"
-Rihanna,Post Malone,1,,Nenhum,"R&B, Pop, Hip-Hop"
+Rihanna,Ariana Grande,1,,Nenhum,"Pop, R&B"
+Rihanna,The Weeknd,1,,Nenhum,"Pop, R&B"
+Rihanna,Post Malone,1,,Nenhum,"Pop, Hip-Hop, R&B"
 Chris Brown,Taylor Swift,3,2000,United States,Pop
 Chris Brown,Flo Rida,3,2000,United States,Hip-Hop
 Chris Brown,Luke Bryan,2,2000,United States,Nenhum
 Chris Brown,Katy Perry,3,2000,United States,Pop
 Chris Brown,Lady Gaga,3,2000,United States,Pop
 Chris Brown,Adele,2,2000,Nenhum,Pop
-Chris Brown,Drake,2,2000,Nenhum,"R&B, Pop, Hip-Hop"
+Chris Brown,Drake,2,2000,Nenhum,"Pop, Hip-Hop, R&B"
 Chris Brown,Justin Bieber,2,2000,Nenhum,Pop
 Chris Brown,Bruno Mars,2,,United States,R&B
 Chris Brown,Nicki Minaj,1,,Nenhum,"Pop, Hip-Hop"
 Chris Brown,Ed Sheeran,1,,Nenhum,Pop
 Chris Brown,Imagine Dragons,2,,United States,Pop
-Chris Brown,Ariana Grande,2,,United States,"R&B, Pop"
-Chris Brown,The Weeknd,1,,Nenhum,"R&B, Pop"
-Chris Brown,Post Malone,2,,United States,"R&B, Pop, Hip-Hop"
+Chris Brown,Ariana Grande,2,,United States,"Pop, R&B"
+Chris Brown,The Weeknd,1,,Nenhum,"Pop, R&B"
+Chris Brown,Post Malone,2,,United States,"Pop, Hip-Hop, R&B"
 Taylor Swift,The Rolling Stones,1,,Nenhum,Rock
 Taylor Swift,Eric Clapton,1,,Nenhum,Rock
 Taylor Swift,Paul McCartney,1,,Nenhum,Rock
@@ -5097,9 +5097,9 @@ Drake,Bruno Mars,1,,Nenhum,R&B
 Drake,Nicki Minaj,1,,Nenhum,"Pop, Hip-Hop"
 Drake,Ed Sheeran,1,,Nenhum,Pop
 Drake,Imagine Dragons,1,,Nenhum,Pop
-Drake,Ariana Grande,1,,Nenhum,"R&B, Pop"
-Drake,The Weeknd,2,,Canada,"R&B, Pop"
-Drake,Post Malone,1,,Nenhum,"R&B, Pop, Hip-Hop"
+Drake,Ariana Grande,1,,Nenhum,"Pop, R&B"
+Drake,The Weeknd,2,,Canada,"Pop, R&B"
+Drake,Post Malone,1,,Nenhum,"Pop, Hip-Hop, R&B"
 Justin Bieber,Bryan Adams,1,,Canada,Nenhum
 Justin Bieber,Shania Twain,1,,Canada,Nenhum
 Justin Bieber,Nicki Minaj,1,,Nenhum,Pop
@@ -5143,11 +5143,11 @@ Imagine Dragons,Robbie Williams,1,,Nenhum,Pop Rock
 Imagine Dragons,Ariana Grande,3,2010,United States,Pop
 Imagine Dragons,The Weeknd,2,2010,Nenhum,Pop
 Imagine Dragons,Post Malone,3,2010,United States,Pop
-Ariana Grande,The Weeknd,2,2010,Nenhum,"R&B, Pop"
-Ariana Grande,Post Malone,3,2010,United States,"R&B, Pop"
+Ariana Grande,The Weeknd,2,2010,Nenhum,"Pop, R&B"
+Ariana Grande,Post Malone,3,2010,United States,"Pop, R&B"
 The Weeknd,Bryan Adams,1,,Canada,Nenhum
 The Weeknd,Shania Twain,1,,Canada,Nenhum
-The Weeknd,Post Malone,2,2010,Nenhum,"R&B, Pop"
+The Weeknd,Post Malone,2,2010,Nenhum,"Pop, R&B"
 AC/DC,The Rolling Stones,1,,Nenhum,Blues Rock
 AC/DC,Led Zeppelin,1,,Nenhum,"Blues Rock, Hard Rock"
 AC/DC,Eric Clapton,1,1970,Nenhum,Nenhum

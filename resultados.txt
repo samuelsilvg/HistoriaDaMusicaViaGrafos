@@ -1,0 +1,44 @@
+Década: 1950
+  1. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1950), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Country', 'Rock And Roll'))) (1 aparições)
+
+Década: 1960
+  1. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1960), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Rock',))) (27 aparições)
+  2. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1960), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop', 'Rock'))) (15 aparições)
+  3. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1960), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop',))) (13 aparições)
+  4. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1960), ('mesmo_pais', ('United Kingdom',)), ('mesmo_genero', ('Pop',))) (7 aparições)
+  5. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1960), ('mesmo_pais', ('United Kingdom',)), ('mesmo_genero', ('Rock',))) (3 aparições)
+
+Década: 1970
+  1. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1970), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Rock',))) (38 aparições)
+  2. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1970), ('mesmo_pais', ('United Kingdom',)), ('mesmo_genero', ('Rock',))) (20 aparições)
+  3. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1970), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop',))) (13 aparições)
+  4. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1970), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Hard Rock',))) (8 aparições)
+  5. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1970), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop', 'Rock'))) (5 aparições)
+
+Década: 1980
+  1. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1980), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Country',))) (3 aparições)
+  2. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1980), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop', 'R&B'))) (3 aparições)
+  3. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1980), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop',))) (3 aparições)
+  4. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1980), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Heavy Metal',))) (1 aparições)
+  5. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1980), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Hard Rock',))) (1 aparições)
+
+Década: 1990
+  1. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1990), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Hip-Hop',))) (18 aparições)
+  2. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1990), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop',))) (7 aparições)
+  3. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1990), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('R&B',))) (4 aparições)
+  4. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1990), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop', 'R&B'))) (3 aparições)
+  5. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 1990), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Hip-Hop', 'R&B'))) (2 aparições)
+
+Década: 2000
+  1. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 2000), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop',))) (22 aparições)
+  2. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 2000), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop', 'R&B'))) (7 aparições)
+  3. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 2000), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Hip-Hop',))) (4 aparições)
+  4. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 2000), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop', 'Hip-Hop', 'R&B'))) (3 aparições)
+  5. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 2000), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop', 'Hip-Hop'))) (3 aparições)
+
+Década: 2010
+  1. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 2010), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('R&B',))) (2 aparições)
+  2. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 2010), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop',))) (2 aparições)
+  3. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 2010), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop Rock',))) (1 aparições)
+  4. Conteúdo de aresta com weight 3: (('weight', 3), ('mesma_decada', 2010), ('mesmo_pais', ('United States',)), ('mesmo_genero', ('Pop', 'R&B'))) (1 aparições)
+

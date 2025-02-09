@@ -1,18 +1,18 @@
 Source,Target,Weight,Decada,Pais,Genero
 Mariah Carey,Nirvana,2,1990,United States,Nenhum
 Mariah Carey,Tupac Shakur,3,1990,United States,Hip-Hop
-Mariah Carey,R. Kelly,3,1990,United States,"R&B, Soul, Hip-Hop"
+Mariah Carey,R. Kelly,3,1990,United States,"Hip-Hop, R&B, Soul"
 Mariah Carey,Shania Twain,1,1990,Nenhum,Nenhum
 Mariah Carey,Tim McGraw,2,1990,United States,Nenhum
-Mariah Carey,Usher,3,1990,United States,"R&B, Pop"
+Mariah Carey,Usher,3,1990,United States,"Pop, R&B"
 Mariah Carey,Green Day,2,1990,United States,Nenhum
 Mariah Carey,Backstreet Boys,3,1990,United States,Pop
 Mariah Carey,Shakira,2,1990,Nenhum,Pop
 Mariah Carey,Jay-Z,3,1990,United States,Hip-Hop
 Mariah Carey,Robbie Williams,1,1990,Nenhum,Nenhum
 Mariah Carey,Britney Spears,3,1990,United States,Pop
-Mariah Carey,Christina Aguilera,3,1990,United States,"R&B, Pop"
-Mariah Carey,The Black Eyed Peas,3,1990,United States,"R&B, Hip-Hop"
+Mariah Carey,Christina Aguilera,3,1990,United States,"Pop, R&B"
+Mariah Carey,The Black Eyed Peas,3,1990,United States,"Hip-Hop, R&B"
 Mariah Carey,Ayumi Hamasaki,2,1990,Nenhum,Pop
 Mariah Carey,Eminem,3,1990,United States,Hip-Hop
 Mariah Carey,Lil Wayne,3,1990,United States,Hip-Hop
@@ -60,7 +60,7 @@ R. Kelly,Jay-Z,3,1990,United States,Hip-Hop
 R. Kelly,Robbie Williams,1,1990,Nenhum,Nenhum
 R. Kelly,Britney Spears,2,1990,United States,Nenhum
 R. Kelly,Christina Aguilera,3,1990,United States,R&B
-R. Kelly,The Black Eyed Peas,3,1990,United States,"R&B, Hip-Hop"
+R. Kelly,The Black Eyed Peas,3,1990,United States,"Hip-Hop, R&B"
 R. Kelly,Ayumi Hamasaki,1,1990,Nenhum,Nenhum
 R. Kelly,Eminem,3,1990,United States,Hip-Hop
 R. Kelly,Lil Wayne,3,1990,United States,Hip-Hop
@@ -98,7 +98,7 @@ Usher,Shakira,2,1990,Nenhum,Pop
 Usher,Jay-Z,2,1990,United States,Nenhum
 Usher,Robbie Williams,1,1990,Nenhum,Nenhum
 Usher,Britney Spears,3,1990,United States,Pop
-Usher,Christina Aguilera,3,1990,United States,"R&B, Pop"
+Usher,Christina Aguilera,3,1990,United States,"Pop, R&B"
 Usher,The Black Eyed Peas,3,1990,United States,R&B
 Usher,Ayumi Hamasaki,2,1990,Nenhum,Pop
 Usher,Eminem,2,1990,United States,Nenhum
@@ -151,7 +151,7 @@ Robbie Williams,Lil Wayne,1,1990,Nenhum,Nenhum
 Robbie Williams,Coldplay,3,1990,United Kingdom,Pop Rock
 Britney Spears,Christina Aguilera,3,1990,United States,Pop
 Britney Spears,The Black Eyed Peas,3,1990,United States,Dance
-Britney Spears,Ayumi Hamasaki,2,1990,Nenhum,"Pop, Dance"
+Britney Spears,Ayumi Hamasaki,2,1990,Nenhum,"Dance, Pop"
 Britney Spears,Eminem,2,1990,United States,Nenhum
 Britney Spears,Lil Wayne,2,1990,United States,Nenhum
 Britney Spears,Coldplay,2,1990,Nenhum,Pop
