@@ -10,7 +10,7 @@ A indústria musical e a música pop evoluíram muito com o passar dos anos, sem
 </p>
 
 ## Adendos:
-- Leia o artigo completo [aqui](https://github.com/samuelsilvg/HistoriaDaMusicaViaGrafos/blob/main/read_me/An%C3%A1lise%20Hist%C3%B3ria%20da%20Ind%C3%BAstria%20Musical%20via%20Grafos%20-%20Samuel%20Silva.pdf).
+- Leia o artigo completo [aqui](https://github.com/samuelsilvg/HistoriaDaMusicaViaGrafos/blob/main/read_me/An%C3%A1lise%20Hist%C3%B3rica%20da%20Ind%C3%BAstria%20Musical%20via%20Grafos%20-%20Samuel%20Silva.pdf).
 - Certifique-se de ter a versão mais recente do Python instalada, junto da biblioteca NetworkX. Caso não a possua, ela pode ser instalada [aqui](https://networkx.org/documentation/stable/install.html).
 - Cerifique-se de ter instalado o programa Gephi para a importação de arquivos .csv para a visualização dos grafos. Caso não o possua, ele pode ser instalado [aqui](https://gephi.org/users/download/).
 
